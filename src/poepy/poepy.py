@@ -60,7 +60,28 @@ class Poems(Alignments):
         for i, comp in enumerate(nx.connected_components(self.G)):
             self.comps[i+1] = list(comp)
 
-    #def pprint(self, stanzas):
-    #    table = []
-    #    for stanza in stanzas:
+    def pprint(self, *stanzas):
+        
+        for stanza in stanzas:
+            table = []
+            idxs = sorted(
+                    self.get_list(row=stanza, flat=True),
+                    key=lambda x: self[x, 'line_order'])
+            rhymeids = []
+            for rhymeid in [self[idx, 'rhymeids'] for idx in idxs]:
+                rhymeids += [x for x in rhymeid if x]
+            rhymes = sorted(set(rhymeids), key=lambda x: rhymeids.index(x))
+            for idx in idxs:
+                row = [idx, ' '.join([str(x) for x in self[idx, 'line'].n])]
+                for rhyme in rhymes:
+                    if rhyme in self[idx, 'rhymeids']:
+                        row += [self[idx, 'alignment'].n[self[idx,
+                            'rhymeids'].index(rhyme)]]
+                    else:
+                        row += ['']
+                table += [row]
+            header = ['ID', 'LINE'] + ['R:{0}'.format(x) for x in rhymes]
+            table = [header] + table
+            print('Stanza', stanza)
+            print(tabulate(table, headers='firstrow', tablefmt='pipe'))
             
