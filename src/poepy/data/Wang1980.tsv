@@ -1,5 +1,8 @@
+# Wordlist
 
-ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME	RECONSTRUCTION	COMMENT	PROBLEMS	LINE_ORDER	RHYMEIDS	ALIGNMENT
+# DATA
+ID	POEM_NUMBER	POEM	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME	RECONSTRUCTION	COMMENT	PROBLEMS	LINE_ORDER	RHYMEIDS	ALIGNMENT
+#
 1	1	關睢	1.1	1	關關雎a[kiu]鳩	關 關 雎 鳩	鳩	a	kiu			1	0 0 0 1	關 + 關 + 雎 + kiu
 2	1	關睢	1.1	2	在河之a[tjiu]洲。	在 河 之 洲	洲	a	tjiu			2	0 0 0 1	在 + 河 + 之 + tjiu
 3	1	關睢	1.1	1	窈宨淑女	窈 宨 淑 女						3	0 0 0 0	窈 + 宨 + 淑 + 女
@@ -20,6 +23,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 18	1	關睢	1.5	2	左右b[mô]芼之。	左 右 芼 之	芼	b	mô			2	0 0 5 0	左 + 右 + mô + 之
 19	1	關睢	1.5	1	窈宨淑女	窈 宨 淑 女						3	0 0 0 0	窈 + 宨 + 淑 + 女
 20	1	關睢	1.5	2	鍾鼓b[lôk]樂之。（宵觉通韵）	鍾 鼓 樂 之	樂	b	lôk	宵觉通韵		4	0 0 5 0	鍾 + 鼓 + lôk + 之
+#
 21	2	葛覃	2.1	1	葛之覃兮	葛 之 覃 兮						1	0 0 0 0	葛 + 之 + 覃 + 兮
 22	2	葛覃	2.1	2	施于中A[kok]谷。	施 于 中 谷	谷	A	kok			2	0 0 0 6	施 + 于 + 中 + kok
 23	2	葛覃	2.1	1	維葉萋b[tsyei]萋	維 葉 萋 萋	萋	b	tsyei			3	0 0 0 7	維 + 葉 + 萋 + tsyei
@@ -38,6 +42,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 36	2	葛覃	2.3	2	薄澣我a[iəi]衣。（微部）	薄 澣 我 衣	衣	a	iəi	微部		4	0 0 0 10	薄 + 澣 + 我 + iəi
 37	2	葛覃	2.3	1	害澣害b[piuə]否	害 澣 害 否	否	b	piuə			5	0 0 0 11	害 + 澣 + 害 + piuə
 38	2	葛覃	2.3	2	歸寧父b[mə]母 。（之部）	歸 寧 父 母	母	b	mə	之部		6	0 0 0 11	歸 + 寧 + 父 + mə
+#
 39	3	卷耳	3.1	1	采采卷耳	采 采 卷 耳						1	0 0 0 0	采 + 采 + 卷 + 耳
 40	3	卷耳	3.1	2	不盈頃a[khiuang]筐。	不 盈 頃 筐	筐	a	khiuang			2	0 0 0 12	不 + 盈 + 頃 + khiuang
 41	3	卷耳	3.1	1	嗟我懷人	嗟 我 懷 人						3	0 0 0 0	嗟 + 我 + 懷 + 人
@@ -55,6 +60,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 53	3	卷耳	3.4	3								3		
 54	3	卷耳	3.4	1	我僕a[phiua]痡矣	我 僕 痡 矣	痡	a	phiua			4	0 0 15 0	我 + 僕 + phiua + 矣
 55	3	卷耳	3.4	2	云何a[xiua]吁矣。（鱼部）	云 何 吁 矣	吁	a	xiua	鱼部		5	0 0 15 0	云 + 何 + xiua + 矣
+#
 56	4	樛木	4.1	1	南有樛木	南 有 樛 木						1	0 0 0 0	南 + 有 + 樛 + 木
 57	4	樛木	4.1	2	葛藟a[liuəi]纍之。	葛 藟 纍 之	纍	a	liuəi			2	0 0 16 0	葛 + 藟 + liuəi + 之
 58	4	樛木	4.1	1	樂只君子	樂 只 君 子						3	0 0 0 0	樂 + 只 + 君 + 子
@@ -67,6 +73,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 65	4	樛木	4.3	2	葛藟a[lueng]<iueng?>縈之。	葛 藟 縈 之	縈	a	lueng		iueng?,	2	0 0 18 0	葛 + 藟 + lueng + 之
 66	4	樛木	4.3	1	樂只君子	樂 只 君 子						3	0 0 0 0	樂 + 只 + 君 + 子
 67	4	樛木	4.3	2	福履a[zjieng]成之。（耕部）	福 履 成 之	成	a	zjieng	耕部		4	0 0 18 0	福 + 履 + zjieng + 之
+#
 68	5	螽斯	5.1	1	螽斯羽	螽 斯 羽						1	0 0 0	螽 + 斯 + 羽
 69	5	螽斯	5.1	2	詵a[shən]詵兮。	詵 詵 兮	詵	a	shən			2	0 19 0	詵 + shən + 兮
 70	5	螽斯	5.1	1	宜爾子孫	宜 爾 子 孫						3	0 0 0 0	宜 + 爾 + 子 + 孫
@@ -79,6 +86,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 77	5	螽斯	5.3	2	揖a[tziəp]揖兮。	揖 揖 兮	揖	a	tziəp			2	0 21 0	揖 + tziəp + 兮
 78	5	螽斯	5.3	1	宜爾子孫	宜 爾 子 孫						3	0 0 0 0	宜 + 爾 + 子 + 孫
 79	5	螽斯	5.3	2	蟄a[diəp]蟄兮。（缉部）	蟄 蟄 兮	蟄	a	diəp	缉部		4	0 21 0	蟄 + diəp + 兮
+#
 80	6	桃夭	6.1	1	桃之夭夭	桃 之 夭 夭						1	0 0 0 0	桃 + 之 + 夭 + 夭
 81	6	桃夭	6.1	2	灼灼其a[hoa]華。	灼 灼 其 華	華	a	hoa			2	0 0 0 22	灼 + 灼 + 其 + hoa
 82	6	桃夭	6.1	1	之子于歸	之 子 于 歸						3	0 0 0 0	之 + 子 + 于 + 歸
@@ -91,6 +99,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 89	6	桃夭	6.3	2	其葉蓁a[tzhen]蓁。	其 葉 蓁 蓁	蓁	a	tzhen			2	0 0 0 24	其 + 葉 + 蓁 + tzhen
 90	6	桃夭	6.3	1	之子于歸	之 子 于 歸						3	0 0 0 0	之 + 子 + 于 + 歸
 91	6	桃夭	6.3	2	宜其家a[njien]人。（真部）	宜 其 家 人	人	a	njien	真部		4	0 0 0 24	宜 + 其 + 家 + njien
+#
 92	7	兔罝	7.1	1	肅肅兔a[tzia]罝	肅 肅 兔 罝	罝	a	tzia			1	0 0 0 25	肅 + 肅 + 兔 + tzia
 93	7	兔罝	7.1	2	椓之丁b[teng]丁。（a= 鱼部）	椓 之 丁 丁	丁	b	teng	a=鱼部		2	0 0 0 26	椓 + 之 + 丁 + teng
 94	7	兔罝	7.1	1	赳赳武a[piua]夫	赳 赳 武 夫	夫	a	piua			3	0 0 0 25	赳 + 赳 + 武 + piua
@@ -103,6 +112,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 101	7	兔罝	7.3	2	施于中b[liəm]林。（a= 鱼部）	施 于 中 林	林	b	liəm	a=鱼部		2	0 0 0 30	施 + 于 + 中 + liəm
 102	7	兔罝	7.3	1	赳赳武a[piua]夫	赳 赳 武 夫	夫	a	piua			3	0 0 0 29	赳 + 赳 + 武 + piua
 103	7	兔罝	7.3	2	公侯腹b[siəm]心。（b= 侵部）	公 侯 腹 心	心	b	siəm	b=侵部		4	0 0 0 30	公 + 侯 + 腹 + siəm
+#
 104	8	芣苡	8.1	1	采采芣a[jiə]苢	采 采 芣 苢	苢	a	jiə			1	0 0 0 31	采 + 采 + 芣 + jiə
 105	8	芣苡	8.1	2	薄言b[tsə]采之。（a= 之部）	薄 言 采 之	采	b	tsə	a=之部		2	0 0 32 0	薄 + 言 + tsə + 之
 107	8	芣苡	8.1	2	薄言b[hiuə]有之。（b= 之部）	薄 言 有 之	有	b	hiuə	b=之部		4	0 0 32 0	薄 + 言 + hiuə + 之
@@ -112,6 +122,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 112	8	芣苡	8.3	1	采采芣a[jiə]苢	采 采 芣 苢	苢	a	jiə			1	0 0 0 35	采 + 采 + 芣 + jiə
 113	8	芣苡	8.3	2	薄言b[kyet]袺之。（a= 之部）	薄 言 袺 之	袺	b	kyet	a=之部		2	0 0 36 0	薄 + 言 + kyet + 之
 115	8	芣苡	8.3	2	薄言b[hyet]襭之。（b= 质部）	薄 言 襭 之	襭	b	hyet	b=质部		4	0 0 36 0	薄 + 言 + hyet + 之
+#
 116	9	漢廣	9.1	1	南有喬木	南 有 喬 木						1	0 0 0 0	南 + 有 + 喬 + 木
 117	9	漢廣	9.1	2	不可a[xiu]休思。1	不 可 休 思	休	a	xiu			2	0 0 37 0	不 + 可 + xiu + 思
 118	9	漢廣	9.1	1	漢有游女	漢 有 游 女						3	0 0 0 0	漢 + 有 + 游 + 女
@@ -136,6 +147,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 137	9	漢廣	9.3	2	不可b[hyuang]泳思。	不 可 泳 思	泳	b	hyuang			6	0 0 42 0	不 + 可 + hyuang + 思
 138	9	漢廣	9.3	1	江之b[hyuang]永矣	江 之 永 矣	永	b	hyuang			7	0 0 42 0	江 + 之 + hyuang + 矣
 139	9	漢廣	9.3	2	不可b[piuang]方思。（阳部）	不 可 方 思	方	b	piuang	阳部		8	0 0 42 0	不 + 可 + piuang + 思
+#
 140	10	汝墳	10.1	1	遵彼汝墳	遵 彼 汝 墳						1	0 0 0 0	遵 + 彼 + 汝 + 墳
 141	10	汝墳	10.1	2	伐其條a[muəi]枚。	伐 其 條 枚	枚	a	muəi			2	0 0 0 43	伐 + 其 + 條 + muəi
 142	10	汝墳	10.1	1	未見君子	未 見 君 子						3	0 0 0 0	未 + 見 + 君 + 子
@@ -148,6 +160,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 149	10	汝墳	10.3	2	王室如a[xiuəi]燬。	王 室 如 燬	燬	a	xiuəi			2	0 0 0 45	王 + 室 + 如 + xiuəi
 150	10	汝墳	10.3	1	雖則如a[xiuəi]燬	雖 則 如 燬	燬	a	xiuəi			3	0 0 0 45	雖 + 則 + 如 + xiuəi
 151	10	汝墳	10.3	2	父母孔a[njiei]邇。（微脂合韵）	父 母 孔 邇	邇	a	njiei	微脂合韵		4	0 0 0 45	父 + 母 + 孔 + njiei
+#
 152	11	麟之趾	11.1	1	麟之a[tjiə]趾	麟 之 趾	趾	a	tjiə			1	0 0 46	麟 + 之 + tjiə
 153	11	麟之趾	11.1	2	振振公a[tziə]子。（之部）	振 振 公 子	子	a	tziə	之部		2	0 0 0 46	振 + 振 + 公 + tziə
 154	11	麟之趾	11.1	1	于嗟B[lien]麟兮。	于 嗟 麟 兮	麟	B	lien			3	0 0 47 0	于 + 嗟 + lien + 兮
@@ -158,6 +171,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 159	11	麟之趾	11.3	2	振振公a[dzok]族。（屋部）	振 振 公 族	族	a	dzok	屋部		2	0 0 0 50	振 + 振 + 公 + dzok
 160	11	麟之趾	11.3	1	于嗟B[lien]麟兮。（真部）	于 嗟 麟 兮	麟	B	lien	真部		3	0 0 51 0	于 + 嗟 + lien + 兮
 161	11	麟之趾	11.8	1	召南	召 南						1	0 0	召 + 南
+#
 162	12	鵲巢	12.1	1	維鵲有巢	維 鵲 有 巢						1	0 0 0 0	維 + 鵲 + 有 + 巢
 163	12	鵲巢	12.1	2	維鳩a[kia]居之。	維 鳩 居 之	居	a	kia			2	0 0 52 0	維 + 鳩 + kia + 之
 164	12	鵲巢	12.1	1	之子于歸	之 子 于 歸						3	0 0 0 0	之 + 子 + 于 + 歸
@@ -170,6 +184,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 171	12	鵲巢	12.3	2	維鳩a[jieng]盈之。	維 鳩 盈 之	盈	a	jieng			2	0 0 54 0	維 + 鳩 + jieng + 之
 172	12	鵲巢	12.3	1	之子于歸	之 子 于 歸						3	0 0 0 0	之 + 子 + 于 + 歸
 173	12	鵲巢	12.3	2	百兩a[zjieng]成之。（耕部）	百 兩 成 之	成	a	zjieng	耕部		4	0 0 54 0	百 + 兩 + zjieng + 之
+#
 174	13	采蘩	13.1	1	于以采蘩	于 以 采 蘩						1	0 0 0 0	于 + 以 + 采 + 蘩
 175	13	采蘩	13.1	2	于沼于a[tjiə]沚。	于 沼 于 沚	沚	a	tjiə			2	0 0 0 55	于 + 沼 + 于 + tjiə
 176	13	采蘩	13.1	1	于以用之	于 以 用 之						3	0 0 0 0	于 + 以 + 用 + 之
@@ -182,6 +197,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 183	13	采蘩	13.3	2	夙夜在a[kong]公。（东部）	夙 夜 在 公	公	a	kong	东部		2	0 0 0 57	夙 + 夜 + 在 + kong
 184	13	采蘩	13.3	1	被之祁b[giei]祁	被 之 祁 祁	祁	b	giei			3	0 0 0 58	被 + 之 + 祁 + giei
 185	13	采蘩	13.3	2	薄言還b[kiuəi]歸。（脂微合韵）	薄 言 還 歸	歸	b	kiuəi	脂微合韵		4	0 0 0 58	薄 + 言 + 還 + kiuəi
+#
 186	14	草蟲	14.1	1	喓喓草a[diuəm]蟲	喓 喓 草 蟲	蟲	a	diuəm			1	0 0 0 59	喓 + 喓 + 草 + diuəm
 187	14	草蟲	14.1	2	趯趯阜a[tjiuəm]螽	趯 趯 阜 螽	螽	a	tjiuəm			2	0 0 0 59	趯 + 趯 + 阜 + tjiuəm
 188	14	草蟲	14.1	3								3		
@@ -204,6 +220,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 205	14	草蟲	14.3	1	亦既見b[tjiə]止	亦 既 見 止	止	b	tjiə			5	0 0 0 64	亦 + 既 + 見 + tjiə
 206	14	草蟲	14.3	2	亦既覯b[tjiə]止	亦 既 覯 止	止	b	tjiə			6	0 0 0 64	亦 + 既 + 覯 + tjiə
 207	14	草蟲	14.3	3	我心則a[jiei]夷。（b= 之部）	我 心 則 夷	夷	a	jiei	b=之部		7	0 0 0 63	我 + 心 + 則 + jiei
+#
 208	15	采蘋	15.1	1	于以采a[bien]蘋	于 以 采 蘋	蘋	a	bien			1	0 0 0 65	于 + 以 + 采 + bien
 209	15	采蘋	15.1	2	南澗之a[pien]濱。（真部）	南 澗 之 濱	濱	a	pien	真部		2	0 0 0 65	南 + 澗 + 之 + pien
 210	15	采蘋	15.1	1	于以采b[tzô]藻	于 以 采 藻	藻	b	tzô			3	0 0 0 66	于 + 以 + 采 + tzô
@@ -216,6 +233,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 217	15	采蘋	15.3	2	宗室牖a[hea]下。	宗 室 牖 下	下	a	hea			2	0 0 0 68	宗 + 室 + 牖 + hea
 218	15	采蘋	15.3	1	誰起尸之	誰 起 尸 之						3	0 0 0 0	誰 + 起 + 尸 + 之
 219	15	采蘋	15.3	2	有齊季a[nia]女。（鱼部）	有 齊 季 女	女	a	nia	鱼部		4	0 0 0 68	有 + 齊 + 季 + nia
+#
 220	16	甘棠	16.1	1	蔽芾甘棠	蔽 芾 甘 棠						1	0 0 0 0	蔽 + 芾 + 甘 + 棠
 221	16	甘棠	16.1	2	勿翦勿a[biuat]伐	勿 翦 勿 伐	伐	a	biuat			2	0 0 0 69	勿 + 翦 + 勿 + biuat
 222	16	甘棠	16.1	3	召伯所a[buat]茇。（月部）	召 伯 所 茇	茇	a	buat	月部		3	0 0 0 69	召 + 伯 + 所 + buat
@@ -225,6 +243,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 226	16	甘棠	16.3	1	蔽芾甘棠	蔽 芾 甘 棠						1	0 0 0 0	蔽 + 芾 + 甘 + 棠
 227	16	甘棠	16.3	2	勿翦勿a[peat]拜	勿 翦 勿 拜	拜	a	peat			2	0 0 0 71	勿 + 翦 + 勿 + peat
 228	16	甘棠	16.3	3	召伯所a[sjiuat]說。（月部）	召 伯 所 說	說	a	sjiuat	月部		3	0 0 0 71	召 + 伯 + 所 + sjiuat
+#
 229	17	行露	17.1	1	厭浥行a[lak]露	厭 浥 行 露	露	a	lak			1	0 0 0 72	厭 + 浥 + 行 + lak
 230	17	行露	17.1	2	豈不夙a[jyak]夜	豈 不 夙 夜	夜	a	jyak			2	0 0 0 72	豈 + 不 + 夙 + jyak
 231	17	行露	17.1	3	謂行多a[lak]露。（铎部）	謂 行 多 露	露	a	lak	铎部		3	0 0 0 72	謂 + 行 + 多 + lak
@@ -240,6 +259,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 241	17	行露	17.3	2	何以速我b[ziong]訟。（a= 鱼部）	何 以 速 我 訟	訟	b	ziong	a=鱼部		4	0 0 0 0 75	何 + 以 + 速 + 我 + ziong
 242	17	行露	17.3	1	雖速我b[ziong]訟	雖 速 我 訟	訟	b	ziong			5	0 0 0 75	雖 + 速 + 我 + ziong
 243	17	行露	17.3	2	亦不女b[dziong]從。（b= 东部）	亦 不 女 從	從	b	dziong	b=东部		6	0 0 0 75	亦 + 不 + 女 + dziong
+#
 244	18	羔羊	18.1	1	羔羊之a[biai]皮	羔 羊 之 皮	皮	a	biai			1	0 0 0 76	羔 + 羊 + 之 + biai
 245	18	羔羊	18.1	2	素絲五a[dai]紽。	素 絲 五 紽	紽	a	dai			2	0 0 0 76	素 + 絲 + 五 + dai
 246	18	羔羊	18.1	1	退食自公	退 食 自 公						3	0 0 0 0	退 + 食 + 自 + 公
@@ -252,6 +272,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 253	18	羔羊	18.3	2	素絲五a[tzong]總。	素 絲 五 總	總	a	tzong			2	0 0 0 78	素 + 絲 + 五 + tzong
 254	18	羔羊	18.3	1	委蛇委蛇	委 蛇 委 蛇						3	0 0 0 0	委 + 蛇 + 委 + 蛇
 255	18	羔羊	18.3	2	退食自a[kong]公。（东部）	退 食 自 公	公	a	kong	东部		4	0 0 0 78	退 + 食 + 自 + kong
+#
 256	19	殷其雷	19.1	1	殷其靁	殷 其 靁						1	0 0 0	殷 + 其 + 靁
 257	19	殷其雷	19.1	2	在南山之a[jiang]陽。	在 南 山 之 陽	陽	a	jiang			2	0 0 0 0 79	在 + 南 + 山 + 之 + jiang
 258	19	殷其雷	19.1	1	何斯違斯	何 斯 違 斯						3	0 0 0 0	何 + 斯 + 違 + 斯
@@ -271,6 +292,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 272	19	殷其雷	19.3	2	莫敢遑a[thjia]處。（鱼部）	莫 敢 遑 處	處	a	thjia	鱼部		4	0 0 0 83	莫 + 敢 + 遑 + thjia
 273	19	殷其雷	19.3	1	振振君B[tziə]子	振 振 君 子	子	B	tziə			5	0 0 0 84	振 + 振 + 君 + tziə
 274	19	殷其雷	19.3	2	歸哉歸B[tzə]哉。（之部）	歸 哉 歸 哉	哉	B	tzə	之部		6	0 0 0 84	歸 + 哉 + 歸 + tzə
+#
 275	20	摽有梅	20.1	1	摽有梅	摽 有 梅						1	0 0 0	摽 + 有 + 梅
 276	20	摽有梅	20.1	2	其實a[tsiet]七兮。	其 實 七 兮	七	a	tsiet			2	0 0 85 0	其 + 實 + tsiet + 兮
 277	20	摽有梅	20.1	1	求我庶士	求 我 庶 士						3	0 0 0 0	求 + 我 + 庶 + 士
@@ -283,6 +305,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 284	20	摽有梅	20.3	2	頃筐a[xiət]塈之。	頃 筐 塈 之	塈	a	xiət			2	0 0 87 0	頃 + 筐 + xiət + 之
 285	20	摽有梅	20.3	1	求我庶士	求 我 庶 士						3	0 0 0 0	求 + 我 + 庶 + 士
 286	20	摽有梅	20.3	2	迨其a[hiuət]謂之。（物部）	迨 其 謂 之	謂	a	hiuət	物部		4	0 0 87 0	迨 + 其 + hiuət + 之
+#
 287	21	小星	21.1	1	嘒彼小a[syeng]星	嘒 彼 小 星	星	a	syeng			1	0 0 0 88	嘒 + 彼 + 小 + syeng
 288	21	小星	21.1	2	三五在b[tong]東。（a= 耕部）	三 五 在 東	東	b	tong	a=耕部		2	0 0 0 89	三 + 五 + 在 + tong
 289	21	小星	21.1	1	肅肅宵a[tjieng]征	肅 肅 宵 征	征	a	tjieng			3	0 0 0 88	肅 + 肅 + 宵 + tjieng
@@ -293,6 +316,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 294	21	小星	21.2	1	肅肅宵a[tjieng]征	肅 肅 宵 征	征	a	tjieng			3	0 0 0 90	肅 + 肅 + 宵 + tjieng
 295	21	小星	21.2	2	抱衾與b[diu]裯	抱 衾 與 裯	裯	b	diu			4	0 0 0 91	抱 + 衾 + 與 + diu
 296	21	小星	21.2	3	寔命不b[jiu]猶。（b= 幽部）	寔 命 不 猶	猶	b	jiu	b=幽部		5	0 0 0 91	寔 + 命 + 不 + jiu
+#
 297	22	江有汜	22.1	1	江有a[ziə]汜	江 有 汜	汜	a	ziə			1	0 0 92	江 + 有 + ziə
 298	22	江有汜	22.1	2	之子歸	之 子 歸						2	0 0 0	之 + 子 + 歸
 299	22	江有汜	22.1	3	不我a[jiə]以。	不 我 以	以	a	jiə			3	0 0 92	不 + 我 + jiə
@@ -305,6 +329,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 308	22	江有汜	22.3	2	之子歸	之 子 歸						2	0 0 0	之 + 子 + 歸
 309	22	江有汜	22.3	3	不我a[kuai]過。	不 我 過	過	a	kuai			3	0 0 94	不 + 我 + kuai
 311	22	江有汜	22.3	2	其嘯也a[kai]歌。（歌部）	其 嘯 也 歌	歌	a	kai	歌部		5	0 0 0 94	其 + 嘯 + 也 + kai
+#
 312	23	野有死麇	23.1	1	野有死a[kyuən]麇	野 有 死 麇	麇	a	kyuən			1	0 0 0 95	野 + 有 + 死 + kyuən
 313	23	野有死麇	23.1	2	白茅b[peu]包之。（a= 文部）	白 茅 包 之	包	b	peu	a=文部		2	0 0 96 0	白 + 茅 + peu + 之
 314	23	野有死麇	23.1	1	有女懷a[thjiuən]春	有 女 懷 春	春	a	thjiuən			3	0 0 0 95	有 + 女 + 懷 + thjiuən
@@ -316,6 +341,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 320	23	野有死麇	23.3	1	舒而脫a[thuat]脫兮	舒 而 脫 脫 兮	脫	a	thuat			1	0 0 0 98 0	舒 + 而 + 脫 + thuat + 兮
 321	23	野有死麇	23.3	2	無感我a[sjiuat]帨兮	無 感 我 帨 兮	帨	a	sjiuat			2	0 0 0 98 0	無 + 感 + 我 + sjiuat + 兮
 322	23	野有死麇	23.3	3	無使尨也a[biuat]吠。（月部）	無 使 尨 也 吠	吠	a	biuat	月部		3	0 0 0 0 98	無 + 使 + 尨 + 也 + biuat
+#
 323	24	何彼襛矣	24.1	1	何彼襛矣	何 彼 襛 矣						1	0 0 0 0	何 + 彼 + 襛 + 矣
 324	24	何彼襛矣	24.1	2	唐棣之a[hoa]華。	唐 棣 之 華	華	a	hoa			2	0 0 0 99	唐 + 棣 + 之 + hoa
 325	24	何彼襛矣	24.1	1	曷不肅雝	曷 不 肅 雝						3	0 0 0 0	曷 + 不 + 肅 + 雝
@@ -328,6 +354,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 332	24	何彼襛矣	24.3	2	維絲伊a[miən]緡。	維 絲 伊 緡	緡	a	miən			2	0 0 0 101	維 + 絲 + 伊 + miən
 333	24	何彼襛矣	24.3	1	齊侯之子	齊 侯 之 子						3	0 0 0 0	齊 + 侯 + 之 + 子
 334	24	何彼襛矣	24.3	2	平王之a[suən]孫。（文部）	平 王 之 孫	孫	a	suən	文部		4	0 0 0 101	平 + 王 + 之 + suən
+#
 335	25	騶虞	25.1	1	彼茁者A[kea]葭	彼 茁 者 葭	葭	A	kea			1	0 0 0 102	彼 + 茁 + 者 + kea
 336	25	騶虞	25.1	2	壹發五A[pea]豝。	壹 發 五 豝	豝	A	pea			2	0 0 0 102	壹 + 發 + 五 + pea
 337	25	騶虞	25.1	1	于嗟乎騶A[ngiua]虞。（鱼部）	于 嗟 乎 騶 虞	虞	A	ngiua	鱼部		3	0 0 0 0 102	于 + 嗟 + 乎 + 騶 + ngiua
@@ -335,6 +362,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 339	25	騶虞	25.2	2	壹發五b[tziong]豵。（东部）	壹 發 五 豵	豵	b	tziong	东部		2	0 0 0 103	壹 + 發 + 五 + tziong
 340	25	騶虞	25.2	1	于嗟乎騶A[ngiua]虞。	于 嗟 乎 騶 虞	虞	A	ngiua			3	0 0 0 0 104	于 + 嗟 + 乎 + 騶 + ngiua
 341	25	騶虞	25.5	1	邶風	邶 風						1	0 0	邶 + 風
+#
 342	26	柏舟	26.1	1	汎彼柏a[tjiu]舟	汎 彼 柏 舟	舟	a	tjiu			1	0 0 0 105	汎 + 彼 + 柏 + tjiu
 343	26	柏舟	26.1	2	亦汎其a[liu]流。	亦 汎 其 流	流	a	liu			2	0 0 0 105	亦 + 汎 + 其 + liu
 344	26	柏舟	26.1	1	耿耿不寐	耿 耿 不 寐						3	0 0 0 0	耿 + 耿 + 不 + 寐
@@ -365,6 +393,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 369	26	柏舟	26.5	2	如匪澣a[iəi]衣。	如 匪 澣 衣	衣	a	iəi			4	0 0 0 110	如 + 匪 + 澣 + iəi
 370	26	柏舟	26.5	1	靜言思之	靜 言 思 之						5	0 0 0 0	靜 + 言 + 思 + 之
 371	26	柏舟	26.5	2	不能奮a[piuəi]飛。（微部）	不 能 奮 飛	飛	a	piuəi	微部		6	0 0 0 110	不 + 能 + 奮 + piuəi
+#
 372	27	綠衣	27.1	1	綠兮衣兮	綠 兮 衣 兮						1	0 0 0 0	綠 + 兮 + 衣 + 兮
 373	27	綠衣	27.1	2	綠兮黃a[liə]裏。	綠 兮 黃 裏	裏	a	liə			2	0 0 0 111	綠 + 兮 + 黃 + liə
 374	27	綠衣	27.1	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
@@ -381,6 +410,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 385	27	綠衣	27.4	2	淒其以a[piuəm]風。	淒 其 以 風	風	a	piuəm			2	0 0 0 114	淒 + 其 + 以 + piuəm
 386	27	綠衣	27.4	1	我思古人	我 思 古 人						3	0 0 0 0	我 + 思 + 古 + 人
 387	27	綠衣	27.4	2	實獲我a[siəm]心。（侵部）	實 獲 我 心	心	a	siəm	侵部		4	0 0 0 114	實 + 獲 + 我 + siəm
+#
 388	28	燕燕	28.1	1	燕燕于a[piuəi]飛	燕 燕 于 飛	飛	a	piuəi			1	0 0 0 115	燕 + 燕 + 于 + piuəi
 389	28	燕燕	28.1	2	差池其b[hiua]羽。	差 池 其 羽	羽	b	hiua			2	0 0 0 116	差 + 池 + 其 + hiua
 390	28	燕燕	28.1	1	之子于a[kiuəi]歸	之 子 于 歸	歸	a	kiuəi			3	0 0 0 115	之 + 子 + 于 + kiuəi
@@ -405,6 +435,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 409	28	燕燕	28.4	2	淑慎其a[sjien]身。	淑 慎 其 身	身	a	sjien			4	0 0 0 122	淑 + 慎 + 其 + sjien
 410	28	燕燕	28.4	1	先君之思	先 君 之 思						5	0 0 0 0	先 + 君 + 之 + 思
 411	28	燕燕	28.4	2	以勗寡a[njien]人。（真部）	以 勗 寡 人	人	a	njien	真部		6	0 0 0 122	以 + 勗 + 寡 + njien
+#
 412	29	日月	29.1	1	日居月諸	日 居 月 諸						1	0 0 0 0	日 + 居 + 月 + 諸
 413	29	日月	29.1	2	照臨下a[tha]土。	照 臨 下 土	土	a	tha			2	0 0 0 123	照 + 臨 + 下 + tha
 414	29	日月	29.1	1	乃如之人兮	乃 如 之 人 兮						3	0 0 0 0 0	乃 + 如 + 之 + 人 + 兮
@@ -429,6 +460,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 433	29	日月	29.4	2	畜我不a[tziuət]卒。	畜 我 不 卒	卒	a	tziuət			4	0 0 0 126	畜 + 我 + 不 + tziuət
 434	29	日月	29.4	1	胡能有定	胡 能 有 定						5	0 0 0 0	胡 + 能 + 有 + 定
 435	29	日月	29.4	2	報我不a[djiuət]述。（物部）	報 我 不 述	述	a	djiuət	物部		6	0 0 0 126	報 + 我 + 不 + djiuət
+#
 436	30	終風	30.1	1	終風且a[bôk]暴	終 風 且 暴	暴	a	bôk			1	0 0 0 127	終 + 風 + 且 + bôk
 437	30	終風	30.1	2	顧我則a[siô]笑。	顧 我 則 笑	笑	a	siô			2	0 0 0 127	顧 + 我 + 則 + siô
 438	30	終風	30.1	1	謔浪笑a[ngô]敖	謔 浪 笑 敖	敖	a	ngô			3	0 0 0 127	謔 + 浪 + 笑 + ngô
@@ -445,6 +477,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 449	30	終風	30.4	2	虺虺其a[luəi]靁。	虺 虺 其 靁	靁	a	luəi			2	0 0 0 130	虺 + 虺 + 其 + luəi
 450	30	終風	30.4	1	寤言不寐	寤 言 不 寐						3	0 0 0 0	寤 + 言 + 不 + 寐
 451	30	終風	30.4	2	願言則a[hoəi]懷。（微部）	願 言 則 懷	懷	a	hoəi	微部		4	0 0 0 130	願 + 言 + 則 + hoəi
+#
 452	31	擊鼓	31.1	1	擊鼓其a[thang]鏜	擊 鼓 其 鏜	鏜	a	thang			1	0 0 0 131	擊 + 鼓 + 其 + thang
 453	31	擊鼓	31.1	2	踊躍用a[pyang]兵。	踊 躍 用 兵	兵	a	pyang			2	0 0 0 131	踊 + 躍 + 用 + pyang
 454	31	擊鼓	31.1	1	土國城漕	土 國 城 漕						3	0 0 0 0	土 + 國 + 城 + 漕
@@ -465,6 +498,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 469	31	擊鼓	31.5	2	不我a[huat]活兮。（月部）	不 我 活 兮	活	a	huat	月部		2	0 0 136 0	不 + 我 + huat + 兮
 470	31	擊鼓	31.5	1	于嗟b[siuen]洵兮	于 嗟 洵 兮	洵	b	siuen			3	0 0 137 0	于 + 嗟 + siuen + 兮
 471	31	擊鼓	31.5	2	不我b[sien]信兮。（真部）	不 我 信 兮	信	b	sien	真部		4	0 0 137 0	不 + 我 + sien + 兮
+#
 472	32	凱風	32.1	1	凱風自a[nəm]南	凱 風 自 南	南	a	nəm			1	0 0 0 138	凱 + 風 + 自 + nəm
 473	32	凱風	32.1	2	吹彼棘a[siəm]心。（侵部）	吹 彼 棘 心	心	a	siəm	侵部		2	0 0 0 138	吹 + 彼 + 棘 + siəm
 474	32	凱風	32.1	1	棘心夭b[lô]<io?>夭	棘 心 夭 夭	夭	b	lô		io?,	3	0 0 0 139	棘 + 心 + 夭 + lô
@@ -481,6 +515,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 485	32	凱風	32.4	2	載好其a[iəm]音。	載 好 其 音	音	a	iəm			2	0 0 0 142	載 + 好 + 其 + iəm
 486	32	凱風	32.4	1	有子其人	有 子 其 人						3	0 0 0 0	有 + 子 + 其 + 人
 487	32	凱風	32.4	2	莫慰母a[siəm]心。（侵部）	莫 慰 母 心	心	a	siəm	侵部		4	0 0 0 142	莫 + 慰 + 母 + siəm
+#
 488	33	雄雉	33.1	1	雄雉于飛	雄 雉 于 飛						1	0 0 0 0	雄 + 雉 + 于 + 飛
 489	33	雄雉	33.1	2	泄泄其a[hiua]羽。	泄 泄 其 羽	羽	a	hiua			2	0 0 0 143	泄 + 泄 + 其 + hiua
 490	33	雄雉	33.1	1	我之懷矣	我 之 懷 矣						3	0 0 0 0	我 + 之 + 懷 + 矣
@@ -497,6 +532,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 501	33	雄雉	33.4	2	不知德a[heang]行。	不 知 德 行	行	a	heang			2	0 0 0 146	不 + 知 + 德 + heang
 502	33	雄雉	33.4	1	不忮不求	不 忮 不 求						3	0 0 0 0	不 + 忮 + 不 + 求
 503	33	雄雉	33.4	2	何用不a[tzang]臧。（阳部）	何 用 不 臧	臧	a	tzang	阳部		4	0 0 0 146	何 + 用 + 不 + tzang
+#
 504	34	匏有苦葉	34.1	1	匏有苦a[jiap]葉	匏 有 苦 葉	葉	a	jiap			1	0 0 0 147	匏 + 有 + 苦 + jiap
 505	34	匏有苦葉	34.1	2	濟有深a[zjiap]涉。（盍部）	濟 有 深 涉	涉	a	zjiap	盍部		2	0 0 0 147	濟 + 有 + 深 + zjiap
 506	34	匏有苦葉	34.1	1	深則b[liat]厲	深 則 厲	厲	b	liat			3	0 0 148	深 + 則 + liat
@@ -512,6 +548,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 516	34	匏有苦葉	34.4	1	招招舟a[tziə]子	招 招 舟 子	子	a	tziə			1	0 0 0 152	招 + 招 + 舟 + tziə
 517	34	匏有苦葉	34.4	2	人涉卬a[piuə]否。	人 涉 卬 否	否	a	piuə			2	0 0 0 152	人 + 涉 + 卬 + piuə
 519	34	匏有苦葉	34.4	2	卬須我a[hiuə]友。（之部）	卬 須 我 友	友	a	hiuə	之部		4	0 0 0 152	卬 + 須 + 我 + hiuə
+#
 520	35	谷風	35.1	1	習習谷a[piuəm]風	習 習 谷 風	風	a	piuəm			1	0 0 0 153	習 + 習 + 谷 + piuəm
 521	35	谷風	35.1	2	以陰以b[hiua]雨。（a= 侵部）	以 陰 以 雨	雨	b	hiua	a=侵部		2	0 0 0 154	以 + 陰 + 以 + hiua
 522	35	谷風	35.1	1	黽勉同a[siəm]心	黽 勉 同 心	心	a	siəm			3	0 0 0 153	黽 + 勉 + 同 + siəm
@@ -560,6 +597,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 565	35	谷風	35.6	2	既詒我b[jiet]肄。	既 詒 我 肄	肄	b	jiet			6	0 0 0 165	既 + 詒 + 我 + jiet
 566	35	谷風	35.6	1	不念昔者	不 念 昔 者						7	0 0 0 0	不 + 念 + 昔 + 者
 567	35	谷風	35.6	2	伊余來b[xiət]塈。（物质合韵）	伊 余 來 塈	塈	b	xiət	物质合韵		8	0 0 0 165	伊 + 余 + 來 + xiət
+#
 568	36	式微	36.1	1	式a[miuəi]微	式 微	微	a	miuəi			1	0 166	式 + miuəi
 570	36	式微	36.1	3	胡不a[kiuəi]歸。（微部）	胡 不 歸	歸	a	kiuəi	微部		3	0 0 166	胡 + 不 + kiuəi
 571	36	式微	36.1	1	微君之b[ka]故	微 君 之 故	故	b	ka			4	0 0 0 167	微 + 君 + 之 + ka
@@ -568,6 +606,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 575	36	式微	36.2	2	胡不a[kiuəi]歸。（微部）	胡 不 歸	歸	a	kiuəi	微部		3	0 0 168	胡 + 不 + kiuəi
 576	36	式微	36.2	1	微君之b[kiuəm]躬	微 君 之 躬	躬	b	kiuəm			4	0 0 0 169	微 + 君 + 之 + kiuəm
 577	36	式微	36.2	2	胡為乎泥b[tjiuəm]中。（侵部）	胡 為 乎 泥 中	中	b	tjiuəm	侵部		5	0 0 0 0 169	胡 + 為 + 乎 + 泥 + tjiuəm
+#
 578	37	旄丘	37.1	1	旄丘之a[kat]葛兮	旄 丘 之 葛 兮	葛	a	kat			1	0 0 0 170 0	旄 + 丘 + 之 + kat + 兮
 579	37	旄丘	37.1	2	何誕之a[tzyet]節兮。	何 誕 之 節 兮	節	a	tzyet			2	0 0 0 170 0	何 + 誕 + 之 + tzyet + 兮
 580	37	旄丘	37.1	1	叔兮伯兮	叔 兮 伯 兮						3	0 0 0 0	叔 + 兮 + 伯 + 兮
@@ -584,6 +623,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 591	37	旄丘	37.4	2	流離之a[tziə]子。	流 離 之 子	子	a	tziə			2	0 0 0 174	流 + 離 + 之 + tziə
 592	37	旄丘	37.4	1	叔兮伯兮	叔 兮 伯 兮						3	0 0 0 0	叔 + 兮 + 伯 + 兮
 593	37	旄丘	37.4	2	褎如充a[njiə]耳。（之部）	褎 如 充 耳	耳	a	njiə	之部		4	0 0 0 174	褎 + 如 + 充 + njiə
+#
 594	38	簡兮	38.1	1	簡兮簡兮	簡 兮 簡 兮						1	0 0 0 0	簡 + 兮 + 簡 + 兮
 595	38	簡兮	38.1	2	方將萬a[miua]舞。	方 將 萬 舞	舞	a	miua			2	0 0 0 175	方 + 將 + 萬 + miua
 596	38	簡兮	38.1	1	日之方中	日 之 方 中						3	0 0 0 0	日 + 之 + 方 + 中
@@ -602,6 +642,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 609	38	簡兮	38.4	2	西方美a[njien]人。	西 方 美 人	人	a	njien			4	0 0 0 178	西 + 方 + 美 + njien
 610	38	簡兮	38.4	1	彼美a[njien]人兮	彼 美 人 兮	人	a	njien			5	0 0 178 0	彼 + 美 + njien + 兮
 611	38	簡兮	38.4	2	西方之a[njien]人兮。（真部）	西 方 之 人 兮	人	a	njien	真部		6	0 0 0 178 0	西 + 方 + 之 + njien + 兮
+#
 612	39	泉水	39.1	1	毖彼泉水	毖 彼 泉 水						1	0 0 0 0	毖 + 彼 + 泉 + 水
 613	39	泉水	39.1	2	亦流于a[giə]淇。	亦 流 于 淇	淇	a	giə			2	0 0 0 179	亦 + 流 + 于 + giə
 614	39	泉水	39.1	1	有懷于衛	有 懷 于 衛						3	0 0 0 0	有 + 懷 + 于 + 衛
@@ -626,6 +667,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 633	39	泉水	39.4	2	我心悠b[jiu]悠。	我 心 悠 悠	悠	b	jiu			4	0 0 0 184	我 + 心 + 悠 + jiu
 634	39	泉水	39.4	1	駕言出b[jiu]遊	駕 言 出 遊	遊	b	jiu			5	0 0 0 184	駕 + 言 + 出 + jiu
 635	39	泉水	39.4	2	以寫我b[iu]憂。（幽部）	以 寫 我 憂	憂	b	iu	幽部		6	0 0 0 184	以 + 寫 + 我 + iu
+#
 636	40	北門	40.1	1	出自北a[muən]門	出 自 北 門	門	a	muən			1	0 0 0 185	出 + 自 + 北 + muən
 637	40	北門	40.1	2	憂心殷a[iən]殷。	憂 心 殷 殷	殷	a	iən			2	0 0 0 185	憂 + 心 + 殷 + iən
 638	40	北門	40.1	1	終窶且a[biən]貧	終 窶 且 貧	貧	a	biən			3	0 0 0 185	終 + 窶 + 且 + biən
@@ -647,6 +689,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 654	40	北門	40.3	1	已焉哉	已 焉 哉						5	0 0 0	已 + 焉 + 哉
 655	40	北門	40.3	2	天實b[hiuai]為之	天 實 為 之	為	b	hiuai			6	0 0 190 0	天 + 實 + hiuai + 之
 656	40	北門	40.3	3	謂之b[hai]何哉。（歌部）	謂 之 何 哉	何	b	hai	歌部		7	0 0 190 0	謂 + 之 + hai + 哉
+#
 657	41	北風	41.1	1	北風其a[liang]涼	北 風 其 涼	涼	a	liang			1	0 0 0 191	北 + 風 + 其 + liang
 658	41	北風	41.1	2	雨雪其a[phang]雱。	雨 雪 其 雱	雱	a	phang			2	0 0 0 191	雨 + 雪 + 其 + phang
 659	41	北風	41.1	1	惠而好我	惠 而 好 我						3	0 0 0 0	惠 + 而 + 好 + 我
@@ -665,6 +708,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 672	41	北風	41.3	2	攜手同a[kia]車。	攜 手 同 車	車	a	kia			4	0 0 0 195	攜 + 手 + 同 + kia
 673	41	北風	41.3	1	其虛其a[zya]邪	其 虛 其 邪	邪	a	zya			5	0 0 0 195	其 + 虛 + 其 + zya
 674	41	北風	41.3	2	既亟只a[tzia]且。（負部）	既 亟 只 且	且	a	tzia	負部		6	0 0 0 195	既 + 亟 + 只 + tzia
+#
 675	42	靜女	42.1	1	靜女其a[sjio]姝	靜 女 其 姝	姝	a	sjio			1	0 0 0 196	靜 + 女 + 其 + sjio
 676	42	靜女	42.1	2	俟我於城a[ngio]隅。	俟 我 於 城 隅	隅	a	ngio			2	0 0 0 0 196	俟 + 我 + 於 + 城 + ngio
 677	42	靜女	42.1	1	愛而不見	愛 而 不 見						3	0 0 0 0	愛 + 而 + 不 + 見
@@ -677,6 +721,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 684	42	靜女	42.3	2	洵美且b[jiək]異。（a= 脂部）	洵 美 且 異	異	b	jiək	a=脂部		2	0 0 0 200	洵 + 美 + 且 + jiək
 685	42	靜女	42.3	1	匪女以為a[miei]美	匪 女 以 為 美	美	a	miei			3	0 0 0 0 199	匪 + 女 + 以 + 為 + miei
 686	42	靜女	42.3	2	美人之b[jiə]貽。（b= 职之通韵）	美 人 之 貽	貽	b	jiə	b=职之通韵		4	0 0 0 200	美 + 人 + 之 + jiə
+#
 687	43	新臺	43.1	1	新臺有a[tsiei]泚	新 臺 有 泚	泚	a	tsiei			1	0 0 0 201	新 + 臺 + 有 + tsiei
 688	43	新臺	43.1	2	河水瀰a[miei]瀰。	河 水 瀰 瀰	瀰	a	miei			2	0 0 0 201	河 + 水 + 瀰 + miei
 689	43	新臺	43.1	1	燕婉之求	燕 婉 之 求						3	0 0 0 0	燕 + 婉 + 之 + 求
@@ -689,6 +734,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 696	43	新臺	43.3	2	鴻則a[liai]離之。	鴻 則 離 之	離	a	liai			2	0 0 203 0	鴻 + 則 + liai + 之
 697	43	新臺	43.3	1	燕婉之求	燕 婉 之 求						3	0 0 0 0	燕 + 婉 + 之 + 求
 698	43	新臺	43.3	2	得此戚a[sjiai]施。（歌部）	得 此 戚 施	施	a	sjiai	歌部		4	0 0 0 203	得 + 此 + 戚 + sjiai
+#
 699	44	二子乘舟	44.1	1	二子乘舟	二 子 乘 舟						1	0 0 0 0	二 + 子 + 乘 + 舟
 700	44	二子乘舟	44.1	2	汎汎其a[kyang]景。	汎 汎 其 景	景	a	kyang			2	0 0 0 204	汎 + 汎 + 其 + kyang
 701	44	二子乘舟	44.1	1	願言思子	願 言 思 子						3	0 0 0 0	願 + 言 + 思 + 子
@@ -698,6 +744,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 705	44	二子乘舟	44.2	1	願言思子	願 言 思 子						3	0 0 0 0	願 + 言 + 思 + 子
 706	44	二子乘舟	44.2	2	不瑕有a[hat]害。（月部）	不 瑕 有 害	害	a	hat	月部		4	0 0 0 205	不 + 瑕 + 有 + hat
 707	44	二子乘舟	44.6	1	鄘風	鄘 風						1	0 0	鄘 + 風
+#
 708	45	柏舟	45.1	1	汎彼柏舟	汎 彼 柏 舟						1	0 0 0 0	汎 + 彼 + 柏 + 舟
 709	45	柏舟	45.1	2	在彼中a[hai]河。	在 彼 中 河	河	a	hai			2	0 0 0 206	在 + 彼 + 中 + hai
 710	45	柏舟	45.1	1	髧彼兩髦	髧 彼 兩 髦						3	0 0 0 0	髧 + 彼 + 兩 + 髦
@@ -712,6 +759,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 719	45	柏舟	45.2	1	之死矢靡a[thək]慝。（职部）	之 死 矢 靡 慝	慝	a	thək	职部		5	0 0 0 0 208	之 + 死 + 矢 + 靡 + thək
 720	45	柏舟	45.2	1	母也b[thyen]天只	母 也 天 只	天	b	thyen			6	0 0 209 0	母 + 也 + thyen + 只
 721	45	柏舟	45.2	2	不諒b[njien]人只。（真部）	不 諒 人 只	人	b	njien	真部		7	0 0 209 0	不 + 諒 + njien + 只
+#
 722	46	牆有茨	46.1	1	牆有茨	牆 有 茨						1	0 0 0	牆 + 有 + 茨
 723	46	牆有茨	46.1	2	不可a[su]埽也。	不 可 埽 也	埽	a	su			2	0 0 210 0	不 + 可 + su + 也
 724	46	牆有茨	46.1	1	中冓之言	中 冓 之 言						3	0 0 0 0	中 + 冓 + 之 + 言
@@ -730,6 +778,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 737	46	牆有茨	46.3	2	不可a[dok]讀也。	不 可 讀 也	讀	a	dok			4	0 0 212 0	不 + 可 + dok + 也
 738	46	牆有茨	46.3	1	所可a[dok]讀也	所 可 讀 也	讀	a	dok			5	0 0 212 0	所 + 可 + dok + 也
 739	46	牆有茨	46.3	2	言之a[njiok]辱也。（屋部）	言 之 辱 也	辱	a	njiok	屋部		6	0 0 212 0	言 + 之 + njiok + 也
+#
 740	47	君子偕老	47.1	1	君子偕老	君 子 偕 老						1	0 0 0 0	君 + 子 + 偕 + 老
 741	47	君子偕老	47.1	2	副笄六a[keai]珈。	副 笄 六 珈	珈	a	keai			2	0 0 0 213	副 + 笄 + 六 + keai
 742	47	君子偕老	47.1	1	委委佗a[dai]佗	委 委 佗 佗	佗	a	dai			3	0 0 0 213	委 + 委 + 佗 + dai
@@ -754,6 +803,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 761	47	君子偕老	47.3	2	揚且之a[ngean]顏也。	揚 且 之 顏 也	顏	a	ngean			6	0 0 0 216 0	揚 + 且 + 之 + ngean + 也
 762	47	君子偕老	47.3	1	展如之人兮	展 如 之 人 兮						7	0 0 0 0 0	展 + 如 + 之 + 人 + 兮
 763	47	君子偕老	47.3	2	邦之a[hiuan]媛也。（元部）	邦 之 媛 也	媛	a	hiuan	元部		8	0 0 216 0	邦 + 之 + hiuan + 也
+#
 764	48	桑中	48.1	1	爰采A[dang]唐矣	爰 采 唐 矣	唐	A	dang			1	0 0 217 0	爰 + 采 + dang + 矣
 765	48	桑中	48.1	2	沬之A[xiang]鄉矣。	沬 之 鄉 矣	鄉	A	xiang			2	0 0 217 0	沬 + 之 + xiang + 矣
 766	48	桑中	48.1	1	云誰之思	云 誰 之 思						3	0 0 0 0	云 + 誰 + 之 + 思
@@ -778,6 +828,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 785	48	桑中	48.3	2	要我乎上c[kiuəm]宮	要 我 乎 上 宮	宮	c	kiuəm			6	0 0 0 0 223	要 + 我 + 乎 + 上 + kiuəm
 786	48	桑中	48.3	3	（侵部）					侵部		7		
 787	48	桑中	48.3	1	送我乎淇之A[zjiang]上矣。（阳部）	送 我 乎 淇 之 上 矣	上	A	zjiang	阳部		8	0 0 0 0 0 224 0	送 + 我 + 乎 + 淇 + 之 + zjiang + 矣
+#
 788	49	鶉之奔奔	49.1	1	鶉之奔奔	鶉 之 奔 奔						1	0 0 0 0	鶉 + 之 + 奔 + 奔
 789	49	鶉之奔奔	49.1	2	鵲之彊a[kiang]彊。	鵲 之 彊 彊	彊	a	kiang			2	0 0 0 225	鵲 + 之 + 彊 + kiang
 790	49	鶉之奔奔	49.1	1	人之無a[liang]良	人 之 無 良	良	a	liang			3	0 0 0 225	人 + 之 + 無 + liang
@@ -786,6 +837,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 793	49	鶉之奔奔	49.2	2	鶉之奔b[pən]奔。（a= 阳部）	鶉 之 奔 奔	奔	b	pən	a=阳部		2	0 0 0 227	鶉 + 之 + 奔 + pən
 794	49	鶉之奔奔	49.2	1	人之無a[liang]良	人 之 無 良	良	a	liang			3	0 0 0 226	人 + 之 + 無 + liang
 795	49	鶉之奔奔	49.2	2	我以為b[kiuən]君。（b= 文部）	我 以 為 君	君	b	kiuən	b=文部		4	0 0 0 227	我 + 以 + 為 + kiuən
+#
 796	50	定之方中	50.1	1	定之方a[tiuəm]中	定 之 方 中	中	a	tiuəm			1	0 0 0 228	定 + 之 + 方 + tiuəm
 797	50	定之方中	50.1	2	作于楚a[kiuəm]宮。（侵部）	作 于 楚 宮	宮	a	kiuəm	侵部		2	0 0 0 228	作 + 于 + 楚 + kiuəm
 798	50	定之方中	50.1	1	揆之以b[njiet]日	揆 之 以 日	日	b	njiet			3	0 0 0 229	揆 + 之 + 以 + njiet
@@ -807,6 +859,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 814	50	定之方中	50.3	1	匪直也a[njien]人	匪 直 也 人	人	a	njien			5	0 0 0 232	匪 + 直 + 也 + njien
 815	50	定之方中	50.3	2	秉心塞a[yuen]淵	秉 心 塞 淵	淵	a	yuen			6	0 0 0 232	秉 + 心 + 塞 + yuen
 816	50	定之方中	50.3	3	騋牝三a[tsyen]千。（真部）	騋 牝 三 千	千	a	tsyen	真部		7	0 0 0 232	騋 + 牝 + 三 + tsyen
+#
 817	51	蝃蝀	51.1	1	蝃蝀在東	蝃 蝀 在 東						1	0 0 0 0	蝃 + 蝀 + 在 + 東
 818	51	蝃蝀	51.1	2	莫之敢a[tjiei]指。	莫 之 敢 指	指	a	tjiei			2	0 0 0 233	莫 + 之 + 敢 + tjiei
 819	51	蝃蝀	51.1	1	女子有行	女 子 有 行						3	0 0 0 0	女 + 子 + 有 + 行
@@ -819,6 +872,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 826	51	蝃蝀	51.3	2	懷昏a[ien]姻也。	懷 昏 姻 也	姻	a	ien			2	0 0 235 0	懷 + 昏 + ien + 也
 827	51	蝃蝀	51.3	1	大無a[sien]信也	大 無 信 也	信	a	sien			3	0 0 235 0	大 + 無 + sien + 也
 828	51	蝃蝀	51.3	2	不知a[myen]命也。（真部）	不 知 命 也	命	a	myen	真部		4	0 0 235 0	不 + 知 + myen + 也
+#
 829	52	相鼠	52.1	1	相鼠有a[biai]皮	相 鼠 有 皮	皮	a	biai			1	0 0 0 236	相 + 鼠 + 有 + biai
 830	52	相鼠	52.1	2	人而無a[ngiai]儀。	人 而 無 儀	儀	a	ngiai			2	0 0 0 236	人 + 而 + 無 + ngiai
 832	52	相鼠	52.1	2	不死何a[hiuai]為。（歌部）	不 死 何 為	為	a	hiuai	歌部		4	0 0 0 236	不 + 死 + 何 + hiuai
@@ -828,6 +882,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 837	52	相鼠	52.3	1	相鼠有a[thyei]體	相 鼠 有 體	體	a	thyei			1	0 0 0 238	相 + 鼠 + 有 + thyei
 838	52	相鼠	52.3	2	人而無a[lyei]禮。	人 而 無 禮	禮	a	lyei			2	0 0 0 238	人 + 而 + 無 + lyei
 840	52	相鼠	52.3	2	胡不遄a[siei]死。（脂部）	胡 不 遄 死	死	a	siei	脂部		4	0 0 0 238	胡 + 不 + 遄 + siei
+#
 841	53	干旄	53.1	1	孑孑干a[mô]旄	孑 孑 干 旄	旄	a	mô			1	0 0 0 239	孑 + 孑 + 干 + mô
 842	53	干旄	53.1	2	在浚之a[keô]郊。（宵部）	在 浚 之 郊	郊	a	keô	宵部		2	0 0 0 239	在 + 浚 + 之 + keô
 843	53	干旄	53.1	1	素絲b[biei]紕之	素 絲 紕 之	紕	b	biei			3	0 0 240 0	素 + 絲 + biei + 之
@@ -846,6 +901,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 856	53	干旄	53.3	2	良馬b[liuk]六之。	良 馬 六 之	六	b	liuk			4	0 0 243 0	良 + 馬 + liuk + 之
 857	53	干旄	53.3	1	彼姝者子	彼 姝 者 子						5	0 0 0 0	彼 + 姝 + 者 + 子
 858	53	干旄	53.3	2	何以b[kuk]告之。（觉部）	何 以 告 之	告	b	kuk	觉部		6	0 0 243 0	何 + 以 + kuk + 之
+#
 859	54	載馳	54.1	1	載馳載a[khiuo]驅	載 馳 載 驅	驅	a	khiuo			1	0 0 0 244	載 + 馳 + 載 + khiuo
 860	54	載馳	54.1	2	歸唁衛a[ho]侯。（侯部）	歸 唁 衛 侯	侯	a	ho	侯部		2	0 0 0 244	歸 + 唁 + 衛 + ho
 861	54	載馳	54.1	1	驅馬悠b[jiu]悠	驅 馬 悠 悠	悠	b	jiu			3	0 0 0 245	驅 + 馬 + 悠 + jiu
@@ -873,6 +929,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 885	54	載馳	54.4	1	百爾所b[siə]思	百 爾 所 思	思	b	siə			7	0 0 0 250	百 + 爾 + 所 + siə
 886	54	載馳	54.4	2	不如我所b[tjiə]之。（之部）	不 如 我 所 之	之	b	tjiə	之部		8	0 0 0 0 250	不 + 如 + 我 + 所 + tjiə
 887	54	載馳	54.8	1	衛風	衛 風						1	0 0	衛 + 風
+#
 888	55	淇奧	55.1	1	瞻彼淇奧	瞻 彼 淇 奧						1	0 0 0 0	瞻 + 彼 + 淇 + 奧
 889	55	淇奧	55.1	2	綠竹猗a[iai]猗。	綠 竹 猗 猗	猗	a	iai			2	0 0 0 251	綠 + 竹 + 猗 + iai
 890	55	淇奧	55.1	1	有匪君子	有 匪 君 子						3	0 0 0 0	有 + 匪 + 君 + 子
@@ -898,6 +955,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 912	55	淇奧	55.3	2	猗重b[keôk]較兮。	猗 重 較 兮	較	b	keôk			7	0 0 256 0	猗 + 重 + keôk + 兮
 913	55	淇奧	55.3	1	善戲b[xiôk]謔兮	善 戲 謔 兮	謔	b	xiôk			8	0 0 256 0	善 + 戲 + xiôk + 兮
 914	55	淇奧	55.3	2	不為b[ngiôk]虐兮。（药部）	不 為 虐 兮	虐	b	ngiôk	药部		9	0 0 256 0	不 + 為 + ngiôk + 兮
+#
 915	56	考槃	56.1	1	考槃在a[kean]澗	考 槃 在 澗	澗	a	kean			1	0 0 0 257	考 + 槃 + 在 + kean
 916	56	考槃	56.1	2	碩人之a[khuan]寬。	碩 人 之 寬	寬	a	khuan			2	0 0 0 257	碩 + 人 + 之 + khuan
 917	56	考槃	56.1	1	獨寐寤a[ngian]言	獨 寐 寤 言	言	a	ngian			3	0 0 0 257	獨 + 寐 + 寤 + ngian
@@ -910,6 +968,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 924	56	考槃	56.3	2	碩人之a[diuk]軸。	碩 人 之 軸	軸	a	diuk			2	0 0 0 259	碩 + 人 + 之 + diuk
 925	56	考槃	56.3	1	獨寐寤a[siuk]宿	獨 寐 寤 宿	宿	a	siuk			3	0 0 0 259	獨 + 寐 + 寤 + siuk
 926	56	考槃	56.3	2	永矢弗a[kuk]告。（觉部）	永 矢 弗 告	告	a	kuk	觉部		4	0 0 0 259	永 + 矢 + 弗 + kuk
+#
 927	57	碩人	57.1	1	碩人其a[giəi]頎	碩 人 其 頎	頎	a	giəi			1	0 0 0 260	碩 + 人 + 其 + giəi
 928	57	碩人	57.1	2	衣錦褧a[iəi]衣。（微部）	衣 錦 褧 衣	衣	a	iəi	微部		2	0 0 0 260	衣 + 錦 + 褧 + iəi
 929	57	碩人	57.1	1	齊侯之子	齊 侯 之 子						3	0 0 0 0	齊 + 侯 + 之 + 子
@@ -939,6 +998,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 953	57	碩人	57.4	3	葭菼揭a[kiat]揭。	葭 菼 揭 揭	揭	a	kiat			5	0 0 0 265	葭 + 菼 + 揭 + kiat
 954	57	碩人	57.4	1	庶姜孼a[ngiat]孼	庶 姜 孼 孼	孼	a	ngiat			6	0 0 0 265	庶 + 姜 + 孼 + ngiat
 955	57	碩人	57.4	2	庶士有a[khiat]朅。（月部）	庶 士 有 朅	朅	a	khiat	月部		7	0 0 0 265	庶 + 士 + 有 + khiat
+#
 956	58	氓	58.1	1	氓之蚩a[thjiə]蚩	氓 之 蚩 蚩	蚩	a	thjiə			1	0 0 0 266	氓 + 之 + 蚩 + thjiə
 957	58	氓	58.1	2	抱布貿a[siə]絲。	抱 布 貿 絲	絲	a	siə			2	0 0 0 266	抱 + 布 + 貿 + siə
 958	58	氓	58.1	1	匪來貿a[siə]絲	匪 來 貿 絲	絲	a	siə			3	0 0 0 266	匪 + 來 + 貿 + siə
@@ -1000,6 +1060,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1014	58	氓	58.6	2	不思其a[piuan]反。（元部）	不 思 其 反	反	a	piuan	元部		8	0 0 0 275	不 + 思 + 其 + piuan
 1015	58	氓	58.6	1	反是不b[siə]思	反 是 不 思	思	b	siə			9	0 0 0 276	反 + 是 + 不 + siə
 1016	58	氓	58.6	2	亦已焉b[tzə]哉。（之部）	亦 已 焉 哉	哉	b	tzə	之部		10	0 0 0 276	亦 + 已 + 焉 + tzə
+#
 1017	59	竹竿	59.1	1	藋藋竹竿	藋 藋 竹 竿						1	0 0 0 0	藋 + 藋 + 竹 + 竿
 1018	59	竹竿	59.1	2	以釣于a[giə]淇。	以 釣 于 淇	淇	a	giə			2	0 0 0 277	以 + 釣 + 于 + giə
 1019	59	竹竿	59.1	1	豈不爾a[siə]思	豈 不 爾 思	思	a	siə			3	0 0 0 277	豈 + 不 + 爾 + siə
@@ -1016,6 +1077,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1030	59	竹竿	59.4	2	檜楫松a[tjiu]舟。	檜 楫 松 舟	舟	a	tjiu			2	0 0 0 280	檜 + 楫 + 松 + tjiu
 1031	59	竹竿	59.4	1	駕言出a[jiu]遊	駕 言 出 遊	遊	a	jiu			3	0 0 0 280	駕 + 言 + 出 + jiu
 1032	59	竹竿	59.4	2	以寫我a[iu]憂。（幽部）	以 寫 我 憂	憂	a	iu	幽部		4	0 0 0 280	以 + 寫 + 我 + iu
+#
 1033	60	芄蘭	60.1	1	芄蘭之a[tjie]支	芄 蘭 之 支	支	a	tjie			1	0 0 0 281	芄 + 蘭 + 之 + tjie
 1034	60	芄蘭	60.1	2	童子佩a[hyue]觿。	童 子 佩 觿	觿	a	hyue			2	0 0 0 281	童 + 子 + 佩 + hyue
 1035	60	芄蘭	60.1	1	雖則佩a[hyue]觿	雖 則 佩 觿	觿	a	hyue			3	0 0 0 281	雖 + 則 + 佩 + hyue
@@ -1028,6 +1090,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1042	60	芄蘭	60.2	2	能不我a[keap]甲。（盍部）	能 不 我 甲	甲	a	keap	盍部		4	0 0 0 283	能 + 不 + 我 + keap
 1043	60	芄蘭	60.2	1	容兮b[ziuət]遂兮	容 兮 遂 兮	遂	b	ziuət			5	0 0 284 0	容 + 兮 + ziuət + 兮
 1044	60	芄蘭	60.2	2	垂帶b[giuet]悸兮。（质物合韵）	垂 帶 悸 兮	悸	b	giuet	质物合韵		6	0 0 284 0	垂 + 帶 + giuet + 兮
+#
 1045	61	河廣	61.1	1	誰謂河a[kuang]廣	誰 謂 河 廣	廣	a	kuang			1	0 0 0 285	誰 + 謂 + 河 + kuang
 1046	61	河廣	61.1	2	一葦a[hang]杭之。	一 葦 杭 之	杭	a	hang			2	0 0 285 0	一 + 葦 + hang + 之
 1047	61	河廣	61.1	1	誰謂宋遠	誰 謂 宋 遠						3	0 0 0 0	誰 + 謂 + 宋 + 遠
@@ -1036,6 +1099,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1050	61	河廣	61.2	2	曾不容a[tô]刀。	曾 不 容 刀	刀	a	tô			2	0 0 0 286	曾 + 不 + 容 + tô
 1051	61	河廣	61.2	1	誰謂宋遠	誰 謂 宋 遠						3	0 0 0 0	誰 + 謂 + 宋 + 遠
 1052	61	河廣	61.2	2	曾不崇a[tiô]朝。（宵部）	曾 不 崇 朝	朝	a	tiô	宵部		4	0 0 0 286	曾 + 不 + 崇 + tiô
+#
 1053	62	伯兮	62.1	1	伯兮a[khiat]朅兮	伯 兮 朅 兮	朅	a	khiat			1	0 0 287 0	伯 + 兮 + khiat + 兮
 1054	62	伯兮	62.1	2	邦之a[giat]桀兮。（月部）	邦 之 桀 兮	桀	a	giat	月部		2	0 0 287 0	邦 + 之 + giat + 兮
 1055	62	伯兮	62.1	1	伯也執b[zjio]殳	伯 也 執 殳	殳	b	zjio			3	0 0 0 288	伯 + 也 + 執 + zjio
@@ -1052,6 +1116,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1066	62	伯兮	62.4	2	言樹之a[puək]背。	言 樹 之 背	背	a	puək			2	0 0 0 291	言 + 樹 + 之 + puək
 1067	62	伯兮	62.4	1	願言思伯	願 言 思 伯						3	0 0 0 0	願 + 言 + 思 + 伯
 1068	62	伯兮	62.4	2	使我心a[muə]痗。（职之通韵）	使 我 心 痗	痗	a	muə	职之通韵		4	0 0 0 291	使 + 我 + 心 + muə
+#
 1069	63	有狐	63.1	1	有狐綏綏	有 狐 綏 綏						1	0 0 0 0	有 + 狐 + 綏 + 綏
 1070	63	有狐	63.1	2	在彼淇a[liang]梁。	在 彼 淇 梁	梁	a	liang			2	0 0 0 292	在 + 彼 + 淇 + liang
 1071	63	有狐	63.1	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
@@ -1064,6 +1129,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1078	63	有狐	63.3	2	在彼淇a[tzhiək]側。	在 彼 淇 側	側	a	tzhiək			2	0 0 0 294	在 + 彼 + 淇 + tzhiək
 1079	63	有狐	63.3	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
 1080	63	有狐	63.3	2	之子無a[biuək]服。（职部）	之 子 無 服	服	a	biuək	职部		4	0 0 0 294	之 + 子 + 無 + biuək
+#
 1081	64	木瓜	64.1	1	投我以木a[koa]瓜	投 我 以 木 瓜	瓜	a	koa			1	0 0 0 0 295	投 + 我 + 以 + 木 + koa
 1082	64	木瓜	64.1	2	報之以瓊a[kia]琚。（鱼部）	報 之 以 瓊 琚	琚	a	kia	鱼部		2	0 0 0 0 295	報 + 之 + 以 + 瓊 + kia
 1083	64	木瓜	64.1	1	匪b[pu]報也	匪 報 也	報	b	pu			3	0 296 0	匪 + pu + 也
@@ -1077,6 +1143,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1091	64	木瓜	64.3	1	匪b[pu]報也	匪 報 也	報	b	pu			3	0 300 0	匪 + pu + 也
 1092	64	木瓜	64.3	2	永以為b[xu]好也。（幽部）	永 以 為 好 也	好	b	xu	幽部		4	0 0 0 300 0	永 + 以 + 為 + xu + 也
 1093	64	木瓜	64.7	1	王風	王 風						1	0 0	王 + 風
+#
 1094	65	黍離	65.1	1	彼黍離a[liai]離	彼 黍 離 離	離	a	liai			1	0 0 0 301	彼 + 黍 + 離 + liai
 1095	65	黍離	65.1	2	彼稷之b[miô]苗。（a= 歌部）	彼 稷 之 苗	苗	b	miô	a=歌部		2	0 0 0 302	彼 + 稷 + 之 + miô
 1096	65	黍離	65.1	1	行邁靡a[miai]靡	行 邁 靡 靡	靡	a	miai			3	0 0 0 301	行 + 邁 + 靡 + miai
@@ -1107,6 +1174,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1121	65	黍離	65.3	4	謂我何c[giu]求。（幽部）	謂 我 何 求	求	c	giu	幽部		8	0 0 0 311	謂 + 我 + 何 + giu
 1122	65	黍離	65.3	1	悠悠蒼d[thyen]天	悠 悠 蒼 天	天	d	thyen			9	0 0 0 312	悠 + 悠 + 蒼 + thyen
 1123	65	黍離	65.3	2	此何d[njien]人哉。（真部）	此 何 人 哉	人	d	njien	真部		10	0 0 312 0	此 + 何 + njien + 哉
+#
 1124	66	君子于役	66.1	1	君子于役	君 子 于 役						1	0 0 0 0	君 + 子 + 于 + 役
 1125	66	君子于役	66.1	2	不知其a[giə]期	不 知 其 期	期	a	giə			2	0 0 0 313	不 + 知 + 其 + giə
 1126	66	君子于役	66.1	3	曷至a[tzə]哉。	曷 至 哉	哉	a	tzə			3	0 0 313	曷 + 至 + tzə
@@ -1121,6 +1189,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1136	66	君子于役	66.2	2	日之夕矣	日 之 夕 矣						5	0 0 0 0	日 + 之 + 夕 + 矣
 1137	66	君子于役	66.2	3	羊牛下a[kuat]括。	羊 牛 下 括	括	a	kuat			6	0 0 0 314	羊 + 牛 + 下 + kuat
 1139	66	君子于役	66.2	2	茍無飢a[khat]渴。（月部）	茍 無 飢 渴	渴	a	khat	月部		8	0 0 0 314	茍 + 無 + 飢 + khat
+#
 1140	67	君子陽陽	67.1	1	君子陽a[jiang]陽	君 子 陽 陽	陽	a	jiang			1	0 0 0 315	君 + 子 + 陽 + jiang
 1141	67	君子陽陽	67.1	2	左執a[huang]簧	左 執 簧	簧	a	huang			2	0 0 315	左 + 執 + huang
 1142	67	君子陽陽	67.1	3	右招我由a[biuang]房。（阳部）	右 招 我 由 房	房	a	biuang	阳部		3	0 0 0 0 315	右 + 招 + 我 + 由 + biuang
@@ -1129,6 +1198,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1145	67	君子陽陽	67.2	2	左執a[du]翿	左 執 翿	翿	a	du			2	0 0 317	左 + 執 + du
 1146	67	君子陽陽	67.2	3	右招我由a[ngô]敖。（幽宵合韵）	右 招 我 由 敖	敖	a	ngô	幽宵合韵		3	0 0 0 0 317	右 + 招 + 我 + 由 + ngô
 1147	67	君子陽陽	67.2	1	其樂只B[tzia]且。（鱼部）	其 樂 只 且	且	B	tzia	鱼部		4	0 0 0 318	其 + 樂 + 只 + tzia
+#
 1148	68	揚之水	68.1	1	揚之水	揚 之 水						1	0 0 0	揚 + 之 + 水
 1149	68	揚之水	68.1	2	不流束a[sien]薪。	不 流 束 薪	薪	a	sien			2	0 0 0 319	不 + 流 + 束 + sien
 1150	68	揚之水	68.1	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
@@ -1147,6 +1217,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1165	68	揚之水	68.3	2	不與我戍a[xia]許。（鱼部）	不 與 我 戍 許	許	a	xia	鱼部		4	0 0 0 0 323	不 + 與 + 我 + 戍 + xia
 1166	68	揚之水	68.3	1	b[hoəi]懷哉b[hoəi]懷哉	懷 哉 懷 哉	懷	b	hoəi			5	324 0 324 0	hoəi + 哉 + hoəi + 哉
 1168	68	揚之水	68.3	2	曷月予還b[kiuəi]歸哉。（微部）	曷 月 予 還 歸 哉	歸	b	kiuəi	微部		7	0 0 0 0 324 0	曷 + 月 + 予 + 還 + kiuəi + 哉
+#
 1169	69	中谷有蓷	69.1	1	中谷有蓷	中 谷 有 蓷						1	0 0 0 0	中 + 谷 + 有 + 蓷
 1170	69	中谷有蓷	69.1	2	暵其a[kan]乾矣。	暵 其 乾 矣	乾	a	kan			2	0 0 325 0	暵 + 其 + kan + 矣
 1171	69	中谷有蓷	69.1	1	有女仳離	有 女 仳 離						3	0 0 0 0	有 + 女 + 仳 + 離
@@ -1163,6 +1234,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1183	69	中谷有蓷	69.3	1	有女仳離	有 女 仳 離						3	0 0 0 0	有 + 女 + 仳 + 離
 1184	69	中谷有蓷	69.3	2	啜其a[khiəp]泣矣。	啜 其 泣 矣	泣	a	khiəp			4	0 0 327 0	啜 + 其 + khiəp + 矣
 1186	69	中谷有蓷	69.3	2	嗟何a[giəp]及矣。（缉部）	嗟 何 及 矣	及	a	giəp	缉部		6	0 0 327 0	嗟 + 何 + giəp + 矣
+#
 1187	70	兔爰	70.1	1	有兔爰爰	有 兔 爰 爰						1	0 0 0 0	有 + 兔 + 爰 + 爰
 1188	70	兔爰	70.1	2	雉離于a[lai]羅。	雉 離 于 羅	羅	a	lai			2	0 0 0 328	雉 + 離 + 于 + lai
 1189	70	兔爰	70.1	1	我生之初	我 生 之 初						3	0 0 0 0	我 + 生 + 之 + 初
@@ -1184,6 +1256,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1205	70	兔爰	70.3	1	我生之後	我 生 之 後						5	0 0 0 0	我 + 生 + 之 + 後
 1206	70	兔爰	70.3	2	逢此百a[xiong]凶。	逢 此 百 凶	凶	a	xiong			6	0 0 0 330	逢 + 此 + 百 + xiong
 1207	70	兔爰	70.3	1	尚寐無a[tsong]聰。（东部）	尚 寐 無 聰	聰	a	tsong	东部		7	0 0 0 330	尚 + 寐 + 無 + tsong
+#
 1208	71	葛藟	71.1	1	綿綿葛藟	綿 綿 葛 藟						1	0 0 0 0	綿 + 綿 + 葛 + 藟
 1209	71	葛藟	71.1	2	在河之a[xa]滸。	在 河 之 滸	滸	a	xa			2	0 0 0 331	在 + 河 + 之 + xa
 1210	71	葛藟	71.1	1	終遠兄弟	終 遠 兄 弟						3	0 0 0 0	終 + 遠 + 兄 + 弟
@@ -1199,6 +1272,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1222	71	葛藟	71.3	1	終遠兄弟	終 遠 兄 弟						3	0 0 0 0	終 + 遠 + 兄 + 弟
 1223	71	葛藟	71.3	2	謂他人a[kuən]昆。	謂 他 人 昆	昆	a	kuən			4	0 0 0 333	謂 + 他 + 人 + kuən
 1225	71	葛藟	71.3	2	亦莫我a[miuən]聞。（文部）	亦 莫 我 聞	聞	a	miuən	文部		6	0 0 0 333	亦 + 莫 + 我 + miuən
+#
 1226	72	采葛	72.1	1	彼采a[kat]葛兮。	彼 采 葛 兮	葛	a	kat			1	0 0 334 0	彼 + 采 + kat + 兮
 1227	72	采葛	72.1	1	一日不見	一 日 不 見						2	0 0 0 0	一 + 日 + 不 + 見
 1228	72	采葛	72.1	2	如三a[ngiuat]月兮。（月部）	如 三 月 兮	月	a	ngiuat	月部		3	0 0 334 0	如 + 三 + ngiuat + 兮
@@ -1208,6 +1282,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1232	72	采葛	72.3	1	彼采a[ngat]艾兮。	彼 采 艾 兮	艾	a	ngat			1	0 0 336 0	彼 + 采 + ngat + 兮
 1233	72	采葛	72.3	1	一日不見	一 日 不 見						2	0 0 0 0	一 + 日 + 不 + 見
 1234	72	采葛	72.3	2	如三a[siuat]歲兮。（月部）	如 三 歲 兮	歲	a	siuat	月部		3	0 0 336 0	如 + 三 + siuat + 兮
+#
 1235	73	大車	73.1	1	大車檻a[heam]檻	大 車 檻 檻	檻	a	heam			1	0 0 0 337	大 + 車 + 檻 + heam
 1236	73	大車	73.1	2	毳衣如a[tham]菼。	毳 衣 如 菼	菼	a	tham			2	0 0 0 337	毳 + 衣 + 如 + tham
 1237	73	大車	73.1	1	豈不爾思	豈 不 爾 思						3	0 0 0 0	豈 + 不 + 爾 + 思
@@ -1220,6 +1295,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1244	73	大車	73.3	2	死則同a[hyuet]穴。	死 則 同 穴	穴	a	hyuet			2	0 0 0 339	死 + 則 + 同 + hyuet
 1245	73	大車	73.3	1	謂予不信	謂 予 不 信						3	0 0 0 0	謂 + 予 + 不 + 信
 1246	73	大車	73.3	2	有如皦a[njiet]日。（质部）	有 如 皦 日	日	a	njiet	质部		4	0 0 0 339	有 + 如 + 皦 + njiet
+#
 1247	74	丘中有麻	74.1	1	丘中有a[meai]麻	丘 中 有 麻	麻	a	meai			1	0 0 0 340	丘 + 中 + 有 + meai
 1248	74	丘中有麻	74.1	2	彼留子a[tzyai]嗟。	彼 留 子 嗟	嗟	a	tzyai			2	0 0 0 340	彼 + 留 + 子 + tzyai
 1250	74	丘中有麻	74.1	2	將其來施a[sjiai]施。（歌部）	將 其 來 施 施	施	a	sjiai	歌部		4	0 0 0 0 340	將 + 其 + 來 + 施 + sjiai
@@ -1230,6 +1306,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1256	74	丘中有麻	74.3	2	彼留之a[tziə]子。	彼 留 之 子	子	a	tziə			2	0 0 0 342	彼 + 留 + 之 + tziə
 1258	74	丘中有麻	74.3	2	貽我佩a[kiuə]玖。（之部）	貽 我 佩 玖	玖	a	kiuə	之部		4	0 0 0 342	貽 + 我 + 佩 + kiuə
 1259	74	丘中有麻	74.6	1	鄭風	鄭 風						1	0 0	鄭 + 風
+#
 1260	75	緇衣	75.1	1	緇衣之a[ngiai]宜兮	緇 衣 之 宜 兮	宜	a	ngiai			1	0 0 0 343 0	緇 + 衣 + 之 + ngiai + 兮
 1261	75	緇衣	75.1	2	敝予又改a[hiuai]為兮。（歌部）	敝 予 又 改 為 兮	為	a	hiuai	歌部		2	0 0 0 0 343 0	敝 + 予 + 又 + 改 + hiuai + 兮
 1262	75	緇衣	75.1	1	適子之b[kuan]館兮	適 子 之 館 兮	館	b	kuan			3	0 0 0 344 0	適 + 子 + 之 + kuan + 兮
@@ -1242,6 +1319,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1269	75	緇衣	75.3	2	敝予又改a[tzak]作兮。（铎部）	敝 予 又 改 作 兮	作	a	tzak	铎部		2	0 0 0 0 347 0	敝 + 予 + 又 + 改 + tzak + 兮
 1270	75	緇衣	75.3	1	適子之b[kuan]館兮	適 子 之 館 兮	館	b	kuan			3	0 0 0 348 0	適 + 子 + 之 + kuan + 兮
 1271	75	緇衣	75.3	2	還予授子之b[tsan]粲兮。（元部）	還 予 授 子 之 粲 兮	粲	b	tsan	元部		4	0 0 0 0 0 348 0	還 + 予 + 授 + 子 + 之 + tsan + 兮
+#
 1272	76	將仲子	76.1	1	將仲a[tziə]子兮	將 仲 子 兮	子	a	tziə			1	0 0 349 0	將 + 仲 + tziə + 兮
 1273	76	將仲子	76.1	2	無踰我a[liə]里	無 踰 我 里	里	a	liə			2	0 0 0 349	無 + 踰 + 我 + liə
 1274	76	將仲子	76.1	3	無折我樹a[khiə]杞。	無 折 我 樹 杞	杞	a	khiə			3	0 0 0 0 349	無 + 折 + 我 + 樹 + khiə
@@ -1266,6 +1344,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1293	76	將仲子	76.3	1	仲可b[hoəi]懷也	仲 可 懷 也	懷	b	hoəi			6	0 0 354 0	仲 + 可 + hoəi + 也
 1294	76	將仲子	76.3	2	人之多言	人 之 多 言						7	0 0 0 0	人 + 之 + 多 + 言
 1295	76	將仲子	76.3	3	亦可b[iuəi]畏也。（微部）	亦 可 畏 也	畏	b	iuəi	微部		8	0 0 354 0	亦 + 可 + iuəi + 也
+#
 1296	77	叔于田	77.1	1	叔于a[dyen]田	叔 于 田	田	a	dyen			1	0 0 355	叔 + 于 + dyen
 1297	77	叔于田	77.1	2	巷無居a[njien]人。	巷 無 居 人	人	a	njien			2	0 0 0 355	巷 + 無 + 居 + njien
 1298	77	叔于田	77.1	1	豈無居a[njien]人	豈 無 居 人	人	a	njien			3	0 0 0 355	豈 + 無 + 居 + njien
@@ -1281,6 +1360,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1308	77	叔于田	77.3	1	豈無服a[mea]馬	豈 無 服 馬	馬	a	mea			3	0 0 0 357	豈 + 無 + 服 + mea
 1309	77	叔于田	77.3	2	不如叔也	不 如 叔 也						4	0 0 0 0	不 + 如 + 叔 + 也
 1310	77	叔于田	77.3	3	洵美且a[miua]武。（鱼部）	洵 美 且 武	武	a	miua	鱼部		5	0 0 0 357	洵 + 美 + 且 + miua
+#
 1311	78	大叔于田	78.1	1	叔于田	叔 于 田						1	0 0 0	叔 + 于 + 田
 1312	78	大叔于田	78.1	2	乘乘a[mea]馬	乘 乘 馬	馬	a	mea			2	0 0 358	乘 + 乘 + mea
 1313	78	大叔于田	78.1	3	執轡如a[tza]組	執 轡 如 組	組	a	tza			3	0 0 0 358	執 + 轡 + 如 + tza
@@ -1313,6 +1393,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1340	78	大叔于田	78.3	3	（元部）					元部		9		
 1341	78	大叔于田	78.3	1	抑釋c[piəng]掤忌	抑 釋 掤 忌	掤	c	piəng			10	0 0 364 0	抑 + 釋 + piəng + 忌
 1342	78	大叔于田	78.3	2	抑鬯c[kiuəng]弓忌。（蒸部）	抑 鬯 弓 忌	弓	c	kiuəng	蒸部		11	0 0 364 0	抑 + 鬯 + kiuəng + 忌
+#
 1343	79	清人	79.1	1	清人在a[beang]彭	清 人 在 彭	彭	a	beang			1	0 0 0 365	清 + 人 + 在 + beang
 1344	79	清人	79.1	2	駟介旁a[peang]旁	駟 介 旁 旁	旁	a	peang			2	0 0 0 365	駟 + 介 + 旁 + peang
 1345	79	清人	79.1	3	二矛重a[yang]英	二 矛 重 英	英	a	yang			3	0 0 0 365	二 + 矛 + 重 + yang
@@ -1325,6 +1406,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1352	79	清人	79.3	2	駟介陶a[du]陶	駟 介 陶 陶	陶	a	du			2	0 0 0 367	駟 + 介 + 陶 + du
 1353	79	清人	79.3	3	左旋右a[thiu]抽	左 旋 右 抽	抽	a	thiu			3	0 0 0 367	左 + 旋 + 右 + thiu
 1354	79	清人	79.3	4	中軍作a[xu]好。（觉幽通韵）	中 軍 作 好	好	a	xu	觉幽通韵		4	0 0 0 367	中 + 軍 + 作 + xu
+#
 1355	80	羔裘	80.1	1	羔裘如a[njio]濡	羔 裘 如 濡	濡	a	njio			1	0 0 0 368	羔 + 裘 + 如 + njio
 1356	80	羔裘	80.1	2	洵直且a[ho]侯。	洵 直 且 侯	侯	a	ho			2	0 0 0 368	洵 + 直 + 且 + ho
 1357	80	羔裘	80.1	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
@@ -1337,6 +1419,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1364	80	羔裘	80.3	2	三英a[tsan]粲兮。	三 英 粲 兮	粲	a	tsan			2	0 0 370 0	三 + 英 + tsan + 兮
 1365	80	羔裘	80.3	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
 1366	80	羔裘	80.3	2	邦之a[ngian]彥兮。（元部）	邦 之 彥 兮	彥	a	ngian	元部		4	0 0 370 0	邦 + 之 + ngian + 兮
+#
 1367	81	遵大路	81.1	1	遵大a[lak]路兮	遵 大 路 兮	路	a	lak			1	0 0 371 0	遵 + 大 + lak + 兮
 1368	81	遵大路	81.1	2	摻執子之a[khia]怯兮。	摻 執 子 之 怯 兮	怯	a	khia			2	0 0 0 0 371 0	摻 + 執 + 子 + 之 + khia + 兮
 1369	81	遵大路	81.1	1	無我a[ak]惡兮	無 我 惡 兮	惡	a	ak			3	0 0 371 0	無 + 我 + ak + 兮
@@ -1345,6 +1428,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1372	81	遵大路	81.2	2	摻執子之a[sjiu]手兮。	摻 執 子 之 手 兮	手	a	sjiu			2	0 0 0 0 372 0	摻 + 執 + 子 + 之 + sjiu + 兮
 1373	81	遵大路	81.2	1	無我a[zjiu]魗兮	無 我 魗 兮	魗	a	zjiu			3	0 0 372 0	無 + 我 + zjiu + 兮
 1374	81	遵大路	81.2	2	不寁a[xu]好也。（幽部）	不 寁 好 也	好	a	xu	幽部		4	0 0 372 0	不 + 寁 + xu + 也
+#
 1375	82	女曰雞鳴	82.1	1	女曰雞鳴	女 曰 雞 鳴						1	0 0 0 0	女 + 曰 + 雞 + 鳴
 1376	82	女曰雞鳴	82.1	2	士曰昧a[tan]旦。	士 曰 昧 旦	旦	a	tan			2	0 0 0 373	士 + 曰 + 昧 + tan
 1377	82	女曰雞鳴	82.1	1	子興視夜	子 興 視 夜						3	0 0 0 0	子 + 興 + 視 + 夜
@@ -1363,6 +1447,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1390	82	女曰雞鳴	82.3	2	雜佩以b[miuən]問之。（文部）	雜 佩 以 問 之	問	b	miuən	文部		4	0 0 0 377 0	雜 + 佩 + 以 + miuən + 之
 1391	82	女曰雞鳴	82.3	1	知子之c[xu]好之	知 子 之 好 之	好	c	xu			5	0 0 0 378 0	知 + 子 + 之 + xu + 之
 1392	82	女曰雞鳴	82.3	2	雜佩以c[pu]報之。（幽部）	雜 佩 以 報 之	報	c	pu	幽部		6	0 0 0 378 0	雜 + 佩 + 以 + pu + 之
+#
 1393	83	有女同車	83.1	1	有女同a[kia]車	有 女 同 車	車	a	kia			1	0 0 0 379	有 + 女 + 同 + kia
 1394	83	有女同車	83.1	2	顏如舜a[hoa]華。	顏 如 舜 華	華	a	hoa			2	0 0 0 379	顏 + 如 + 舜 + hoa
 1395	83	有女同車	83.1	1	將翱將b[ziang]翔	將 翱 將 翔	翔	b	ziang			3	0 0 0 380	將 + 翱 + 將 + ziang
@@ -1375,6 +1460,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1402	83	有女同車	83.2	2	佩玉將a[tsiang]將。	佩 玉 將 將	將	a	tsiang			4	0 0 0 381	佩 + 玉 + 將 + tsiang
 1403	83	有女同車	83.2	1	彼美孟a[kiang]姜	彼 美 孟 姜	姜	a	kiang			5	0 0 0 381	彼 + 美 + 孟 + kiang
 1404	83	有女同車	83.2	2	德音不a[miuang]忘。（阳部）	德 音 不 忘	忘	a	miuang	阳部		6	0 0 0 381	德 + 音 + 不 + miuang
+#
 1405	84	山有扶蘇	84.1	1	山有扶a[sa]蘇	山 有 扶 蘇	蘇	a	sa			1	0 0 0 382	山 + 有 + 扶 + sa
 1406	84	山有扶蘇	84.1	2	隰有荷a[hoa]華。	隰 有 荷 華	華	a	hoa			2	0 0 0 382	隰 + 有 + 荷 + hoa
 1407	84	山有扶蘇	84.1	1	不見子a[ta]都	不 見 子 都	都	a	ta			3	0 0 0 382	不 + 見 + 子 + ta
@@ -1383,6 +1469,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1410	84	山有扶蘇	84.2	2	隰有游a[liong]龍。	隰 有 游 龍	龍	a	liong			2	0 0 0 383	隰 + 有 + 游 + liong
 1411	84	山有扶蘇	84.2	1	不見子a[thjiong]充	不 見 子 充	充	a	thjiong			3	0 0 0 383	不 + 見 + 子 + thjiong
 1412	84	山有扶蘇	84.2	2	乃見狡a[dong]童。（东部）	乃 見 狡 童	童	a	dong	东部		4	0 0 0 383	乃 + 見 + 狡 + dong
+#
 1413	85	蘀兮	85.1	1	a[thak]蘀兮a[thak]蘀兮	蘀 兮 蘀 兮	蘀	a	thak			1	384 0 384 0	thak + 兮 + thak + 兮
 1415	85	蘀兮	85.1	2	風其b[thjiuai]吹女。（a= 铎部）	風 其 吹 女	吹	b	thjiuai	a=铎部		3	0 0 385 0	風 + 其 + thjiuai + 女
 1416	85	蘀兮	85.1	1	叔兮a[peak]伯兮	叔 兮 伯 兮	伯	a	peak			4	0 0 384 0	叔 + 兮 + peak + 兮
@@ -1391,6 +1478,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1420	85	蘀兮	85.2	2	風其b[phiô]漂女。（a= 铎部）	風 其 漂 女	漂	b	phiô	a=铎部		3	0 0 387 0	風 + 其 + phiô + 女
 1421	85	蘀兮	85.2	1	叔兮a[peak]伯兮	叔 兮 伯 兮	伯	a	peak			4	0 0 386 0	叔 + 兮 + peak + 兮
 1422	85	蘀兮	85.2	2	倡予b[iô]要女。（b= 宵部）	倡 予 要 女	要	b	iô	b=宵部		5	0 0 387 0	倡 + 予 + iô + 女
+#
 1423	86	狡童	86.1	1	彼狡童兮	彼 狡 童 兮						1	0 0 0 0	彼 + 狡 + 童 + 兮
 1424	86	狡童	86.1	2	不與我a[ngian]言兮。	不 與 我 言 兮	言	a	ngian			2	0 0 0 388 0	不 + 與 + 我 + ngian + 兮
 1425	86	狡童	86.1	1	維子之故	維 子 之 故						3	0 0 0 0	維 + 子 + 之 + 故
@@ -1399,6 +1487,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1428	86	狡童	86.2	2	不與我a[djiək]食兮。	不 與 我 食 兮	食	a	djiək			2	0 0 0 389 0	不 + 與 + 我 + djiək + 兮
 1429	86	狡童	86.2	1	維子之故	維 子 之 故						3	0 0 0 0	維 + 子 + 之 + 故
 1430	86	狡童	86.2	2	使我不能a[siək]息兮。（职部）	使 我 不 能 息 兮	息	a	siək	职部		4	0 0 0 0 389 0	使 + 我 + 不 + 能 + siək + 兮
+#
 1431	87	褰裳	87.1	1	子惠思我	子 惠 思 我						1	0 0 0 0	子 + 惠 + 思 + 我
 1432	87	褰裳	87.1	2	褰裳涉a[tzhen]溱。	褰 裳 涉 溱	溱	a	tzhen			2	0 0 0 390	褰 + 裳 + 涉 + tzhen
 1433	87	褰裳	87.1	1	子不我思	子 不 我 思						3	0 0 0 0	子 + 不 + 我 + 思
@@ -1409,6 +1498,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1438	87	褰裳	87.2	1	子不我思	子 不 我 思						3	0 0 0 0	子 + 不 + 我 + 思
 1439	87	褰裳	87.2	2	豈無他a[dzhiə]士。（之部）	豈 無 他 士	士	a	dzhiə	之部		4	0 0 0 392	豈 + 無 + 他 + dzhiə
 1440	87	褰裳	87.2	1	狂童之B[giuang]狂也且。（阳部）	狂 童 之 狂 也 且	狂	B	giuang	阳部		5	0 0 0 393 0 0	狂 + 童 + 之 + giuang + 也 + 且
+#
 1441	88	丰	88.1	1	子之a[phiong]丰兮	子 之 丰 兮	丰	a	phiong			1	0 0 394 0	子 + 之 + phiong + 兮
 1442	88	丰	88.1	2	俟我乎a[heong]巷兮。	俟 我 乎 巷 兮	巷	a	heong			2	0 0 0 394 0	俟 + 我 + 乎 + heong + 兮
 1443	88	丰	88.1	1	悔予不a[song]送兮。（东部）	悔 予 不 送 兮	送	a	song	东部		3	0 0 0 394 0	悔 + 予 + 不 + song + 兮
@@ -1423,6 +1513,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1452	88	丰	88.4	2	衣錦褧a[iəi]衣。	衣 錦 褧 衣	衣	a	iəi			2	0 0 0 397	衣 + 錦 + 褧 + iəi
 1453	88	丰	88.4	1	叔兮伯兮	叔 兮 伯 兮						3	0 0 0 0	叔 + 兮 + 伯 + 兮
 1454	88	丰	88.4	2	駕予與a[kiuəi]歸。（微部）	駕 予 與 歸	歸	a	kiuəi	微部		4	0 0 0 397	駕 + 予 + 與 + kiuəi
+#
 1455	89	東門之墠	89.1	1	東門之a[zjian]墠	東 門 之 墠	墠	a	zjian			1	0 0 0 398	東 + 門 + 之 + zjian
 1456	89	東門之墠	89.1	2	茹藘在a[piuan]阪。	茹 藘 在 阪	阪	a	piuan			2	0 0 0 398	茹 + 藘 + 在 + piuan
 1457	89	東門之墠	89.1	1	其室則邇	其 室 則 邇						3	0 0 0 0	其 + 室 + 則 + 邇
@@ -1431,6 +1522,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1460	89	東門之墠	89.2	2	有踐家a[sjiet]室。	有 踐 家 室	室	a	sjiet			2	0 0 0 399	有 + 踐 + 家 + sjiet
 1461	89	東門之墠	89.2	1	豈不爾思	豈 不 爾 思						3	0 0 0 0	豈 + 不 + 爾 + 思
 1462	89	東門之墠	89.2	2	子不我a[tziet]即。（质部）	子 不 我 即	即	a	tziet	质部		4	0 0 0 399	子 + 不 + 我 + tziet
+#
 1463	90	風雨	90.1	1	風雨淒a[tsyei]淒	風 雨 淒 淒	淒	a	tsyei			1	0 0 0 400	風 + 雨 + 淒 + tsyei
 1464	90	風雨	90.1	2	雞鳴喈a[kei]喈。	雞 鳴 喈 喈	喈	a	kei			2	0 0 0 400	雞 + 鳴 + 喈 + kei
 1465	90	風雨	90.1	1	既見君子	既 見 君 子						3	0 0 0 0	既 + 見 + 君 + 子
@@ -1443,6 +1535,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1472	90	風雨	90.3	2	雞鳴不a[jiə]已。	雞 鳴 不 已	已	a	jiə			2	0 0 0 402	雞 + 鳴 + 不 + jiə
 1473	90	風雨	90.3	1	既見君a[tziə]子	既 見 君 子	子	a	tziə			3	0 0 0 402	既 + 見 + 君 + tziə
 1474	90	風雨	90.3	2	云胡不a[xiə]喜。（之部）	云 胡 不 喜	喜	a	xiə	之部		4	0 0 0 402	云 + 胡 + 不 + xiə
+#
 1475	91	子衿	91.1	1	青青子a[kiəm]衿	青 青 子 衿	衿	a	kiəm			1	0 0 0 403	青 + 青 + 子 + kiəm
 1476	91	子衿	91.1	2	悠悠我a[siəm]心。	悠 悠 我 心	心	a	siəm			2	0 0 0 403	悠 + 悠 + 我 + siəm
 1477	91	子衿	91.1	1	縱我不往	縱 我 不 往						3	0 0 0 0	縱 + 我 + 不 + 往
@@ -1455,6 +1548,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1484	91	子衿	91.3	2	在城a[khiuat]闕兮。	在 城 闕 兮	闕	a	khiuat			2	0 0 405 0	在 + 城 + khiuat + 兮
 1485	91	子衿	91.3	1	一日不見	一 日 不 見						3	0 0 0 0	一 + 日 + 不 + 見
 1486	91	子衿	91.3	2	如三a[ngiuat]月兮。（月部）	如 三 月 兮	月	a	ngiuat	月部		4	0 0 405 0	如 + 三 + ngiuat + 兮
+#
 1487	92	揚之水	92.1	1	揚之水	揚 之 水						1	0 0 0	揚 + 之 + 水
 1488	92	揚之水	92.1	2	不流束a[tshia]楚。	不 流 束 楚	楚	a	tshia			2	0 0 0 406	不 + 流 + 束 + tshia
 1489	92	揚之水	92.1	1	終鮮兄弟	終 鮮 兄 弟						3	0 0 0 0	終 + 鮮 + 兄 + 弟
@@ -1467,6 +1561,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1496	92	揚之水	92.2	2	維予二a[njien]人。	維 予 二 人	人	a	njien			4	0 0 0 407	維 + 予 + 二 + njien
 1497	92	揚之水	92.2	1	無信人之言	無 信 人 之 言						5	0 0 0 0 0	無 + 信 + 人 + 之 + 言
 1498	92	揚之水	92.2	2	人實不a[sien]信。（真部）	人 實 不 信	信	a	sien	真部		6	0 0 0 407	人 + 實 + 不 + sien
+#
 1499	93	出其東門	93.1	1	出其東a[muən]門	出 其 東 門	門	a	muən			1	0 0 0 408	出 + 其 + 東 + muən
 1500	93	出其東門	93.1	2	有女如a[hiuən]雲。	有 女 如 雲	雲	a	hiuən			2	0 0 0 408	有 + 女 + 如 + hiuən
 1501	93	出其東門	93.1	1	雖則如a[hiuən]雲	雖 則 如 雲	雲	a	hiuən			3	0 0 0 408	雖 + 則 + 如 + hiuən
@@ -1479,6 +1574,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1508	93	出其東門	93.2	2	匪我思a[tzia]且。	匪 我 思 且	且	a	tzia			4	0 0 0 409	匪 + 我 + 思 + tzia
 1509	93	出其東門	93.2	1	縞衣茹a[lia]藘	縞 衣 茹 藘	藘	a	lia			5	0 0 0 409	縞 + 衣 + 茹 + lia
 1510	93	出其東門	93.2	2	聊可與a[ngiua]娛。（鱼部）	聊 可 與 娛	娛	a	ngiua	鱼部		6	0 0 0 409	聊 + 可 + 與 + ngiua
+#
 1511	94	野有蔓草	94.1	1	野有蔓草	野 有 蔓 草						1	0 0 0 0	野 + 有 + 蔓 + 草
 1512	94	野有蔓草	94.1	2	零露a[duan]漙兮。	零 露 漙 兮	漙	a	duan			2	0 0 410 0	零 + 露 + duan + 兮
 1513	94	野有蔓草	94.1	1	有美一人	有 美 一 人						3	0 0 0 0	有 + 美 + 一 + 人
@@ -1491,6 +1587,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1520	94	野有蔓草	94.2	2	婉如清a[jiang]揚。	婉 如 清 揚	揚	a	jiang			4	0 0 0 411	婉 + 如 + 清 + jiang
 1521	94	野有蔓草	94.2	1	邂逅相遇	邂 逅 相 遇						5	0 0 0 0	邂 + 逅 + 相 + 遇
 1522	94	野有蔓草	94.2	2	與子偕a[tzang]臧。（阳部）	與 子 偕 臧	臧	a	tzang	阳部		6	0 0 0 411	與 + 子 + 偕 + tzang
+#
 1523	95	溱洧	95.1	1	溱與洧	溱 與 洧						1	0 0 0	溱 + 與 + 洧
 1524	95	溱洧	95.1	2	方渙a[xuan]渙兮。	方 渙 渙 兮	渙	a	xuan			2	0 0 412 0	方 + 渙 + xuan + 兮
 1525	95	溱洧	95.1	1	士與女	士 與 女						3	0 0 0	士 + 與 + 女
@@ -1516,6 +1613,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1545	95	溱洧	95.2	2	伊其將c[xiôk]謔	伊 其 將 謔	謔	c	xiôk			11	0 0 0 417	伊 + 其 + 將 + xiôk
 1546	95	溱洧	95.2	3	贈之以勺c[jiôk]藥。（药部）	贈 之 以 勺 藥	藥	c	jiôk	药部		12	0 0 0 0 417	贈 + 之 + 以 + 勺 + jiôk
 1547	95	溱洧	95.6	1	齊風	齊 風						1	0 0	齊 + 風
+#
 1548	96	雞鳴	96.1	1	雞既a[mieng]鳴矣	雞 既 鳴 矣	鳴	a	mieng			1	0 0 418 0	雞 + 既 + mieng + 矣
 1549	96	雞鳴	96.1	2	朝既a[jieng]盈矣。	朝 既 盈 矣	盈	a	jieng			2	0 0 418 0	朝 + 既 + jieng + 矣
 1550	96	雞鳴	96.1	1	匪雞則a[mieng]鳴	匪 雞 則 鳴	鳴	a	mieng			3	0 0 0 418	匪 + 雞 + 則 + mieng
@@ -1528,6 +1626,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1557	96	雞鳴	96.3	2	甘與子同a[miuəng]夢。	甘 與 子 同 夢	夢	a	miuəng			2	0 0 0 0 420	甘 + 與 + 子 + 同 + miuəng
 1558	96	雞鳴	96.3	1	會且歸矣	會 且 歸 矣						3	0 0 0 0	會 + 且 + 歸 + 矣
 1559	96	雞鳴	96.3	2	無庶予子a[tzəng]憎。（蒸部）	無 庶 予 子 憎	憎	a	tzəng	蒸部		4	0 0 0 0 420	無 + 庶 + 予 + 子 + tzəng
+#
 1560	97	還	97.1	1	子之a[hoan]還兮	子 之 還 兮	還	a	hoan			1	0 0 421 0	子 + 之 + hoan + 兮
 1561	97	還	97.1	2	遭我乎峱之a[kean]間兮。	遭 我 乎 峱 之 間 兮	間	a	kean			2	0 0 0 0 0 421 0	遭 + 我 + 乎 + 峱 + 之 + kean + 兮
 1562	97	還	97.1	1	並驅從兩a[kyan]肩兮	並 驅 從 兩 肩 兮	肩	a	kyan			3	0 0 0 0 421 0	並 + 驅 + 從 + 兩 + kyan + 兮
@@ -1540,6 +1639,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1569	97	還	97.3	2	遭我乎峱之a[jiang]陽兮。	遭 我 乎 峱 之 陽 兮	陽	a	jiang			2	0 0 0 0 0 423 0	遭 + 我 + 乎 + 峱 + 之 + jiang + 兮
 1570	97	還	97.3	1	並驅從兩a[lang]狼兮	並 驅 從 兩 狼 兮	狼	a	lang			3	0 0 0 0 423 0	並 + 驅 + 從 + 兩 + lang + 兮
 1571	97	還	97.3	2	揖我謂我a[tzang]臧兮。（阳部）	揖 我 謂 我 臧 兮	臧	a	tzang	阳部		4	0 0 0 0 423 0	揖 + 我 + 謂 + 我 + tzang + 兮
+#
 1572	98	著	98.1	1	俟我於a[dia]著乎而	俟 我 於 著 乎 而	著	a	dia			1	0 0 0 424 0 0	俟 + 我 + 於 + dia + 乎 + 而
 1573	98	著	98.1	2	充耳以a[sa]素乎而	充 耳 以 素 乎 而	素	a	sa			2	0 0 0 424 0 0	充 + 耳 + 以 + sa + 乎 + 而
 1574	98	著	98.1	3	尚之以瓊a[hoa]華乎而。（鱼部）	尚 之 以 瓊 華 乎 而	華	a	hoa	鱼部		3	0 0 0 0 424 0 0	尚 + 之 + 以 + 瓊 + hoa + 乎 + 而
@@ -1549,6 +1649,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1578	98	著	98.3	1	俟我於a[dang]堂乎而	俟 我 於 堂 乎 而	堂	a	dang			1	0 0 0 426 0 0	俟 + 我 + 於 + dang + 乎 + 而
 1579	98	著	98.3	2	充耳以a[huang]黃乎而	充 耳 以 黃 乎 而	黃	a	huang			2	0 0 0 426 0 0	充 + 耳 + 以 + huang + 乎 + 而
 1580	98	著	98.3	3	尚之以瓊a[yang]英乎而。（阳部）	尚 之 以 瓊 英 乎 而	英	a	yang	阳部		3	0 0 0 0 426 0 0	尚 + 之 + 以 + 瓊 + yang + 乎 + 而
+#
 1581	99	東方之日	99.1	1	東方之a[njiet]日兮。	東 方 之 日 兮	日	a	njiet			1	0 0 0 427 0	東 + 方 + 之 + njiet + 兮
 1582	99	東方之日	99.1	1	彼姝者子	彼 姝 者 子						2	0 0 0 0	彼 + 姝 + 者 + 子
 1583	99	東方之日	99.1	2	在我a[sjiet]室兮。	在 我 室 兮	室	a	sjiet			3	0 0 427 0	在 + 我 + sjiet + 兮
@@ -1557,6 +1658,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1587	99	東方之日	99.2	1	彼姝者子	彼 姝 者 子						2	0 0 0 0	彼 + 姝 + 者 + 子
 1588	99	東方之日	99.2	2	在我a[that]闥兮。	在 我 闥 兮	闥	a	that			3	0 0 428 0	在 + 我 + that + 兮
 1590	99	東方之日	99.2	2	履我a[piuat]發兮。（月部）	履 我 發 兮	發	a	piuat	月部		5	0 0 428 0	履 + 我 + piuat + 兮
+#
 1591	100	東方未明	100.1	1	東方未a[myang]明	東 方 未 明	明	a	myang			1	0 0 0 429	東 + 方 + 未 + myang
 1592	100	東方未明	100.1	2	顛倒衣a[zjiang]裳。（阳部）	顛 倒 衣 裳	裳	a	zjiang	阳部		2	0 0 0 429	顛 + 倒 + 衣 + zjiang
 1593	100	東方未明	100.1	1	顛之b[tô]倒之	顛 之 倒 之	倒	b	tô			3	0 0 430 0	顛 + 之 + tô + 之
@@ -1569,6 +1671,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1600	100	東方未明	100.3	2	狂夫瞿a[giua]瞿。（鱼部）	狂 夫 瞿 瞿	瞿	a	giua	鱼部		2	0 0 0 433	狂 + 夫 + 瞿 + giua
 1601	100	東方未明	100.3	1	不能辰b[jyak]夜	不 能 辰 夜	夜	b	jyak			3	0 0 0 434	不 + 能 + 辰 + jyak
 1602	100	東方未明	100.3	2	不夙則b[mak]莫。（铎部）	不 夙 則 莫	莫	b	mak	铎部		4	0 0 0 434	不 + 夙 + 則 + mak
+#
 1603	101	南山	101.1	1	南山崔a[tsuəi]崔	南 山 崔 崔	崔	a	tsuəi			1	0 0 0 435	南 + 山 + 崔 + tsuəi
 1604	101	南山	101.1	2	雄狐綏a[siuəi]綏。	雄 狐 綏 綏	綏	a	siuəi			2	0 0 0 435	雄 + 狐 + 綏 + siuəi
 1605	101	南山	101.1	1	魯道有蕩	魯 道 有 蕩						3	0 0 0 0	魯 + 道 + 有 + 蕩
@@ -1593,6 +1696,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1624	101	南山	101.4	2	匪媒不a[tək]得。	匪 媒 不 得	得	a	tək			4	0 0 0 440	匪 + 媒 + 不 + tək
 1625	101	南山	101.4	1	既曰a[tək]得止	既 曰 得 止	得	a	tək			5	0 0 440 0	既 + 曰 + tək + 止
 1626	101	南山	101.4	2	曷又a[giək]極止。（职部）	曷 又 極 止	極	a	giək	职部		6	0 0 440 0	曷 + 又 + giək + 止
+#
 1627	102	甫田	102.1	1	無田甫a[dyen]田	無 田 甫 田	田	a	dyen			1	0 0 0 441	無 + 田 + 甫 + dyen
 1628	102	甫田	102.1	2	維莠驕b[kiô]驕。（a= 真部）	維 莠 驕 驕	驕	b	kiô	a=真部		2	0 0 0 442	維 + 莠 + 驕 + kiô
 1629	102	甫田	102.1	1	無思遠a[njien]人	無 思 遠 人	人	a	njien			3	0 0 0 441	無 + 思 + 遠 + njien
@@ -1605,12 +1709,14 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1636	102	甫田	102.3	2	總角a[koan]丱兮。	總 角 丱 兮	丱	a	koan			2	0 0 445 0	總 + 角 + koan + 兮
 1637	102	甫田	102.3	1	未幾a[kyan]見兮	未 幾 見 兮	見	a	kyan			3	0 0 445 0	未 + 幾 + kyan + 兮
 1638	102	甫田	102.3	2	突而a[bian]弁兮。（元部）	突 而 弁 兮	弁	a	bian	元部		4	0 0 445 0	突 + 而 + bian + 兮
+#
 1639	103	盧令	103.1	1	盧令a[lyen]令	盧 令 令	令	a	lyen			1	0 0 446	盧 + 令 + lyen
 1640	103	盧令	103.1	2	其人美且a[njien]仁。（真部）	其 人 美 且 仁	仁	a	njien	真部		2	0 0 0 0 446	其 + 人 + 美 + 且 + njien
 1641	103	盧令	103.2	1	盧重a[hoan]環	盧 重 環	環	a	hoan			1	0 0 447	盧 + 重 + hoan
 1642	103	盧令	103.2	2	其人美且a[giuan]鬈。（元部）	其 人 美 且 鬈	鬈	a	giuan	元部		2	0 0 0 0 447	其 + 人 + 美 + 且 + giuan
 1643	103	盧令	103.3	1	盧重a[muə]鋂	盧 重 鋂	鋂	a	muə			1	0 0 448	盧 + 重 + muə
 1644	103	盧令	103.3	2	其人美且a[tsə]偲。（之部）	其 人 美 且 偲	偲	a	tsə	之部		2	0 0 0 0 448	其 + 人 + 美 + 且 + tsə
+#
 1645	104	敝笱	104.1	1	敝笱在梁	敝 笱 在 梁						1	0 0 0 0	敝 + 笱 + 在 + 梁
 1646	104	敝笱	104.1	2	其魚魴a[koən]鰥。	其 魚 魴 鰥	鰥	a	koən			2	0 0 0 449	其 + 魚 + 魴 + koən
 1647	104	敝笱	104.1	1	齊子歸止	齊 子 歸 止						3	0 0 0 0	齊 + 子 + 歸 + 止
@@ -1623,6 +1729,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1654	104	敝笱	104.3	2	其魚唯a[jiuəi]唯。	其 魚 唯 唯	唯	a	jiuəi			2	0 0 0 451	其 + 魚 + 唯 + jiuəi
 1655	104	敝笱	104.3	1	齊子歸止	齊 子 歸 止						3	0 0 0 0	齊 + 子 + 歸 + 止
 1656	104	敝笱	104.3	2	其從如a[sjiuəi]水。（微部）	其 從 如 水	水	a	sjiuəi	微部		4	0 0 0 451	其 + 從 + 如 + sjiuəi
+#
 1657	105	載驅	105.1	1	載驅薄a[bak]薄	載 驅 薄 薄	薄	a	bak			1	0 0 0 452	載 + 驅 + 薄 + bak
 1658	105	載驅	105.1	2	簟茀朱a[khuak]鞹。	簟 茀 朱 鞹	鞹	a	khuak			2	0 0 0 452	簟 + 茀 + 朱 + khuak
 1659	105	載驅	105.1	1	魯道有蕩	魯 道 有 蕩						3	0 0 0 0	魯 + 道 + 有 + 蕩
@@ -1639,6 +1746,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1670	105	載驅	105.4	2	行人儦a[piô]儦。	行 人 儦 儦	儦	a	piô			2	0 0 0 455	行 + 人 + 儦 + piô
 1671	105	載驅	105.4	1	魯道有蕩	魯 道 有 蕩						3	0 0 0 0	魯 + 道 + 有 + 蕩
 1672	105	載驅	105.4	2	齊子游a[ngô]敖。（幽宵合韵）	齊 子 游 敖	敖	a	ngô	幽宵合韵		4	0 0 0 455	齊 + 子 + 游 + ngô
+#
 1673	106	猗嗟	106.1	1	猗嗟a[thjiang]昌兮	猗 嗟 昌 兮	昌	a	thjiang			1	0 0 456 0	猗 + 嗟 + thjiang + 兮
 1674	106	猗嗟	106.1	2	頎而a[diang]長兮	頎 而 長 兮	長	a	diang			2	0 0 456 0	頎 + 而 + diang + 兮
 1675	106	猗嗟	106.1	3	抑若a[jiang]揚兮	抑 若 揚 兮	揚	a	jiang			3	0 0 456 0	抑 + 若 + jiang + 兮
@@ -1658,6 +1766,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1689	106	猗嗟	106.3	1	四矢a[piuan]反兮	四 矢 反 兮	反	a	piuan			5	0 0 458 0	四 + 矢 + piuan + 兮
 1690	106	猗嗟	106.3	2	以禦a[luan]亂兮。（元部）	以 禦 亂 兮	亂	a	luan	元部		6	0 0 458 0	以 + 禦 + luan + 兮
 1691	106	猗嗟	106.6	1	魏風	魏 風						1	0 0	魏 + 風
+#
 1692	107	葛屨	107.1	1	糾糾葛屨	糾 糾 葛 屨						1	0 0 0 0	糾 + 糾 + 葛 + 屨
 1693	107	葛屨	107.1	2	可以履a[shiang]霜。	可 以 履 霜	霜	a	shiang			2	0 0 0 459	可 + 以 + 履 + shiang
 1694	107	葛屨	107.1	1	摻摻女手	摻 摻 女 手						3	0 0 0 0	摻 + 摻 + 女 + 手
@@ -1669,6 +1778,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1700	107	葛屨	107.2	3	佩其象a[thiek]揥。	佩 其 象 揥	揥	a	thiek			3	0 0 0 461	佩 + 其 + 象 + thiek
 1701	107	葛屨	107.2	1	維是褊心	維 是 褊 心						4	0 0 0 0	維 + 是 + 褊 + 心
 1702	107	葛屨	107.2	2	是以為a[tsiek]刺。（支锡通韵）	是 以 為 刺	刺	a	tsiek	支锡通韵		5	0 0 0 461	是 + 以 + 為 + tsiek
+#
 1703	108	汾沮洳	108.1	1	彼汾沮a[njia]洳	彼 汾 沮 洳	洳	a	njia			1	0 0 0 462	彼 + 汾 + 沮 + njia
 1704	108	汾沮洳	108.1	2	言采其a[mak]莫。	言 采 其 莫	莫	a	mak			2	0 0 0 462	言 + 采 + 其 + mak
 1705	108	汾沮洳	108.1	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
@@ -1684,6 +1794,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1717	108	汾沮洳	108.3	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
 1718	108	汾沮洳	108.3	2	美如a[ngiok]玉。	美 如 玉	玉	a	ngiok			4	0 0 464	美 + 如 + ngiok
 1720	108	汾沮洳	108.3	2	殊異乎公a[dzok]族。（屋部）	殊 異 乎 公 族	族	a	dzok	屋部		6	0 0 0 0 464	殊 + 異 + 乎 + 公 + dzok
+#
 1721	109	園有桃	109.1	1	園有a[dô]桃	園 有 桃	桃	a	dô			1	0 0 465	園 + 有 + dô
 1722	109	園有桃	109.1	2	其實之a[heô]殽。	其 實 之 殽	殽	a	heô			2	0 0 0 465	其 + 實 + 之 + heô
 1723	109	園有桃	109.1	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
@@ -1704,6 +1815,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1740	109	園有桃	109.2	2	子曰何b[giə]其。	子 曰 何 其	其	b	giə			8	0 0 0 468	子 + 曰 + 何 + giə
 1742	109	園有桃	109.2	2	其誰知b[tjiə]之。	其 誰 知 之	之	b	tjiə			10	0 0 0 468	其 + 誰 + 知 + tjiə
 1744	109	園有桃	109.2	2	蓋亦勿b[siə]思。（之部）	蓋 亦 勿 思	思	b	siə	之部		12	0 0 0 468	蓋 + 亦 + 勿 + siə
+#
 1745	110	陟岵	110.1	1	陟彼a[ha]岵兮	陟 彼 岵 兮	岵	a	ha			1	0 0 469 0	陟 + 彼 + ha + 兮
 1746	110	陟岵	110.1	2	瞻望a[biua]父兮。（鱼部）	瞻 望 父 兮	父	a	biua	鱼部		2	0 0 469 0	瞻 + 望 + biua + 兮
 1747	110	陟岵	110.1	1	父曰嗟予b[tziə]子	父 曰 嗟 予 子	子	b	tziə			3	0 0 0 0 470	父 + 曰 + 嗟 + 予 + tziə
@@ -1722,12 +1834,14 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1760	110	陟岵	110.3	2	行役夙夜必b[kei]偕。	行 役 夙 夜 必 偕	偕	b	kei			4	0 0 0 0 0 474	行 + 役 + 夙 + 夜 + 必 + kei
 1761	110	陟岵	110.3	1	上慎旃哉	上 慎 旃 哉						5	0 0 0 0	上 + 慎 + 旃 + 哉
 1762	110	陟岵	110.3	2	猶來無b[siei]死。（脂部）	猶 來 無 死	死	b	siei	脂部		6	0 0 0 474	猶 + 來 + 無 + siei
+#
 1763	111	十畝之間	111.1	1	十畝之a[kean]閒兮	十 畝 之 閒 兮	閒	a	kean			1	0 0 0 475 0	十 + 畝 + 之 + kean + 兮
 1764	111	十畝之間	111.1	2	桑者閑a[hean]閑兮。	桑 者 閑 閑 兮	閑	a	hean			2	0 0 0 475 0	桑 + 者 + 閑 + hean + 兮
 1765	111	十畝之間	111.1	1	行與子a[hoan]還兮。（元部）	行 與 子 還 兮	還	a	hoan	元部		3	0 0 0 475 0	行 + 與 + 子 + hoan + 兮
 1766	111	十畝之間	111.2	1	十畝之a[nguat]外兮	十 畝 之 外 兮	外	a	nguat			1	0 0 0 476 0	十 + 畝 + 之 + nguat + 兮
 1767	111	十畝之間	111.2	2	桑者泄a[jiat]泄兮。	桑 者 泄 泄 兮	泄	a	jiat			2	0 0 0 476 0	桑 + 者 + 泄 + jiat + 兮
 1768	111	十畝之間	111.2	1	行與子a[zjiat]逝兮。（月部）	行 與 子 逝 兮	逝	a	zjiat	月部		3	0 0 0 476 0	行 + 與 + 子 + zjiat + 兮
+#
 1769	112	伐檀	112.1	1	坎坎伐a[dan]檀兮	坎 坎 伐 檀 兮	檀	a	dan			1	0 0 0 477 0	坎 + 坎 + 伐 + dan + 兮
 1770	112	伐檀	112.1	2	寘之河之a[kan]干兮	寘 之 河 之 干 兮	干	a	kan			2	0 0 0 0 477 0	寘 + 之 + 河 + 之 + kan + 兮
 1771	112	伐檀	112.1	3	河水清且a[lian]漣猗。	河 水 清 且 漣 猗	漣	a	lian			3	0 0 0 0 477 0	河 + 水 + 清 + 且 + lian + 猗
@@ -1755,6 +1869,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1793	112	伐檀	112.3	2	胡瞻爾庭有縣a[zjiuən]鶉兮。	胡 瞻 爾 庭 有 縣 鶉 兮	鶉	a	zjiuən			7	0 0 0 0 0 0 479 0	胡 + 瞻 + 爾 + 庭 + 有 + 縣 + zjiuən + 兮
 1794	112	伐檀	112.3	1	彼君子兮	彼 君 子 兮						8	0 0 0 0	彼 + 君 + 子 + 兮
 1795	112	伐檀	112.3	2	不素a[suən]飧兮。（文部）	不 素 飧 兮	飧	a	suən	文部		9	0 0 479 0	不 + 素 + suən + 兮
+#
 1796	113	碩鼠	113.1	1	碩a[sjia]鼠碩a[sjia]鼠	碩 鼠 碩 鼠	鼠	a	sjia			1	0 480 0 480	碩 + sjia + 碩 + sjia
 1798	113	碩鼠	113.1	2	無食我a[sjia]黍。	無 食 我 黍	黍	a	sjia			3	0 0 0 480	無 + 食 + 我 + sjia
 1799	113	碩鼠	113.1	1	三歲貫a[njia]女	三 歲 貫 女	女	a	njia			4	0 0 0 480	三 + 歲 + 貫 + njia
@@ -1780,6 +1895,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1823	113	碩鼠	113.3	1	樂b[keô]郊樂b[keô]郊	樂 郊 樂 郊	郊	b	keô			8	0 484 0 484	樂 + keô + 樂 + keô
 1825	113	碩鼠	113.3	2	誰之永b[hô]號。（b= 宵部）	誰 之 永 號	號	b	hô	b=宵部		10	0 0 0 484	誰 + 之 + 永 + hô
 1826	113	碩鼠	113.6	1	唐風	唐 風						1	0 0	唐 + 風
+#
 1827	114	蟋蟀	114.1	1	蟋蟀在a[dang]堂	蟋 蟀 在 堂	堂	a	dang			1	0 0 0 485	蟋 + 蟀 + 在 + dang
 1828	114	蟋蟀	114.1	2	歲聿其b[mak]莫。	歲 聿 其 莫	莫	b	mak			2	0 0 0 486	歲 + 聿 + 其 + mak
 1829	114	蟋蟀	114.1	1	今我不樂	今 我 不 樂						3	0 0 0 0	今 + 我 + 不 + 樂
@@ -1804,6 +1920,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1848	114	蟋蟀	114.3	2	職思其b[iu]憂。（a= 阳部）	職 思 其 憂	憂	b	iu	a=阳部		6	0 0 0 490	職 + 思 + 其 + iu
 1849	114	蟋蟀	114.3	1	好樂無a[xuang]荒	好 樂 無 荒	荒	a	xuang			7	0 0 0 489	好 + 樂 + 無 + xuang
 1850	114	蟋蟀	114.3	2	良士休b[xiu]休。（b= 幽部）	良 士 休 休	休	b	xiu	b=幽部		8	0 0 0 490	良 + 士 + 休 + xiu
+#
 1851	115	山有樞	115.1	1	山有a[thjio]樞	山 有 樞	樞	a	thjio			1	0 0 491	山 + 有 + thjio
 1852	115	山有樞	115.1	2	隰有a[jio]榆。	隰 有 榆	榆	a	jio			2	0 0 491	隰 + 有 + jio
 1853	115	山有樞	115.1	1	子有衣裳	子 有 衣 裳						3	0 0 0 0	子 + 有 + 衣 + 裳
@@ -1828,6 +1945,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1872	115	山有樞	115.3	2	且以永a[njiet]日。	且 以 永 日	日	a	njiet			6	0 0 0 493	且 + 以 + 永 + njiet
 1873	115	山有樞	115.3	1	宛其死矣	宛 其 死 矣						7	0 0 0 0	宛 + 其 + 死 + 矣
 1874	115	山有樞	115.3	2	他人入a[sjiet]室。（质部）	他 人 入 室	室	a	sjiet	质部		8	0 0 0 493	他 + 人 + 入 + sjiet
+#
 1875	116	揚之水	116.1	1	揚之水	揚 之 水						1	0 0 0	揚 + 之 + 水
 1876	116	揚之水	116.1	2	白石鑿a[tzôk]鑿。	白 石 鑿 鑿	鑿	a	tzôk			2	0 0 0 494	白 + 石 + 鑿 + tzôk
 1877	116	揚之水	116.1	1	素衣朱a[pôk]襮	素 衣 朱 襮	襮	a	pôk			3	0 0 0 494	素 + 衣 + 朱 + pôk
@@ -1844,6 +1962,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1888	116	揚之水	116.3	2	白石粼a[lien]粼。	白 石 粼 粼	粼	a	lien			2	0 0 0 496	白 + 石 + 粼 + lien
 1889	116	揚之水	116.3	1	我聞有a[myen]命	我 聞 有 命	命	a	myen			3	0 0 0 496	我 + 聞 + 有 + myen
 1890	116	揚之水	116.3	2	不敢以告a[njien]人。（真部）	不 敢 以 告 人	不敢以告人	人	a	njien	真部	4	0 0 0 0 497	不 + 敢 + 以 + 告 + njien
+#
 1891	117	椒聊	117.1	1	椒聊之實	椒 聊 之 實						1	0 0 0 0	椒 + 聊 + 之 + 實
 1892	117	椒聊	117.1	2	蕃衍盈a[sjiəng]升。	蕃 衍 盈 升	升	a	sjiəng			2	0 0 0 498	蕃 + 衍 + 盈 + sjiəng
 1893	117	椒聊	117.1	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
@@ -1856,6 +1975,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1900	117	椒聊	117.2	2	碩大且a[tuk]篤。（觉部）	碩 大 且 篤	篤	a	tuk	觉部		4	0 0 0 500	碩 + 大 + 且 + tuk
 1901	117	椒聊	117.2	1	椒b[lyu]聊且	椒 聊 且	聊	b	lyu			5	0 501 0	椒 + lyu + 且
 1902	117	椒聊	117.2	2	遠b[dyu]條且。（幽部）	遠 條 且	條	b	dyu	幽部		6	0 501 0	遠 + dyu + 且
+#
 1903	118	綢繆	118.1	1	綢繆束a[sien]薪	綢 繆 束 薪	薪	a	sien			1	0 0 0 502	綢 + 繆 + 束 + sien
 1904	118	綢繆	118.1	2	三星在a[thyen]天。	三 星 在 天	天	a	thyen			2	0 0 0 502	三 + 星 + 在 + thyen
 1905	118	綢繆	118.1	1	今夕何夕	今 夕 何 夕						3	0 0 0 0	今 + 夕 + 何 + 夕
@@ -1874,6 +1994,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1918	118	綢繆	118.3	2	見此粲a[tjya]者。	見 此 粲 者	者	a	tjya			4	0 0 0 504	見 + 此 + 粲 + tjya
 1919	118	綢繆	118.3	1	子兮子兮	子 兮 子 兮						5	0 0 0 0	子 + 兮 + 子 + 兮
 1920	118	綢繆	118.3	2	如此粲a[tjya]者何。（鱼部）	如 此 粲 者 何	者	a	tjya	鱼部		6	0 0 0 504 0	如 + 此 + 粲 + tjya + 何
+#
 1921	119	杕杜	119.1	1	有杕之a[da]杜	有 杕 之 杜	杜	a	da			1	0 0 0 505	有 + 杕 + 之 + da
 1922	119	杕杜	119.1	2	其葉湑a[sia]湑。	其 葉 湑 湑	湑	a	sia			2	0 0 0 505	其 + 葉 + 湑 + sia
 1923	119	杕杜	119.1	1	獨行踽a[kiua]踽。	獨 行 踽 踽	踽	a	kiua			3	0 0 0 505	獨 + 行 + 踽 + kiua
@@ -1892,6 +2013,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1936	119	杕杜	119.2	2	胡不b[biei]比焉。	胡 不 比 焉	比	b	biei			7	0 0 508 0	胡 + 不 + biei + 焉
 1937	119	杕杜	119.2	1	人無兄弟	人 無 兄 弟						8	0 0 0 0	人 + 無 + 兄 + 弟
 1938	119	杕杜	119.2	2	胡不b[tsiei]佽焉。（脂部）	胡 不 佽 焉	佽	b	tsiei	脂部		9	0 0 508 0	胡 + 不 + tsiei + 焉
+#
 1939	120	羔裘	120.1	1	羔裘豹a[khia]袪	羔 裘 豹 袪	袪	a	khia			1	0 0 0 509	羔 + 裘 + 豹 + khia
 1940	120	羔裘	120.1	2	自我人居a[kia]居。	自 我 人 居 居	居	a	kia			2	0 0 0 0 509	自 + 我 + 人 + 居 + kia
 1941	120	羔裘	120.1	1	豈無他人	豈 無 他 人						3	0 0 0 0	豈 + 無 + 他 + 人
@@ -1900,6 +2022,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1944	120	羔裘	120.2	2	自我人究a[kiu]究。	自 我 人 究 究	究	a	kiu			2	0 0 0 0 510	自 + 我 + 人 + 究 + kiu
 1945	120	羔裘	120.2	1	豈無他人	豈 無 他 人						3	0 0 0 0	豈 + 無 + 他 + 人
 1946	120	羔裘	120.2	2	維子之a[xu]好。（幽部）	維 子 之 好	好	a	xu	幽部		4	0 0 0 510	維 + 子 + 之 + xu
+#
 1947	121	鴇羽	121.1	1	肅肅鴇a[hiua]羽	肅 肅 鴇 羽	羽	a	hiua			1	0 0 0 511	肅 + 肅 + 鴇 + hiua
 1948	121	鴇羽	121.1	2	集于苞a[xia]栩。	集 于 苞 栩	栩	a	xia			2	0 0 0 511	集 + 于 + 苞 + xia
 1949	121	鴇羽	121.1	1	王事靡a[ka]盬	王 事 靡 盬	盬	a	ka			3	0 0 0 511	王 + 事 + 靡 + ka
@@ -1921,12 +2044,14 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1965	121	鴇羽	121.3	3	父母何a[zjiang]嘗。	父 母 何 嘗	嘗	a	zjiang			5	0 0 0 513	父 + 母 + 何 + zjiang
 1966	121	鴇羽	121.3	1	悠悠蒼天	悠 悠 蒼 天						6	0 0 0 0	悠 + 悠 + 蒼 + 天
 1967	121	鴇羽	121.3	2	曷其有a[zjiang]常。（阳部）	曷 其 有 常	常	a	zjiang	阳部		7	0 0 0 513	曷 + 其 + 有 + zjiang
+#
 1968	122	無衣	122.1	1	豈曰無衣a[tsiet]七兮	豈 曰 無 衣 七 兮	七	a	tsiet			1	0 0 0 0 514 0	豈 + 曰 + 無 + 衣 + tsiet + 兮
 1969	122	無衣	122.1	2	不如子之衣	不 如 子 之 衣						2	0 0 0 0 0	不 + 如 + 子 + 之 + 衣
 1970	122	無衣	122.1	3	安且a[kiet]吉兮。（质部）	安 且 吉 兮	吉	a	kiet	质部		3	0 0 514 0	安 + 且 + kiet + 兮
 1971	122	無衣	122.2	1	豈曰無衣a[liuk]六兮	豈 曰 無 衣 六 兮	六	a	liuk			1	0 0 0 0 515 0	豈 + 曰 + 無 + 衣 + liuk + 兮
 1972	122	無衣	122.2	2	不如子之衣	不 如 子 之 衣						2	0 0 0 0 0	不 + 如 + 子 + 之 + 衣
 1973	122	無衣	122.2	3	安且a[iuk]燠兮。（觉部）	安 且 燠 兮	燠	a	iuk	觉部		3	0 0 515 0	安 + 且 + iuk + 兮
+#
 1974	123	有杕之杜	123.1	1	有杕之杜	有 杕 之 杜						1	0 0 0 0	有 + 杕 + 之 + 杜
 1975	123	有杕之杜	123.1	2	生于道a[tzai]左。	生 于 道 左	左	a	tzai			2	0 0 0 516	生 + 于 + 道 + tzai
 1976	123	有杕之杜	123.1	1	彼君子兮	彼 君 子 兮						3	0 0 0 0	彼 + 君 + 子 + 兮
@@ -1939,6 +2064,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 1983	123	有杕之杜	123.2	2	噬肯來a[jiu]遊。（幽部）	噬 肯 來 遊	遊	a	jiu	幽部		4	0 0 0 519	噬 + 肯 + 來 + jiu
 1984	123	有杕之杜	123.2	1	中心B[xu]好之	中 心 好 之	好	B	xu			5	0 0 520 0	中 + 心 + xu + 之
 1985	123	有杕之杜	123.2	2	曷飲C[djiək]食之。（B= 幽部） （C= 职部）	曷 飲 食 之	食	C	djiək	B=幽部C=职部		6	0 0 521 0	曷 + 飲 + djiək + 之
+#
 1986	124	葛生	124.1	1	葛生蒙a[tshia]楚	葛 生 蒙 楚	楚	a	tshia			1	0 0 0 522	葛 + 生 + 蒙 + tshia
 1987	124	葛生	124.1	2	蘞蔓于a[jya]野。	蘞 蔓 于 野	野	a	jya			2	0 0 0 522	蘞 + 蔓 + 于 + jya
 1988	124	葛生	124.1	1	予美亡此	予 美 亡 此						3	0 0 0 0	予 + 美 + 亡 + 此
@@ -1959,6 +2085,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2003	124	葛生	124.5	2	夏之a[njiet]日	夏 之 日	日	a	njiet			2	0 0 526	夏 + 之 + njiet
 2004	124	葛生	124.5	3	百歲之後	百 歲 之 後						3	0 0 0 0	百 + 歲 + 之 + 後
 2005	124	葛生	124.5	4	歸於其a[sjiet]室。（质部）	歸 於 其 室	室	a	sjiet	质部		4	0 0 0 526	歸 + 於 + 其 + sjiet
+#
 2006	125	采苓	125.1	1	采a[lyen]苓采a[lyen]苓	采 苓 采 苓	苓	a	lyen			1	0 527 0 527	采 + lyen + 采 + lyen
 2008	125	采苓	125.1	2	首陽之a[tyen]巔。6	首 陽 之 巔	巔	a	tyen			3	0 0 0 527	首 + 陽 + 之 + tyen
 2009	125	采苓	125.1	1	人之為言	人 之 為 言						4	0 0 0 0	人 + 之 + 為 + 言
@@ -1982,6 +2109,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2034	125	采苓	125.3	1	人之為b[ngian]言	人 之 為 言	言	b	ngian			9	0 0 0 532	人 + 之 + 為 + ngian
 2035	125	采苓	125.3	2	胡得b[ian]焉。（元部）	胡 得 焉	焉	b	ian	元部		10	0 0 532	胡 + 得 + ian
 2036	125	采苓	125.6	1	秦風	秦 風						1	0 0	秦 + 風
+#
 2037	126	車鄰	126.1	1	有車鄰a[lien]鄰	有 車 鄰 鄰	鄰	a	lien			1	0 0 0 533	有 + 車 + 鄰 + lien
 2038	126	車鄰	126.1	2	有馬白a[tyen]顛。	有 馬 白 顛	顛	a	tyen			2	0 0 0 533	有 + 馬 + 白 + tyen
 2039	126	車鄰	126.1	1	未見君子	未 見 君 子						3	0 0 0 0	未 + 見 + 君 + 子
@@ -1998,6 +2126,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2050	126	車鄰	126.3	2	並坐鼓a[huang]簧。	並 坐 鼓 簧	簧	a	huang			4	0 0 0 535	並 + 坐 + 鼓 + huang
 2051	126	車鄰	126.3	1	今者不樂	今 者 不 樂						5	0 0 0 0	今 + 者 + 不 + 樂
 2052	126	車鄰	126.3	2	逝者其a[miuang]亡。（阳部）	逝 者 其 亡	亡	a	miuang	阳部		6	0 0 0 535	逝 + 者 + 其 + miuang
+#
 2053	127	駟驖	127.1	1	駟驖孔a[biu]阜	駟 驖 孔 阜	阜	a	biu			1	0 0 0 536	駟 + 驖 + 孔 + biu
 2054	127	駟驖	127.1	2	六轡在a[sjiu]手。	六 轡 在 手	手	a	sjiu			2	0 0 0 536	六 + 轡 + 在 + sjiu
 2055	127	駟驖	127.1	1	公之媚子	公 之 媚 子						3	0 0 0 0	公 + 之 + 媚 + 子
@@ -2010,6 +2139,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2062	127	駟驖	127.3	2	四馬既a[hean]閑。（元部）	四 馬 既 閑	閑	a	hean	元部		2	0 0 0 538	四 + 馬 + 既 + hean
 2063	127	駟驖	127.3	1	輶車鸞b[piô]鑣	輶 車 鸞 鑣	鑣	b	piô			3	0 0 0 539	輶 + 車 + 鸞 + piô
 2064	127	駟驖	127.3	2	載獫歇b[kiô]驕。（宵部）	載 獫 歇 驕	驕	b	kiô	宵部		4	0 0 0 539	載 + 獫 + 歇 + kiô
+#
 2065	128	小戎	128.1	1	小戎俴a[sjiu]收	小 戎 俴 收	收	a	sjiu			1	0 0 0 540	小 + 戎 + 俴 + sjiu
 2066	128	小戎	128.1	2	五楘梁a[tjiu]輈。	五 楘 梁 輈	輈	a	tjiu			2	0 0 0 540	五 + 楘 + 梁 + tjiu
 2067	128	小戎	128.1	1	游環脅a[khio]驅	游 環 脅 驅	驅	a	khio			3	0 0 0 540	游 + 環 + 脅 + khio
@@ -2043,6 +2173,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2097	128	小戎	128.3	2	載寢載b[xiəng]興。	載 寢 載 興	興	b	xiəng			10	0 0 0 547	載 + 寢 + 載 + xiəng
 2098	128	小戎	128.3	1	厭厭良人	厭 厭 良 人						11	0 0 0 0	厭 + 厭 + 良 + 人
 2099	128	小戎	128.3	2	秩秩德b[iəm]音。（蒸侵合韵）	秩 秩 德 音	音	b	iəm	蒸侵合韵		12	0 0 0 547	秩 + 秩 + 德 + iəm
+#
 2100	129	蒹葭	129.1	1	蒹葭蒼a[tsang]蒼	蒹 葭 蒼 蒼	蒼	a	tsang			1	0 0 0 548	蒹 + 葭 + 蒼 + tsang
 2101	129	蒹葭	129.1	2	白露為a[shiang]霜。	白 露 為 霜	霜	a	shiang			2	0 0 0 548	白 + 露 + 為 + shiang
 2102	129	蒹葭	129.1	1	所謂伊人	所 謂 伊 人						3	0 0 0 0	所 + 謂 + 伊 + 人
@@ -2067,6 +2198,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2121	129	蒹葭	129.3	2	道阻且a[hiuə]右。	道 阻 且 右	右	a	hiuə			6	0 0 0 550	道 + 阻 + 且 + hiuə
 2122	129	蒹葭	129.3	1	溯游從之	溯 游 從 之						7	0 0 0 0	溯 + 游 + 從 + 之
 2123	129	蒹葭	129.3	2	宛在水中a[tjiə]沚。（之部）	宛 在 水 中 沚	沚	a	tjiə	之部		8	0 0 0 0 550	宛 + 在 + 水 + 中 + tjiə
+#
 2124	130	終南	130.1	1	終南何有	終 南 何 有						1	0 0 0 0	終 + 南 + 何 + 有
 2125	130	終南	130.1	2	有條有a[muə]梅。	有 條 有 梅	梅	a	muə			2	0 0 0 551	有 + 條 + 有 + muə
 2126	130	終南	130.1	1	君子至止	君 子 至 止						3	0 0 0 0	君 + 子 + 至 + 止
@@ -2080,6 +2212,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2134	130	終南	130.2	3								5		
 2135	130	終南	130.2	1	佩玉將a[tsiang]將	佩 玉 將 將	將	a	tsiang			6	0 0 0 552	佩 + 玉 + 將 + tsiang
 2136	130	終南	130.2	2	壽考不a[miuang]忘。（阳部）	壽 考 不 忘	忘	a	miuang	阳部		7	0 0 0 552	壽 + 考 + 不 + miuang
+#
 2137	131	黃鳥	131.1	1	交交黃鳥	交 交 黃 鳥						1	0 0 0 0	交 + 交 + 黃 + 鳥
 2138	131	黃鳥	131.1	2	止于a[kiək]棘。	止 于 棘	棘	a	kiək			2	0 0 553	止 + 于 + kiək
 2139	131	黃鳥	131.1	1	誰從穆公	誰 從 穆 公						3	0 0 0 0	誰 + 從 + 穆 + 公
@@ -2116,6 +2249,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2170	131	黃鳥	131.3	2	殲我良c[njien]人。	殲 我 良 人	人	c	njien			10	0 0 0 561	殲 + 我 + 良 + njien
 2171	131	黃鳥	131.3	1	如可贖兮	如 可 贖 兮						11	0 0 0 0	如 + 可 + 贖 + 兮
 2172	131	黃鳥	131.3	2	人百其c[sjien]身。（真部）	人 百 其 身	身	c	sjien	真部		12	0 0 0 561	人 + 百 + 其 + sjien
+#
 2173	132	晨風	132.1	1	歍彼晨a[piuəm]風	歍 彼 晨 風	風	a	piuəm			1	0 0 0 562	歍 + 彼 + 晨 + piuəm
 2174	132	晨風	132.1	2	鬱彼北a[liəm]林。	鬱 彼 北 林	林	a	liəm			2	0 0 0 562	鬱 + 彼 + 北 + liəm
 2175	132	晨風	132.1	1	未見君子	未 見 君 子						3	0 0 0 0	未 + 見 + 君 + 子
@@ -2134,6 +2268,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2190	132	晨風	132.3	2	憂心如a[tziuət]醉。（质物合韵）	憂 心 如 醉	醉	a	tziuət	质物合韵		4	0 0 0 566	憂 + 心 + 如 + tziuət
 2191	132	晨風	132.3	1	如b[hai]何如b[hai]何	如 何 如 何	何	b	hai			5	0 567 0 567	如 + hai + 如 + hai
 2193	132	晨風	132.3	2	忘我實b[tai]多。（歌部）	忘 我 實 多	多	b	tai	歌部		7	0 0 0 567	忘 + 我 + 實 + tai
+#
 2194	133	無衣	133.1	1	豈曰無a[iəi]衣	豈 曰 無 衣	衣	a	iəi			1	0 0 0 568	豈 + 曰 + 無 + iəi
 2195	133	無衣	133.1	2	與子同b[bu]袍。（a= 微脂合韵）	與 子 同 袍	袍	b	bu	a=微脂合韵		2	0 0 0 569	與 + 子 + 同 + bu
 2196	133	無衣	133.1	1	王于興a[shiei]師	王 于 興 師	師	a	shiei			3	0 0 0 568	王 + 于 + 興 + shiei
@@ -2149,6 +2284,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2206	133	無衣	133.3	1	王于興a[shiei]師	王 于 興 師	師	a	shiei			3	0 0 0 572	王 + 于 + 興 + shiei
 2207	133	無衣	133.3	2	修我甲b[pyang]兵	修 我 甲 兵	兵	b	pyang			4	0 0 0 573	修 + 我 + 甲 + pyang
 2208	133	無衣	133.3	3	與子偕b[heang]行。（b= 阳部）	與 子 偕 行	行	b	heang	b=阳部		5	0 0 0 573	與 + 子 + 偕 + heang
+#
 2209	134	渭陽	134.1	1	我送舅氏	我 送 舅 氏						1	0 0 0 0	我 + 送 + 舅 + 氏
 2210	134	渭陽	134.1	2	曰至渭a[jiang]陽。	曰 至 渭 陽	陽	a	jiang			2	0 0 0 574	曰 + 至 + 渭 + jiang
 2211	134	渭陽	134.1	1	何以贈之	何 以 贈 之						3	0 0 0 0	何 + 以 + 贈 + 之
@@ -2157,6 +2293,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2214	134	渭陽	134.2	2	悠悠我a[siə]思。	悠 悠 我 思	思	a	siə			2	0 0 0 575	悠 + 悠 + 我 + siə
 2215	134	渭陽	134.2	1	何以贈之	何 以 贈 之						3	0 0 0 0	何 + 以 + 贈 + 之
 2216	134	渭陽	134.2	2	瓊瑰玉a[buə]佩。（之部）	瓊 瑰 玉 佩	佩	a	buə	之部		4	0 0 0 575	瓊 + 瑰 + 玉 + buə
+#
 2217	135	權輿	135.1	1	於我a[ha]乎	於 我 乎	乎	a	ha			1	0 0 576	於 + 我 + ha
 2218	135	權輿	135.1	2	夏屋渠a[gia]渠	夏 屋 渠 渠	渠	a	gia			2	0 0 0 576	夏 + 屋 + 渠 + gia
 2219	135	權輿	135.1	3	今也每食無a[jia]餘。	今 也 每 食 無 餘	餘	a	jia			3	0 0 0 0 0 576	今 + 也 + 每 + 食 + 無 + jia
@@ -2168,6 +2305,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2225	135	權輿	135.2	1	于嗟b[ha]乎	于 嗟 乎	乎	b	ha			4	0 0 578	于 + 嗟 + ha
 2226	135	權輿	135.2	2	不承權b[jia]輿。（鱼部）	不 承 權 輿	輿	b	jia	鱼部		5	0 0 0 578	不 + 承 + 權 + jia
 2227	135	權輿	135.6	1	陳風	陳 風						1	0 0	陳 + 風
+#
 2228	136	宛丘	136.1	1	子之a[thang]湯兮	子 之 湯 兮	湯	a	thang			1	0 0 579 0	子 + 之 + thang + 兮
 2229	136	宛丘	136.1	2	宛丘之a[zjiang]上兮。	宛 丘 之 上 兮	上	a	zjiang			2	0 0 0 579 0	宛 + 丘 + 之 + zjiang + 兮
 2230	136	宛丘	136.1	1	洵有情兮	洵 有 情 兮						3	0 0 0 0	洵 + 有 + 情 + 兮
@@ -2180,6 +2318,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2237	136	宛丘	136.3	2	宛丘之a[du]道。	宛 丘 之 道	道	a	du			2	0 0 0 581	宛 + 丘 + 之 + du
 2238	136	宛丘	136.3	1	無冬無夏	無 冬 無 夏						3	0 0 0 0	無 + 冬 + 無 + 夏
 2239	136	宛丘	136.3	2	值其鷺a[du]翿。（幽部）	值 其 鷺 翿	翿	a	du	幽部		4	0 0 0 581	值 + 其 + 鷺 + du
+#
 2240	137	東門之枌	137.1	1	東門之枌	東 門 之 枌						1	0 0 0 0	東 + 門 + 之 + 枌
 2241	137	東門之枌	137.1	2	宛丘之a[xia]栩。	宛 丘 之 栩	栩	a	xia			2	0 0 0 582	宛 + 丘 + 之 + xia
 2242	137	東門之枌	137.1	1	子仲之子	子 仲 之 子						3	0 0 0 0	子 + 仲 + 之 + 子
@@ -2192,6 +2331,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2249	137	東門之枌	137.3	2	越以鬷a[meat]邁。（月部）	越 以 鬷 邁	邁	a	meat	月部		2	0 0 0 584	越 + 以 + 鬷 + meat
 2250	137	東門之枌	137.3	1	視爾如b[gyu]荍	視 爾 如 荍	荍	b	gyu			3	0 0 0 585	視 + 爾 + 如 + gyu
 2251	137	東門之枌	137.3	2	貽我握b[tzyu]椒。（幽部）	貽 我 握 椒	椒	b	tzyu	幽部		4	0 0 0 585	貽 + 我 + 握 + tzyu
+#
 2252	138	衡門	138.1	1	衡門之下	衡 門 之 下						1	0 0 0 0	衡 + 門 + 之 + 下
 2253	138	衡門	138.1	2	可以棲a[diei]遲。	可 以 棲 遲	遲	a	diei			2	0 0 0 586	可 + 以 + 棲 + diei
 2254	138	衡門	138.1	1	泌之洋洋	泌 之 洋 洋						3	0 0 0 0	泌 + 之 + 洋 + 洋
@@ -2204,6 +2344,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2261	138	衡門	138.3	2	必河之a[liə]鯉。	必 河 之 鯉	鯉	a	liə			2	0 0 0 588	必 + 河 + 之 + liə
 2262	138	衡門	138.3	1	豈其取妻	豈 其 取 妻						3	0 0 0 0	豈 + 其 + 取 + 妻
 2263	138	衡門	138.3	2	必宋之a[tziə]子。（之部）	必 宋 之 子	子	a	tziə	之部		4	0 0 0 588	必 + 宋 + 之 + tziə
+#
 2264	139	東門之池	139.1	1	東門之a[diai]池	東 門 之 池	池	a	diai			1	0 0 0 589	東 + 門 + 之 + diai
 2265	139	東門之池	139.1	2	可以漚a[meai]麻。	可 以 漚 麻	麻	a	meai			2	0 0 0 589	可 + 以 + 漚 + meai
 2266	139	東門之池	139.1	1	彼美淑姬	彼 美 淑 姬						3	0 0 0 0	彼 + 美 + 淑 + 姬
@@ -2216,6 +2357,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2273	139	東門之池	139.3	2	可以漚a[kean]菅。	可 以 漚 菅	菅	a	kean			2	0 0 0 591	可 + 以 + 漚 + kean
 2274	139	東門之池	139.3	1	彼美淑姬	彼 美 淑 姬						3	0 0 0 0	彼 + 美 + 淑 + 姬
 2275	139	東門之池	139.3	2	可與晤a[ngian]言。（元部）	可 與 晤 言	言	a	ngian	元部		4	0 0 0 591	可 + 與 + 晤 + ngian
+#
 2276	140	東門之楊	140.1	1	東門之a[jiang]楊	東 門 之 楊	楊	a	jiang			1	0 0 0 592	東 + 門 + 之 + jiang
 2277	140	東門之楊	140.1	2	其葉牂a[tzang]牂。	其 葉 牂 牂	牂	a	tzang			2	0 0 0 592	其 + 葉 + 牂 + tzang
 2278	140	東門之楊	140.1	1	昏以為期	昏 以 為 期						3	0 0 0 0	昏 + 以 + 為 + 期
@@ -2224,6 +2366,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2281	140	東門之楊	140.2	2	其葉肺a[phiuat]肺。	其 葉 肺 肺	肺	a	phiuat			2	0 0 0 593	其 + 葉 + 肺 + phiuat
 2282	140	東門之楊	140.2	1	昏以為期	昏 以 為 期						3	0 0 0 0	昏 + 以 + 為 + 期
 2283	140	東門之楊	140.2	2	明星晢a[tjiat]晢。（月部）	明 星 晢 晢	晢	a	tjiat	月部		4	0 0 0 593	明 + 星 + 晢 + tjiat
+#
 2284	141	墓門	141.1	1	墓門有棘	墓 門 有 棘						1	0 0 0 0	墓 + 門 + 有 + 棘
 2285	141	墓門	141.1	2	斧以a[sie]斯之。	斧 以 斯 之	斯	a	sie			2	0 0 594 0	斧 + 以 + sie + 之
 2286	141	墓門	141.1	1	夫也不良	夫 也 不 良						3	0 0 0 0	夫 + 也 + 不 + 良
@@ -2236,6 +2379,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2293	141	墓門	141.2	2	歌以a[siuət]誶之。7（物部）	歌 以 誶 之	誶	a	siuət	物部		4	0 0 596 0	歌 + 以 + siuət + 之
 2294	141	墓門	141.2	1	訊予不b[ka]顧	訊 予 不 顧	顧	b	ka			5	0 0 0 597	訊 + 予 + 不 + ka
 2295	141	墓門	141.2	2	顛倒思b[jia]予。（鱼部）	顛 倒 思 予	予	b	jia	鱼部		6	0 0 0 597	顛 + 倒 + 思 + jia
+#
 2296	142	防有鵲巢	142.1	1	防有鵲a[dzheô]巢	防 有 鵲 巢	巢	a	dzheô			1	0 0 0 598	防 + 有 + 鵲 + dzheô
 2297	142	防有鵲巢	142.1	2	邛有旨a[dyô]苕。	邛 有 旨 苕	苕	a	dyô			2	0 0 0 598	邛 + 有 + 旨 + dyô
 2298	142	防有鵲巢	142.1	1	誰侜予美	誰 侜 予 美						3	0 0 0 0	誰 + 侜 + 予 + 美
@@ -2244,6 +2388,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2301	142	防有鵲巢	142.2	2	邛有旨a[ngyek]鷊。	邛 有 旨 鷊	鷊	a	ngyek			2	0 0 0 599	邛 + 有 + 旨 + ngyek
 2302	142	防有鵲巢	142.2	1	誰侜予美	誰 侜 予 美						3	0 0 0 0	誰 + 侜 + 予 + 美
 2303	142	防有鵲巢	142.2	2	心焉惕a[thyek]惕。（锡部）	心 焉 惕 惕	惕	a	thyek	锡部		4	0 0 0 599	心 + 焉 + 惕 + thyek
+#
 2304	143	月出	143.1	1	月出a[kyô]皎兮	月 出 皎 兮	皎	a	kyô			1	0 0 600 0	月 + 出 + kyô + 兮
 2305	143	月出	143.1	2	佼人a[lyô]僚兮。	佼 人 僚 兮	僚	a	lyô			2	0 0 600 0	佼 + 人 + lyô + 兮
 2306	143	月出	143.1	1	舒窈a[kyu]糾兮	舒 窈 糾 兮	糾	a	kyu			3	0 0 600 0	舒 + 窈 + kyu + 兮
@@ -2256,6 +2401,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2313	143	月出	143.3	2	佼人a[lyô]燎兮。	佼 人 燎 兮	燎	a	lyô			2	0 0 602 0	佼 + 人 + lyô + 兮
 2314	143	月出	143.3	1	舒夭a[zjiô]紹兮	舒 夭 紹 兮	紹	a	zjiô			3	0 0 602 0	舒 + 夭 + zjiô + 兮
 2315	143	月出	143.3	2	勞心a[tsô]懆兮。8（宵部）	勞 心 懆 兮	懆	a	tsô	宵部		4	0 0 602 0	勞 + 心 + tsô + 兮
+#
 2316	144	株林	144.1	1	胡為乎株a[liəm]林	胡 為 乎 株 林	林	a	liəm			1	0 0 0 0 603	胡 + 為 + 乎 + 株 + liəm
 2317	144	株林	144.1	2	從夏a[nəm]南。	從 夏 南	南	a	nəm			2	0 0 603	從 + 夏 + nəm
 2318	144	株林	144.1	1	匪適株a[liəm]林	匪 適 株 林	林	a	liəm			3	0 0 0 603	匪 + 適 + 株 + liəm
@@ -2263,6 +2409,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2321	144	株林	144.2	2	說于株a[jya]野。（鱼部）	說 于 株 野	野	a	jya	鱼部		2	0 0 0 604	說 + 于 + 株 + jya
 2322	144	株林	144.2	1	乘我乘b[kio]駒	乘 我 乘 駒	駒	b	kio			3	0 0 0 605	乘 + 我 + 乘 + kio
 2323	144	株林	144.2	2	朝食于b[tio]株。（侯部）	朝 食 于 株	株	b	tio	侯部		4	0 0 0 605	朝 + 食 + 于 + tio
+#
 2324	145	澤陂	145.1	1	彼澤之a[piai]陂	彼 澤 之 陂	陂	a	piai			1	0 0 0 606	彼 + 澤 + 之 + piai
 2325	145	澤陂	145.1	2	有蒲與a[hai]荷。	有 蒲 與 荷	荷	a	hai			2	0 0 0 606	有 + 蒲 + 與 + hai
 2326	145	澤陂	145.1	1	有美一人	有 美 一 人						3	0 0 0 0	有 + 美 + 一 + 人
@@ -2282,6 +2429,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2340	145	澤陂	145.3	1	寤寐無為	寤 寐 無 為						5	0 0 0 0	寤 + 寐 + 無 + 為
 2341	145	澤陂	145.3	2	輾轉伏a[tjiəm]枕。（谈侵合韵）	輾 轉 伏 枕	枕	a	tjiəm	谈侵合韵		6	0 0 0 608	輾 + 轉 + 伏 + tjiəm
 2342	145	澤陂	145.6	1	檜風	檜 風						1	0 0	檜 + 風
+#
 2343	146	羔裘	146.1	1	羔裘逍a[jiô]遙	羔 裘 逍 遙	遙	a	jiô			1	0 0 0 609	羔 + 裘 + 逍 + jiô
 2344	146	羔裘	146.1	2	狐裘以a[diô]朝。	狐 裘 以 朝	朝	a	diô			2	0 0 0 609	狐 + 裘 + 以 + diô
 2345	146	羔裘	146.1	1	豈不爾思	豈 不 爾 思						3	0 0 0 0	豈 + 不 + 爾 + 思
@@ -2294,6 +2442,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2352	146	羔裘	146.3	2	日出有a[jiôk]曜。	日 出 有 曜	曜	a	jiôk			2	0 0 0 611	日 + 出 + 有 + jiôk
 2353	146	羔裘	146.3	1	豈不爾思	豈 不 爾 思						3	0 0 0 0	豈 + 不 + 爾 + 思
 2354	146	羔裘	146.3	2	中心是a[dôk]悼。（宵药通韵）	中 心 是 悼	悼	a	dôk	宵药通韵		4	0 0 0 611	中 + 心 + 是 + dôk
+#
 2355	147	素冠	147.1	1	庶見素a[kuan]冠兮	庶 見 素 冠 兮	冠	a	kuan			1	0 0 0 612 0	庶 + 見 + 素 + kuan + 兮
 2356	147	素冠	147.1	2	棘人欒a[luan]欒兮	棘 人 欒 欒 兮	欒	a	luan			2	0 0 0 612 0	棘 + 人 + 欒 + luan + 兮
 2357	147	素冠	147.1	3	勞心慱a[duan]慱兮。（元部）	勞 心 慱 慱 兮	慱	a	duan	元部		3	0 0 0 612 0	勞 + 心 + 慱 + duan + 兮
@@ -2303,6 +2452,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2361	147	素冠	147.3	1	庶見素a[piet]韡兮	庶 見 素 韡 兮	韡	a	piet			1	0 0 0 614 0	庶 + 見 + 素 + piet + 兮
 2362	147	素冠	147.3	2	我心蘊a[kyet]結兮	我 心 蘊 結 兮	結	a	kyet			2	0 0 0 614 0	我 + 心 + 蘊 + kyet + 兮
 2363	147	素冠	147.3	3	聊與子如a[iet]一兮。（质部）	聊 與 子 如 一 兮	一	a	iet	质部		3	0 0 0 0 614 0	聊 + 與 + 子 + 如 + iet + 兮
+#
 2364	148	隰有萇楚	148.1	1	隰有萇楚	隰 有 萇 楚						1	0 0 0 0	隰 + 有 + 萇 + 楚
 2365	148	隰有萇楚	148.1	2	猗儺其a[tjie]枝。	猗 儺 其 枝	枝	a	tjie			2	0 0 0 615	猗 + 儺 + 其 + tjie
 2366	148	隰有萇楚	148.1	1	夭之沃沃	夭 之 沃 沃						3	0 0 0 0	夭 + 之 + 沃 + 沃
@@ -2315,6 +2465,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2373	148	隰有萇楚	148.3	2	猗儺其a[djiet]實。	猗 儺 其 實	實	a	djiet			2	0 0 0 617	猗 + 儺 + 其 + djiet
 2374	148	隰有萇楚	148.3	1	夭之沃沃	夭 之 沃 沃						3	0 0 0 0	夭 + 之 + 沃 + 沃
 2375	148	隰有萇楚	148.3	2	樂子之無a[sjiet]室。（质部）	樂 子 之 無 室	室	a	sjiet	质部		4	0 0 0 0 617	樂 + 子 + 之 + 無 + sjiet
+#
 2376	149	匪風	149.1	1	匪風a[piuat]發兮	匪 風 發 兮	發	a	piuat			1	0 0 618 0	匪 + 風 + piuat + 兮
 2377	149	匪風	149.1	2	匪車a[giat]偈兮	匪 車 偈 兮	偈	a	giat			2	0 0 618 0	匪 + 車 + giat + 兮
 2378	149	匪風	149.1	3								3		
@@ -2329,6 +2480,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2387	149	匪風	149.3	1	誰將西歸	誰 將 西 歸						3	0 0 0 0	誰 + 將 + 西 + 歸
 2388	149	匪風	149.3	2	懷之好a[iəm]音。（侵部）	懷 之 好 音	音	a	iəm	侵部		4	0 0 0 620	懷 + 之 + 好 + iəm
 2389	149	匪風	149.6	1	曹風	曹 風						1	0 0	曹 + 風
+#
 2390	150	蜉蝣	150.1	1	蜉蝣之a[hiua]羽	蜉 蝣 之 羽	羽	a	hiua			1	0 0 0 621	蜉 + 蝣 + 之 + hiua
 2391	150	蜉蝣	150.1	2	衣裳楚a[tshia]楚。	衣 裳 楚 楚	楚	a	tshia			2	0 0 0 621	衣 + 裳 + 楚 + tshia
 2392	150	蜉蝣	150.1	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
@@ -2341,6 +2493,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2399	150	蜉蝣	150.3	2	麻衣如a[siuat]雪。	麻 衣 如 雪	雪	a	siuat			2	0 0 0 623	麻 + 衣 + 如 + siuat
 2400	150	蜉蝣	150.3	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
 2401	150	蜉蝣	150.3	2	於我歸a[sjiuat]說。（月部）	於 我 歸 說	說	a	sjiuat	月部		4	0 0 0 623	於 + 我 + 歸 + sjiuat
+#
 2402	151	候人	151.1	1	彼候人兮	彼 候 人 兮						1	0 0 0 0	彼 + 候 + 人 + 兮
 2403	151	候人	151.1	2	何戈與a[tuat]祋。	何 戈 與 祋	祋	a	tuat			2	0 0 0 624	何 + 戈 + 與 + tuat
 2404	151	候人	151.1	1	彼其之子	彼 其 之 子						3	0 0 0 0	彼 + 其 + 之 + 子
@@ -2357,6 +2510,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2415	151	候人	151.4	2	南山朝a[tzyei]隮。	南 山 朝 隮	隮	a	tzyei			2	0 0 0 627	南 + 山 + 朝 + tzyei
 2416	151	候人	151.4	1	婉兮孌兮	婉 兮 孌 兮						3	0 0 0 0	婉 + 兮 + 孌 + 兮
 2417	151	候人	151.4	2	季女斯a[kiei]飢。（脂部）	季 女 斯 飢	飢	a	kiei	脂部		4	0 0 0 627	季 + 女 + 斯 + kiei
+#
 2418	152	鳲鳩	152.1	1	鳲鳩在桑	鳲 鳩 在 桑						1	0 0 0 0	鳲 + 鳩 + 在 + 桑
 2419	152	鳲鳩	152.1	2	其子a[tsiet]七兮。	其 子 七 兮	七	a	tsiet			2	0 0 628 0	其 + 子 + tsiet + 兮
 2420	152	鳲鳩	152.1	1	淑人君子	淑 人 君 子						3	0 0 0 0	淑 + 人 + 君 + 子
@@ -2377,6 +2531,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2438	152	鳲鳩	152.4	1	淑人君子	淑 人 君 子						3	0 0 0 0	淑 + 人 + 君 + 子
 2439	152	鳲鳩	152.4	2	正是國a[njien]人。	正 是 國 人	人	a	njien			4	0 0 0 631	正 + 是 + 國 + njien
 2441	152	鳲鳩	152.4	2	胡不萬a[nyen]年。（真部）	胡 不 萬 年	年	a	nyen	真部		6	0 0 0 631	胡 + 不 + 萬 + nyen
+#
 2442	153	下泉	153.1	1	冽彼下a[dziuan]泉	冽 彼 下 泉	泉	a	dziuan			1	0 0 0 632	冽 + 彼 + 下 + dziuan
 2443	153	下泉	153.1	2	浸彼苞b[lang]稂。（a= 元部）	浸 彼 苞 稂	稂	b	lang	a=元部		2	0 0 0 633	浸 + 彼 + 苞 + lang
 2444	153	下泉	153.1	1	愾我寤a[than]嘆	愾 我 寤 嘆	嘆	a	than			3	0 0 0 632	愾 + 我 + 寤 + than
@@ -2394,6 +2549,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2456	153	下泉	153.4	1	四國有王	四 國 有 王						3	0 0 0 0	四 + 國 + 有 + 王
 2457	153	下泉	153.4	2	郇伯a[lô]勞之。（宵部）	郇 伯 勞 之	勞	a	lô	宵部		4	0 0 638 0	郇 + 伯 + lô + 之
 2458	153	下泉	153.6	1	豳風	豳 風						1	0 0	豳 + 風
+#
 2459	154	七月	154.1	1	七月流a[xuəi]火	七 月 流 火	火	a	xuəi			1	0 0 0 639	七 + 月 + 流 + xuəi
 2460	154	七月	154.1	2	九月授a[iəi]衣。（微部）	九 月 授 衣	衣	a	iəi	微部		2	0 0 0 639	九 + 月 + 授 + iəi
 2461	154	七月	154.1	1	一之日觱b[piuat]發	一 之 日 觱 發	發	b	piuat			3	0 0 0 0 640	一 + 之 + 日 + 觱 + piuat
@@ -2483,6 +2639,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2545	154	七月	154.8	1	躋彼公c[dang]堂	躋 彼 公 堂	堂	c	dang			9	0 0 0 665	躋 + 彼 + 公 + dang
 2546	154	七月	154.8	2	稱彼兕c[koang]觥	稱 彼 兕 觥	觥	c	koang			10	0 0 0 665	稱 + 彼 + 兕 + koang
 2547	154	七月	154.8	3	萬壽無c[kiang]疆。（阳部）	萬 壽 無 疆	疆	c	kiang	阳部		11	0 0 0 665	萬 + 壽 + 無 + kiang
+#
 2548	155	鴟鴞	155.1	1	鴟鴞鴟鴞	鴟 鴞 鴟 鴞						1	0 0 0 0	鴟 + 鴞 + 鴟 + 鴞
 2549	155	鴟鴞	155.1	2	既取我子	既 取 我 子						2	0 0 0 0	既 + 取 + 我 + 子
 2550	155	鴟鴞	155.1	3	無毀我室。9	無 毀 我 室						3	0 0 0 0	無 + 毀 + 我 + 室
@@ -2503,6 +2660,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2565	155	鴟鴞	155.4	3	予室翹a[giô]翹	予 室 翹 翹	翹	a	giô			3	0 0 0 669	予 + 室 + 翹 + giô
 2566	155	鴟鴞	155.4	4	風雨所漂a[jiô]搖	風 雨 所 漂 搖	搖	a	jiô			4	0 0 0 0 669	風 + 雨 + 所 + 漂 + jiô
 2567	155	鴟鴞	155.4	5	予維音嘵a[xyô]嘵。10（宵幽合韵）	予 維 音 嘵 嘵	嘵	a	xyô	宵幽合韵		5	0 0 0 0 669	予 + 維 + 音 + 嘵 + xyô
+#
 2568	156	東山	156.1	1	我徂東A[shean]山	我 徂 東 山	山	A	shean			1	0 0 0 670	我 + 徂 + 東 + shean
 2569	156	東山	156.1	2	慆慆不B[kiuəi]歸。	慆 慆 不 歸	歸	B	kiuəi			2	0 0 0 671	慆 + 慆 + 不 + kiuəi
 2570	156	東山	156.1	1	我來自c[tong]東	我 來 自 東	東	c	tong			3	0 0 0 672	我 + 來 + 自 + tong
@@ -2551,6 +2709,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2613	156	東山	156.4	2	九十其f[ngiai]儀。	九 十 其 儀	儀	f	ngiai			10	0 0 0 693	九 + 十 + 其 + ngiai
 2614	156	東山	156.4	1	其新孔f[keai]嘉	其 新 孔 嘉	嘉	f	keai			11	0 0 0 693	其 + 新 + 孔 + keai
 2615	156	東山	156.4	2	其舊如之f[hai]何。（歌部）	其 舊 如 之 何	何	f	hai	歌部		12	0 0 0 0 693	其 + 舊 + 如 + 之 + hai
+#
 2616	157	破斧	157.1	1	既破我斧	既 破 我 斧						1	0 0 0 0	既 + 破 + 我 + 斧
 2617	157	破斧	157.1	2	又缺我a[tsiang]斨。	又 缺 我 斨	斨	a	tsiang			2	0 0 0 694	又 + 缺 + 我 + tsiang
 2618	157	破斧	157.1	1	周公東征	周 公 東 征						3	0 0 0 0	周 + 公 + 東 + 征
@@ -2569,6 +2728,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2631	157	破斧	157.3	2	四國是a[dziu]遒。	四 國 是 遒	遒	a	dziu			4	0 0 0 696	四 + 國 + 是 + dziu
 2632	157	破斧	157.3	1	哀我人斯	哀 我 人 斯						5	0 0 0 0	哀 + 我 + 人 + 斯
 2633	157	破斧	157.3	2	亦孔之a[xiu]休。（幽部）	亦 孔 之 休	休	a	xiu	幽部		6	0 0 0 696	亦 + 孔 + 之 + xiu
+#
 2634	158	伐柯	158.1	1	伐柯如何	伐 柯 如 何						1	0 0 0 0	伐 + 柯 + 如 + 何
 2635	158	伐柯	158.1	2	匪斧不a[khək]克。	匪 斧 不 克	克	a	khək			2	0 0 0 697	匪 + 斧 + 不 + khək
 2636	158	伐柯	158.1	1	取妻如何	取 妻 如 何						3	0 0 0 0	取 + 妻 + 如 + 何
@@ -2577,6 +2737,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2639	158	伐柯	158.2	2	其則不a[hiuan]遠。	其 則 不 遠	遠	a	hiuan			2	0 0 0 698	其 + 則 + 不 + hiuan
 2640	158	伐柯	158.2	1	我覯之子	我 覯 之 子						3	0 0 0 0	我 + 覯 + 之 + 子
 2641	158	伐柯	158.2	2	籩豆有a[dzian]踐。（元部）	籩 豆 有 踐	踐	a	dzian	元部		4	0 0 0 698	籩 + 豆 + 有 + dzian
+#
 2642	159	九罭	159.1	1	九罭之魚	九 罭 之 魚						1	0 0 0 0	九 + 罭 + 之 + 魚
 2643	159	九罭	159.1	2	鱒a[biuang]魴。	鱒 魴	魴	a	biuang			2	0 699	鱒 + biuang
 2644	159	九罭	159.1	1	我覯之子	我 覯 之 子						3	0 0 0 0	我 + 覯 + 之 + 子
@@ -2590,6 +2751,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2652	159	九罭	159.4	1	是以有袞a[iəi]衣兮	是 以 有 袞 衣 兮	衣	a	iəi			1	0 0 0 0 702 0	是 + 以 + 有 + 袞 + iəi + 兮
 2653	159	九罭	159.4	2	無以我公a[kiuəi]歸兮	無 以 我 公 歸 兮	歸	a	kiuəi			2	0 0 0 0 702 0	無 + 以 + 我 + 公 + kiuəi + 兮
 2654	159	九罭	159.4	3	無使我心a[pəi]悲兮。（微部）	無 使 我 心 悲 兮	悲	a	pəi	微部		3	0 0 0 0 702 0	無 + 使 + 我 + 心 + pəi + 兮
+#
 2655	160	狼跋	160.1	1	狼跋其a[ha]胡	狼 跋 其 胡	胡	a	ha			1	0 0 0 703	狼 + 跋 + 其 + ha
 2656	160	狼跋	160.1	2	載疐其b[miuəi]尾。（a= 鱼部）	載 疐 其 尾	尾	b	miuəi	a=鱼部		2	0 0 0 704	載 + 疐 + 其 + miuəi
 2657	160	狼跋	160.1	1	公孫碩a[piua]膚	公 孫 碩 膚	膚	a	piua			3	0 0 0 703	公 + 孫 + 碩 + piua
@@ -2600,6 +2762,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2662	160	狼跋	160.2	2	德音不a[hea]瑕。（鱼部）	德 音 不 瑕	瑕	a	hea	鱼部		4	0 0 0 705	德 + 音 + 不 + hea
 2663	160	狼跋	160.6	1	小雅	小 雅						1	0 0	小 + 雅
 2664	160	狼跋	160.7	1	鹿鳴之什11	鹿 鳴 之 什						1	0 0 0 0	鹿 + 鳴 + 之 + 什
+#
 2665	161	鹿鳴	161.1	1	呦呦鹿a[mieng]鳴	呦 呦 鹿 鳴	鳴	a	mieng			1	0 0 0 706	呦 + 呦 + 鹿 + mieng
 2666	161	鹿鳴	161.1	2	食野之a[bieng]苹。	食 野 之 苹	苹	a	bieng			2	0 0 0 706	食 + 野 + 之 + bieng
 2667	161	鹿鳴	161.1	1	我有嘉賓	我 有 嘉 賓						3	0 0 0 0	我 + 有 + 嘉 + 賓
@@ -2623,6 +2786,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2686	161	鹿鳴	161.3	2	和樂且a[təm]湛。	和 樂 且 湛	湛	a	təm			6	0 0 0 709	和 + 樂 + 且 + təm
 2687	161	鹿鳴	161.3	1	我有旨酒	我 有 旨 酒						7	0 0 0 0	我 + 有 + 旨 + 酒
 2688	161	鹿鳴	161.3	2	以嘉樂嘉賓之a[siəm]心。（侵部）	以 嘉 樂 嘉 賓 之 心	心	a	siəm	侵部		8	0 0 0 0 0 0 709	以 + 嘉 + 樂 + 嘉 + 賓 + 之 + siəm
+#
 2689	162	四牡	162.1	1	四牡騑a[piuəi]騑	四 牡 騑 騑	騑	a	piuəi			1	0 0 0 710	四 + 牡 + 騑 + piuəi
 2690	162	四牡	162.1	2	周道倭a[diei]遲。	周 道 倭 遲	遲	a	diei			2	0 0 0 710	周 + 道 + 倭 + diei
 2691	162	四牡	162.1	1	豈不懷a[kiuəi]歸	豈 不 懷 歸	歸	a	kiuəi			3	0 0 0 710	豈 + 不 + 懷 + kiuəi
@@ -2648,6 +2812,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2711	162	四牡	162.5	1	豈不懷歸	豈 不 懷 歸						3	0 0 0 0	豈 + 不 + 懷 + 歸
 2712	162	四牡	162.5	2	是用作歌	是 用 作 歌						4	0 0 0 0	是 + 用 + 作 + 歌
 2713	162	四牡	162.5	3	將母來a[sjiəm]諗。（侵部）	將 母 來 諗	諗	a	sjiəm	侵部		5	0 0 0 715	將 + 母 + 來 + sjiəm
+#
 2714	163	皇皇者華	163.1	1	皇皇者a[hoa]華	皇 皇 者 華	華	a	hoa			1	0 0 0 716	皇 + 皇 + 者 + hoa
 2715	163	皇皇者華	163.1	2	于彼原b[ziəp]隰。（a= 鱼部）	于 彼 原 隰	隰	b	ziəp	a=鱼部		2	0 0 0 717	于 + 彼 + 原 + ziəp
 2716	163	皇皇者華	163.1	1	駪駪征a[piua]夫	駪 駪 征 夫	夫	a	piua			3	0 0 0 716	駪 + 駪 + 征 + piua
@@ -2668,6 +2833,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2731	163	皇皇者華	163.5	2	六轡既a[kiuen]均。	六 轡 既 均	均	a	kiuen			2	0 0 0 721	六 + 轡 + 既 + kiuen
 2732	163	皇皇者華	163.5	1	載馳載驅	載 馳 載 驅						3	0 0 0 0	載 + 馳 + 載 + 驅
 2733	163	皇皇者華	163.5	2	周爰咨a[siuen]詢。（真部）	周 爰 咨 詢	詢	a	siuen	真部		4	0 0 0 721	周 + 爰 + 咨 + siuen
+#
 2734	164	常棣	164.1	1	常棣之華	常 棣 之 華						1	0 0 0 0	常 + 棣 + 之 + 華
 2735	164	常棣	164.1	2	鄂不韡a[hiuəi]韡。	鄂 不 韡 韡	韡	a	hiuəi			2	0 0 0 722	鄂 + 不 + 韡 + hiuəi
 2736	164	常棣	164.1	1	凡今之人	凡 今 之 人						3	0 0 0 0	凡 + 今 + 之 + 人
@@ -2700,6 +2866,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2763	164	常棣	164.8	2	樂爾妻a[na]帑。	樂 爾 妻 帑	帑	a	na			2	0 0 0 731	樂 + 爾 + 妻 + na
 2764	164	常棣	164.8	1	是究是a[da]圖	是 究 是 圖	圖	a	da			3	0 0 0 731	是 + 究 + 是 + da
 2765	164	常棣	164.8	2	亶其然a[ha]乎。（鱼部）	亶 其 然 乎	乎	a	ha	鱼部		4	0 0 0 731	亶 + 其 + 然 + ha
+#
 2766	165	伐木	165.1	1	伐木丁a[teng]丁	伐 木 丁 丁	丁	a	teng			1	0 0 0 732	伐 + 木 + 丁 + teng
 2767	165	伐木	165.1	2	鳥鳴嚶a[eng]嚶。（耕部）	鳥 鳴 嚶 嚶	嚶	a	eng	耕部		2	0 0 0 732	鳥 + 鳴 + 嚶 + eng
 2768	165	伐木	165.1	1	出自幽b[kok]谷	出 自 幽 谷	谷	b	kok			3	0 0 0 733	出 + 自 + 幽 + kok
@@ -2735,6 +2902,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2799	165	伐木	165.3	2	蹲蹲b[miua]舞我。	蹲 蹲 舞 我	舞	b	miua			10	0 0 738 0	蹲 + 蹲 + miua + 我
 2800	165	伐木	165.3	1	迨我b[hea]暇矣	迨 我 暇 矣	暇	b	hea			11	0 0 738 0	迨 + 我 + hea + 矣
 2801	165	伐木	165.3	2	飲此b[sia]湑矣。（鱼部）	飲 此 湑 矣	湑	b	sia	鱼部		12	0 0 738 0	飲 + 此 + sia + 矣
+#
 2802	166	天保	166.1	1	天保定爾	天 保 定 爾						1	0 0 0 0	天 + 保 + 定 + 爾
 2803	166	天保	166.1	2	亦孔之a[ka]固。	亦 孔 之 固	固	a	ka			2	0 0 0 739	亦 + 孔 + 之 + ka
 2804	166	天保	166.1	1	俾爾單厚	俾 爾 單 厚						3	0 0 0 0	俾 + 爾 + 單 + 厚
@@ -2771,6 +2939,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2835	166	天保	166.6	2	不騫不a[pəng]崩。（a= 蒸部）	不 騫 不 崩	崩	a	pəng	a=蒸部		4	0 0 0 744	不 + 騫 + 不 + pəng
 2836	166	天保	166.6	1	如松伯之b[mu]茂	如 松 伯 之 茂	茂	b	mu			5	0 0 0 0 745	如 + 松 + 伯 + 之 + mu
 2837	166	天保	166.6	2	無不爾或a[zjiəng]承。（b= 幽部）	無 不 爾 或 承	承	a	zjiəng	b=幽部		6	0 0 0 0 744	無 + 不 + 爾 + 或 + zjiəng
+#
 2838	167	采薇	167.1	1	采薇采a[miuəi]薇	采 薇 采 薇	薇	a	miuəi			1	0 0 0 746	采 + 薇 + 采 + miuəi
 2839	167	采薇	167.1	2	薇亦b[tzak]作止。（a= 微部）	薇 亦 作 止	作	b	tzak	a=微部		2	0 0 747 0	薇 + 亦 + tzak + 止
 2840	167	采薇	167.1	1	曰歸曰a[kiuəi]歸	曰 歸 曰 歸	歸	a	kiuəi			3	0 0 0 746	曰 + 歸 + 曰 + kiuəi
@@ -2818,6 +2987,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2883	167	采薇	167.6	2	載渴載b[kiei]飢。（脂部）	載 渴 載 飢	飢	b	kiei	脂部		6	0 0 0 762	載 + 渴 + 載 + kiei
 2884	167	采薇	167.6	1	我心傷c[pəi]悲	我 心 傷 悲	悲	c	pəi			7	0 0 0 763	我 + 心 + 傷 + pəi
 2885	167	采薇	167.6	2	莫知我c[əi]哀。（微部）	莫 知 我 哀	哀	c	əi	微部		8	0 0 0 763	莫 + 知 + 我 + əi
+#
 2886	168	出車	168.1	1	我出我車	我 出 我 車						1	0 0 0 0	我 + 出 + 我 + 車
 2887	168	出車	168.1	2	于彼a[miuək]牧矣。	于 彼 牧 矣	牧	a	miuək			2	0 0 764 0	于 + 彼 + miuək + 矣
 2888	168	出車	168.1	1	自天子所	自 天 子 所						3	0 0 0 0	自 + 天 + 子 + 所
@@ -2866,6 +3036,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2931	168	出車	168.6	2	薄言還a[kiuəi]歸。	薄 言 還 歸	歸	a	kiuəi			6	0 0 0 770	薄 + 言 + 還 + kiuəi
 2932	168	出車	168.6	1	赫赫南仲	赫 赫 南 仲						7	0 0 0 0	赫 + 赫 + 南 + 仲
 2933	168	出車	168.6	2	玁狁于a[jiei]夷。（脂微合韵）	玁 狁 于 夷	夷	a	jiei	脂微合韵		8	0 0 0 770	玁 + 狁 + 于 + jiei
+#
 2934	169	杕杜	169.1	1	有杕之a[da]杜	有 杕 之 杜	杜	a	da			1	0 0 0 771	有 + 杕 + 之 + da
 2935	169	杕杜	169.1	2	有睆其b[djiet]實。（a= 鱼部）	有 睆 其 實	實	b	djiet	a=鱼部		2	0 0 0 772	有 + 睆 + 其 + djiet
 2936	169	杕杜	169.1	1	王事靡a[ka]盬	王 事 靡 盬	盬	a	ka			3	0 0 0 771	王 + 事 + 靡 + ka
@@ -2901,6 +3072,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2966	169	杕杜	169.9	1	笙詩無辭	笙 詩 無 辭						3	0 0 0 0	笙 + 詩 + 無 + 辭
 2967	169	杕杜	169.14	1	華黍	華 黍						1	0 0	華 + 黍
 2968	169	杕杜	169.14	1	笙詩無辭	笙 詩 無 辭						2	0 0 0 0	笙 + 詩 + 無 + 辭
+#
 2969	170	魚麗	170.1	1	魚麗于a[liu]罶	魚 麗 于 罶	罶	a	liu			1	0 0 0 781	魚 + 麗 + 于 + liu
 2970	170	魚麗	170.1	2	鱨b[sheai]鯊。（a= 幽部）	鱨 鯊	鯊	b	sheai	a=幽部		2	0 782	鱨 + sheai
 2971	170	魚麗	170.1	1	君子有a[tziu]酒	君 子 有 酒	酒	a	tziu			3	0 0 0 781	君 + 子 + 有 + tziu
@@ -2921,6 +3093,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 2986	170	魚麗	170.6	2	維其a[zjiə]時矣。（之部）	維 其 時 矣	時	a	zjiə	之部		2	0 0 789 0	維 + 其 + zjiə + 矣
 2987	170	魚麗	170.10	1	由庚	由 庚						1	0 0	由 + 庚
 2988	170	魚麗	170.10	1	笙詩無辭。	笙 詩 無 辭						2	0 0 0 0	笙 + 詩 + 無 + 辭
+#
 2989	171	南有嘉魚	171.1	1	南有嘉魚	南 有 嘉 魚						1	0 0 0 0	南 + 有 + 嘉 + 魚
 2990	171	南有嘉魚	171.1	2	烝然罩a[teôk]罩。	烝 然 罩 罩	罩	a	teôk			2	0 0 0 790	烝 + 然 + 罩 + teôk
 2991	171	南有嘉魚	171.1	1	君子有酒	君 子 有 酒						3	0 0 0 0	君 + 子 + 有 + 酒
@@ -2939,6 +3112,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3004	171	南有嘉魚	171.4	2	嘉賓式燕a[hiuə]又思。（之部）	嘉 賓 式 燕 又 思	又	a	hiuə	之部		4	0 0 0 0 793 0	嘉 + 賓 + 式 + 燕 + hiuə + 思
 3005	171	南有嘉魚	171.8	1	崇丘	崇 丘						1	0 0	崇 + 丘
 3006	171	南有嘉魚	171.8	1	笙詩無辭	笙 詩 無 辭						2	0 0 0 0	笙 + 詩 + 無 + 辭
+#
 3007	172	南山有臺	172.1	1	南山有a[də]臺	南 山 有 臺	臺	a	də			1	0 0 0 794	南 + 山 + 有 + də
 3008	172	南山有臺	172.1	2	北山有a[lə]萊。	北 山 有 萊	萊	a	lə			2	0 0 0 794	北 + 山 + 有 + lə
 3009	172	南山有臺	172.1	1	樂只君子	樂 只 君 子						3	0 0 0 0	樂 + 只 + 君 + 子
@@ -2966,6 +3140,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3036	172	南山有臺	172.5	2	保艾爾a[ho]後。（侯部）	保 艾 爾 後	後	a	ho	侯部		6	0 0 0 798	保 + 艾 + 爾 + ho
 3037	172	南山有臺	172.9	1	由儀	由 儀						1	0 0	由 + 儀
 3038	172	南山有臺	172.9	1	無辭	無 辭						2	0 0	無 + 辭
+#
 3039	173	蓼蕭	173.1	1	蓼彼蕭斯	蓼 彼 蕭 斯						1	0 0 0 0	蓼 + 彼 + 蕭 + 斯
 3040	173	蓼蕭	173.1	2	零露a[sia]湑兮。	零 露 湑 兮	湑	a	sia			2	0 0 799 0	零 + 露 + sia + 兮
 3041	173	蓼蕭	173.1	1	既見君子	既 見 君 子						3	0 0 0 0	既 + 見 + 君 + 子
@@ -2990,6 +3165,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3060	173	蓼蕭	173.4	2	鞗革沖a[diuəm]沖。（侵部）	鞗 革 沖 沖	沖	a	diuəm	侵部		4	0 0 0 802	鞗 + 革 + 沖 + diuəm
 3061	173	蓼蕭	173.4	1	和鸞雝b[iong]<long?>雝	和 鸞 雝 雝	雝	b	iong		long?,	5	0 0 0 803	和 + 鸞 + 雝 + iong
 3062	173	蓼蕭	173.4	2	萬福攸b[dong]同。（东部）	萬 福 攸 同	同	b	dong	东部		6	0 0 0 803	萬 + 福 + 攸 + dong
+#
 3063	174	湛露	174.1	1	湛湛露斯	湛 湛 露 斯						1	0 0 0 0	湛 + 湛 + 露 + 斯
 3064	174	湛露	174.1	2	匪陽不a[xiəi]晞。	匪 陽 不 晞	晞	a	xiəi			2	0 0 0 804	匪 + 陽 + 不 + xiəi
 3065	174	湛露	174.1	1	厭厭夜飲	厭 厭 夜 飲						3	0 0 0 0	厭 + 厭 + 夜 + 飲
@@ -3007,6 +3183,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3077	174	湛露	174.4	1	豈弟君子	豈 弟 君 子						3	0 0 0 0	豈 + 弟 + 君 + 子
 3078	174	湛露	174.4	2	莫不令a[ngiai]儀。（歌部）	莫 不 令 儀	儀	a	ngiai	歌部		4	0 0 0 807	莫 + 不 + 令 + ngiai
 3079	174	湛露	174.7	1	彤弓之什	彤 弓 之 什						1	0 0 0 0	彤 + 弓 + 之 + 什
+#
 3080	175	彤弓	175.1	1	彤弓弨兮	彤 弓 弨 兮						1	0 0 0 0	彤 + 弓 + 弨 + 兮
 3081	175	彤弓	175.1	2	受言a[dzang]藏之。	受 言 藏 之	藏	a	dzang			2	0 0 808 0	受 + 言 + dzang + 之
 3082	175	彤弓	175.1	1	我有嘉賓	我 有 嘉 賓						3	0 0 0 0	我 + 有 + 嘉 + 賓
@@ -3025,6 +3202,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3095	175	彤弓	175.3	2	中心a[xu]好之。	中 心 好 之	好	a	xu			4	0 0 810 0	中 + 心 + xu + 之
 3096	175	彤弓	175.3	1	鐘鼓既設	鐘 鼓 既 設						5	0 0 0 0	鐘 + 鼓 + 既 + 設
 3097	175	彤弓	175.3	2	一朝a[zjiu]酬之。（幽部）	一 朝 酬 之	酬	a	zjiu	幽部		6	0 0 810 0	一 + 朝 + zjiu + 之
+#
 3098	176	菁菁者莪	176.1	1	菁菁者a[ngai]莪	菁 菁 者 莪	莪	a	ngai			1	0 0 0 811	菁 + 菁 + 者 + ngai
 3099	176	菁菁者莪	176.1	2	在彼中a[ai]阿。	在 彼 中 阿	阿	a	ai			2	0 0 0 811	在 + 彼 + 中 + ai
 3100	176	菁菁者莪	176.1	1	既見君子	既 見 君 子						3	0 0 0 0	既 + 見 + 君 + 子
@@ -3041,6 +3219,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3111	176	菁菁者莪	176.4	2	載沉載a[biu]浮。	載 沉 載 浮	浮	a	biu			2	0 0 0 814	載 + 沉 + 載 + biu
 3112	176	菁菁者莪	176.4	1	既見君子	既 見 君 子						3	0 0 0 0	既 + 見 + 君 + 子
 3113	176	菁菁者莪	176.4	2	我心則a[xiu]休。（幽部）	我 心 則 休	休	a	xiu	幽部		4	0 0 0 814	我 + 心 + 則 + xiu
+#
 3114	177	六月	177.1	1	六月棲a[syei]棲	六 月 棲 棲	棲	a	syei			1	0 0 0 815	六 + 月 + 棲 + syei
 3115	177	六月	177.1	2	戎車既b[thiək]飭。	戎 車 既 飭	飭	b	thiək			2	0 0 0 816	戎 + 車 + 既 + thiək
 3116	177	六月	177.1	1	四牡騤a[giuəi]騤	四 牡 騤 騤	騤	a	giuəi			3	0 0 0 815	四 + 牡 + 騤 + giuəi
@@ -3088,6 +3267,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3159	177	六月	177.5	2	炰鱉膾a[liə]鯉。	炰 鱉 膾 鯉	鯉	a	liə			6	0 0 0 825	炰 + 鱉 + 膾 + liə
 3160	177	六月	177.5	1	侯誰在a[jiə]矣	侯 誰 在 矣	矣	a	jiə			7	0 0 0 825	侯 + 誰 + 在 + jiə
 3161	177	六月	177.5	2	張仲孝a[hiuə]友。（之部）	張 仲 孝 友	友	a	hiuə	之部		8	0 0 0 825	張 + 仲 + 孝 + hiuə
+#
 3162	178	采芑	178.1	1	薄言采a[khiə]芑	薄 言 采 芑	芑	a	khiə			1	0 0 0 826	薄 + 言 + 采 + khiə
 3163	178	采芑	178.1	2	于彼新b[dyen]田	于 彼 新 田	田	b	dyen			2	0 0 0 827	于 + 彼 + 新 + dyen
 3164	178	采芑	178.1	3	于此菑a[mə]畝。（a= 之部）	于 此 菑 畝	畝	a	mə	a=之部		3	0 0 0 826	于 + 此 + 菑 + mə
@@ -3136,6 +3316,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3207	178	采芑	178.4	1	顯允方叔	顯 允 方 叔						10	0 0 0 0	顯 + 允 + 方 + 叔
 3208	178	采芑	178.4	2	征伐玁狁	征 伐 玁 狁						11	0 0 0 0	征 + 伐 + 玁 + 狁
 3209	178	采芑	178.4	3	蠻荊來b[iuəi]威。（文微通韵）	蠻 荊 來 威	威	b	iuəi	文微通韵		12	0 0 0 836	蠻 + 荊 + 來 + iuəi
+#
 3210	179	車攻	179.1	1	我車既a[kong]攻	我 車 既 攻	攻	a	kong			1	0 0 0 837	我 + 車 + 既 + kong
 3211	179	車攻	179.1	2	我馬既a[dong]同。	我 馬 既 同	同	a	dong			2	0 0 0 837	我 + 馬 + 既 + dong
 3212	179	車攻	179.1	1	四牡龐a[beong]龐	四 牡 龐 龐	龐	a	beong			3	0 0 0 837	四 + 牡 + 龐 + beong
@@ -3168,6 +3349,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3239	179	車攻	179.8	2	有聞無a[sjieng]聲。	有 聞 無 聲	聲	a	sjieng			2	0 0 0 845	有 + 聞 + 無 + sjieng
 3240	179	車攻	179.8	1	允矣君子	允 矣 君 子						3	0 0 0 0	允 + 矣 + 君 + 子
 3241	179	車攻	179.8	2	展也大a[zjieng]成。（耕部）	展 也 大 成	成	a	zjieng	耕部		4	0 0 0 845	展 + 也 + 大 + zjieng
+#
 3242	180	吉日	180.1	1	吉日維a[mu]戊	吉 日 維 戊	戊	a	mu			1	0 0 0 846	吉 + 日 + 維 + mu
 3243	180	吉日	180.1	2	既伯既a[tu]禱。	既 伯 既 禱	禱	a	tu			2	0 0 0 846	既 + 伯 + 既 + tu
 3244	180	吉日	180.1	1	田車既a[xu]好	田 車 既 好	好	a	xu			3	0 0 0 846	田 + 車 + 既 + xu
@@ -3192,6 +3374,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3263	180	吉日	180.4	2	殪此大a[ziei]兕。	殪 此 大 兕	兕	a	ziei			4	0 0 0 850	殪 + 此 + 大 + ziei
 3264	180	吉日	180.4	1	以御賓客	以 御 賓 客						5	0 0 0 0	以 + 御 + 賓 + 客
 3265	180	吉日	180.4	2	且以酌a[lyei]醴。（脂部）	且 以 酌 醴	醴	a	lyei	脂部		6	0 0 0 850	且 + 以 + 酌 + lyei
+#
 3266	181	鴻雁	181.1	1	鴻雁于飛	鴻 雁 于 飛						1	0 0 0 0	鴻 + 雁 + 于 + 飛
 3267	181	鴻雁	181.1	2	肅肅其a[hiua]羽。	肅 肅 其 羽	羽	a	hiua			2	0 0 0 851	肅 + 肅 + 其 + hiua
 3268	181	鴻雁	181.1	1	之子于征	之 子 于 征						3	0 0 0 0	之 + 子 + 于 + 征
@@ -3210,6 +3393,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3281	181	鴻雁	181.3	2	謂我劬a[lô]勞。	謂 我 劬 勞	勞	a	lô			4	0 0 0 853	謂 + 我 + 劬 + lô
 3282	181	鴻雁	181.3	1	維彼愚人	維 彼 愚 人						5	0 0 0 0	維 + 彼 + 愚 + 人
 3283	181	鴻雁	181.3	2	謂我宣a[kiô]驕。（宵部）	謂 我 宣 驕	驕	a	kiô	宵部		6	0 0 0 853	謂 + 我 + 宣 + kiô
+#
 3284	182	庭燎	182.1	1	夜如何其	夜 如 何 其						1	0 0 0 0	夜 + 如 + 何 + 其
 3285	182	庭燎	182.1	2	夜未a[iang]央	夜 未 央	央	a	iang			2	0 0 854	夜 + 未 + iang
 3286	182	庭燎	182.1	3	庭燎之a[kuang]光。	庭 燎 之 光	光	a	kuang			3	0 0 0 854	庭 + 燎 + 之 + kuang
@@ -3225,6 +3409,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3296	182	庭燎	182.3	3	庭燎有a[xiuən]煇。	庭 燎 有 煇	煇	a	xiuən			3	0 0 0 856	庭 + 燎 + 有 + xiuən
 3297	182	庭燎	182.3	1	君子至止	君 子 至 止						4	0 0 0 0	君 + 子 + 至 + 止
 3298	182	庭燎	182.3	2	言觀其a[giən]旂。（文部）	言 觀 其 旂	旂	a	giən	文部		5	0 0 0 856	言 + 觀 + 其 + giən
+#
 3299	183	沔水	183.1	1	沔彼流水	沔 彼 流 水						1	0 0 0 0	沔 + 彼 + 流 + 水
 3300	183	沔水	183.1	2	朝宗于a[xə]海。	朝 宗 于 海	海	a	xə			2	0 0 0 857	朝 + 宗 + 于 + xə
 3301	183	沔水	183.1	1	鴥彼飛隼	鴥 彼 飛 隼						3	0 0 0 0	鴥 + 彼 + 飛 + 隼
@@ -3247,6 +3432,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3318	183	沔水	183.3	2	寧莫之a[diəng]懲。	寧 莫 之 懲	懲	a	diəng			4	0 0 0 859	寧 + 莫 + 之 + diəng
 3319	183	沔水	183.3	1	我友敬矣	我 友 敬 矣						5	0 0 0 0	我 + 友 + 敬 + 矣
 3320	183	沔水	183.3	2	讒言其a[xiəng]興。（蒸部）	讒 言 其 興	興	a	xiəng	蒸部		6	0 0 0 859	讒 + 言 + 其 + xiəng
+#
 3321	184	鶴鳴	184.1	1	鶴鳴于九皋	鶴 鳴 于 九 皋						1	0 0 0 0 0	鶴 + 鳴 + 于 + 九 + 皋
 3322	184	鶴鳴	184.1	2	聲聞于a[jya]野。	聲 聞 于 野	野	a	jya			2	0 0 0 860	聲 + 聞 + 于 + jya
 3323	184	鶴鳴	184.1	1	魚潛在淵	魚 潛 在 淵						3	0 0 0 0	魚 + 潛 + 在 + 淵
@@ -3266,6 +3452,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3337	184	鶴鳴	184.2	1	它山之石	它 山 之 石						8	0 0 0 0	它 + 山 + 之 + 石
 3338	184	鶴鳴	184.2	2	可以攻c[ngiok]玉。（屋部）	可 以 攻 玉	玉	c	ngiok	屋部		9	0 0 0 865	可 + 以 + 攻 + ngiok
 3339	184	鶴鳴	184.5	1	祈父之什	祈 父 之 什						1	0 0 0 0	祈 + 父 + 之 + 什
+#
 3340	185	祈父	185.1	1	祈父	祈 父						1	0 0	祈 + 父
 3341	185	祈父	185.1	2	予王之爪a[ngea]牙。	予 王 之 爪 牙	牙	a	ngea			2	0 0 0 0 866	予 + 王 + 之 + 爪 + ngea
 3342	185	祈父	185.1	1	胡轉予于恤	胡 轉 予 于 恤						3	0 0 0 0 0	胡 + 轉 + 予 + 于 + 恤
@@ -3278,6 +3465,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3349	185	祈父	185.3	2	亶不a[tsong]聰。	亶 不 聰	聰	a	tsong			2	0 0 868	亶 + 不 + tsong
 3350	185	祈父	185.3	1	胡轉予于恤	胡 轉 予 于 恤						3	0 0 0 0 0	胡 + 轉 + 予 + 于 + 恤
 3351	185	祈父	185.3	2	有母之尸a[iong]饔。（东部）	有 母 之 尸 饔	饔	a	iong	东部		4	0 0 0 0 868	有 + 母 + 之 + 尸 + iong
+#
 3352	186	白駒	186.1	1	皎皎白駒	皎 皎 白 駒						1	0 0 0 0	皎 + 皎 + 白 + 駒
 3353	186	白駒	186.1	2	食我場a[miô]苗。	食 我 場 苗	苗	a	miô			2	0 0 0 869	食 + 我 + 場 + miô
 3354	186	白駒	186.1	1	縶之維之	縶 之 維 之						3	0 0 0 0	縶 + 之 + 維 + 之
@@ -3302,6 +3490,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3373	186	白駒	186.4	2	其人如a[ngiok]玉。（屋部）	其 人 如 玉	玉	a	ngiok	屋部		4	0 0 0 872	其 + 人 + 如 + ngiok
 3374	186	白駒	186.4	1	毋金玉爾b[iəm]音	毋 金 玉 爾 音	音	b	iəm			5	0 0 0 0 873	毋 + 金 + 玉 + 爾 + iəm
 3375	186	白駒	186.4	2	而有遐b[siəm]心。（侵部）	而 有 遐 心	心	b	siəm	侵部		6	0 0 0 873	而 + 有 + 遐 + siəm
+#
 3376	187	黃鳥	187.1	1	黃鳥黃鳥。	黃 鳥 黃 鳥						1	0 0 0 0	黃 + 鳥 + 黃 + 鳥
 3377	187	黃鳥	187.1	1	無集于a[kok]穀。	無 集 于 穀	穀	a	kok			2	0 0 0 874	無 + 集 + 于 + kok
 3378	187	黃鳥	187.1	1	無啄無a[siok]粟。	無 啄 無 粟	粟	a	siok			3	0 0 0 874	無 + 啄 + 無 + siok
@@ -3323,6 +3512,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3394	187	黃鳥	187.3	1	不可與a[thjia]處。	不 可 與 處	處	a	thjia			5	0 0 0 876	不 + 可 + 與 + thjia
 3395	187	黃鳥	187.3	1	言旋言歸。	言 旋 言 歸						6	0 0 0 0	言 + 旋 + 言 + 歸
 3396	187	黃鳥	187.3	1	復我諸a[biua]父。（鱼部）	復 我 諸 父	父	a	biua	鱼部		7	0 0 0 876	復 + 我 + 諸 + biua
+#
 3397	188	我行其野	188.1	1	我行其野	我 行 其 野						1	0 0 0 0	我 + 行 + 其 + 野
 3398	188	我行其野	188.1	2	蔽芾其a[thjia]樗。	蔽 芾 其 樗	樗	a	thjia			2	0 0 0 877	蔽 + 芾 + 其 + thjia
 3399	188	我行其野	188.1	1	婚姻之故	婚 姻 之 故						3	0 0 0 0	婚 + 姻 + 之 + 故
@@ -3341,6 +3531,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3412	188	我行其野	188.3	2	求爾新a[dək]特。	求 爾 新 特	特	a	dək			4	0 0 0 879	求 + 爾 + 新 + dək
 3413	188	我行其野	188.3	1	成不以a[piuək]富	成 不 以 富	富	a	piuək			5	0 0 0 879	成 + 不 + 以 + piuək
 3414	188	我行其野	188.3	2	亦祇以a[jiək]異。（职部）	亦 祇 以 異	異	a	jiək	职部		6	0 0 0 879	亦 + 祇 + 以 + jiək
+#
 3415	189	斯干	189.1	1	秩秩斯a[kan]干	秩 秩 斯 干	干	a	kan			1	0 0 0 880	秩 + 秩 + 斯 + kan
 3416	189	斯干	189.1	2	幽幽南a[shean]山。（元部）	幽 幽 南 山	山	a	shean	元部		2	0 0 0 880	幽 + 幽 + 南 + shean
 3417	189	斯干	189.1	1	如竹b[peu]苞矣	如 竹 苞 矣	苞	b	peu			3	0 0 881 0	如 + 竹 + peu + 矣
@@ -3394,6 +3585,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3465	189	斯干	189.9	1	無非無a[ngiai]儀	無 非 無 儀	儀	a	ngiai			5	0 0 0 894	無 + 非 + 無 + ngiai
 3466	189	斯干	189.9	2	唯酒食是a[ngiai]議	唯 酒 食 是 議	議	a	ngiai			6	0 0 0 0 894	唯 + 酒 + 食 + 是 + ngiai
 3467	189	斯干	189.9	3	無父母詒a[liai]罹。14（歌锡合韵?）	無 父 母 詒 罹	罹	a	liai	歌锡合韵?		7	0 0 0 0 894	無 + 父 + 母 + 詒 + liai
+#
 3468	190	無羊	190.1	1	誰謂爾無羊	誰 謂 爾 無 羊						1	0 0 0 0 0	誰 + 謂 + 爾 + 無 + 羊
 3469	190	無羊	190.1	2	三百維a[giuən]群。	三 百 維 群	群	a	giuən			2	0 0 0 895	三 + 百 + 維 + giuən
 3470	190	無羊	190.1	1	誰謂爾無牛	誰 謂 爾 無 牛						3	0 0 0 0 0	誰 + 謂 + 爾 + 無 + 牛
@@ -3424,6 +3616,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3495	190	無羊	190.4	1	大人占之	大 人 占 之						4	0 0 0 0	大 + 人 + 占 + 之
 3497	190	無羊	190.4	3	實維豐b[nyen]年。	實 維 豐 年	年	b	nyen			6	0 0 0 901	實 + 維 + 豐 + nyen
 3499	190	無羊	190.4	2	室家溱b[tzhen]溱。（真部）	室 家 溱 溱	溱	b	tzhen	真部		8	0 0 0 901	室 + 家 + 溱 + tzhen
+#
 3500	191	節南山	191.1	1	節彼南山	節 彼 南 山						1	0 0 0 0	節 + 彼 + 南 + 山
 3501	191	節南山	191.1	2	維石巖a[ngeam]巖。	維 石 巖 巖	巖	a	ngeam			2	0 0 0 902	維 + 石 + 巖 + ngeam
 3502	191	節南山	191.1	1	赫赫師尹	赫 赫 師 尹						3	0 0 0 0	赫 + 赫 + 師 + 尹
@@ -3488,6 +3681,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3561	191	節南山	191.10	2	以究王a[xiong]訩。	以 究 王 訩	訩	a	xiong			2	0 0 0 915	以 + 究 + 王 + xiong
 3562	191	節南山	191.10	1	式訛爾心	式 訛 爾 心						3	0 0 0 0	式 + 訛 + 爾 + 心
 3563	191	節南山	191.10	2	以畜萬a[peong]邦。（东部）	以 畜 萬 邦	邦	a	peong	东部		4	0 0 0 915	以 + 畜 + 萬 + peong
+#
 3564	192	正月	192.1	1	正月繁a[shiang]霜	正 月 繁 霜	霜	a	shiang			1	0 0 0 916	正 + 月 + 繁 + shiang
 3565	192	正月	192.1	2	我心憂a[sjiang]傷。	我 心 憂 傷	傷	a	sjiang			2	0 0 0 916	我 + 心 + 憂 + sjiang
 3566	192	正月	192.1	1	民之訛言	民 之 訛 言						3	0 0 0 0	民 + 之 + 訛 + 言
@@ -3582,6 +3776,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3655	192	正月	192.13	2	天夭是a[teok]椓。	天 夭 是 椓	椓	a	teok			4	0 0 0 929	天 + 夭 + 是 + teok
 3656	192	正月	192.13	1	哿矣富人	哿 矣 富 人						5	0 0 0 0	哿 + 矣 + 富 + 人
 3657	192	正月	192.13	2	哀此惸a[dok]獨。（屋部）	哀 此 惸 獨	獨	a	dok	屋部		6	0 0 0 929	哀 + 此 + 惸 + dok
+#
 3658	193	十月之交	193.1	1	十月之交	十 月 之 交						1	0 0 0 0	十 + 月 + 之 + 交
 3659	193	十月之交	193.1	2	朔日辛a[meu]卯。	朔 日 辛 卯	卯	a	meu			2	0 0 0 930	朔 + 日 + 辛 + meu
 3660	193	十月之交	193.1	1	日有食之	日 有 食 之						3	0 0 0 0	日 + 有 + 食 + 之
@@ -3646,6 +3841,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3719	193	十月之交	193.8	2	我獨不敢b[xiu]休。（幽部）	我 獨 不 敢 休	休	b	xiu	幽部		6	0 0 0 0 942	我 + 獨 + 不 + 敢 + xiu
 3720	193	十月之交	193.8	1	天命不c[thiat]徹	天 命 不 徹	徹	c	thiat			7	0 0 0 943	天 + 命 + 不 + thiat
 3721	193	十月之交	193.8	2	我不敢傚我友自c[jiet]逸。（月质合韵）	我 不 敢 傚 我 友 自 逸	逸	c	jiet	月质合韵		8	0 0 0 0 0 0 0 943	我 + 不 + 敢 + 傚 + 我 + 友 + 自 + jiet
+#
 3722	194	雨無正	194.1	1	浩浩昊天	浩 浩 昊 天						1	0 0 0 0	浩 + 浩 + 昊 + 天
 3723	194	雨無正	194.1	2	不駿其a[tək]德。	不 駿 其 德	德	a	tək			2	0 0 0 944	不 + 駿 + 其 + tək
 3724	194	雨無正	194.1	1	降喪飢饉	降 喪 飢 饉						3	0 0 0 0	降 + 喪 + 飢 + 饉
@@ -3701,6 +3897,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3774	194	雨無正	194.7	1	昔爾出居	昔 爾 出 居						5	0 0 0 0	昔 + 爾 + 出 + 居
 3775	194	雨無正	194.7	2	誰從作爾b[sjiet]室。（质部）	誰 從 作 爾 室	室	b	sjiet	质部		6	0 0 0 0 954	誰 + 從 + 作 + 爾 + sjiet
 3776	194	雨無正	194.10	1	小旻之什	小 旻 之 什						1	0 0 0 0	小 + 旻 + 之 + 什
+#
 3777	195	小旻	195.1	1	旻天疾威	旻 天 疾 威						1	0 0 0 0	旻 + 天 + 疾 + 威
 3778	195	小旻	195.1	2	敷于下a[tha]土。	敷 于 下 土	土	a	tha			2	0 0 0 955	敷 + 于 + 下 + tha
 3779	195	小旻	195.1	1	謀猶回遹	謀 猶 回 遹						3	0 0 0 0	謀 + 猶 + 回 + 遹
@@ -3747,6 +3944,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3820	195	小旻	195.6	1	戰戰兢b[kiəng]兢	戰 戰 兢 兢	兢	b	kiəng			5	0 0 0 963	戰 + 戰 + 兢 + kiəng
 3821	195	小旻	195.6	2	如臨深淵	如 臨 深 淵						6	0 0 0 0	如 + 臨 + 深 + 淵
 3822	195	小旻	195.6	3	如履薄b[piəng]冰。（蒸部）	如 履 薄 冰	冰	b	piəng	蒸部		7	0 0 0 963	如 + 履 + 薄 + piəng
+#
 3823	196	小宛	196.1	1	宛彼鳴鳩	宛 彼 鳴 鳩						1	0 0 0 0	宛 + 彼 + 鳴 + 鳩
 3824	196	小宛	196.1	2	翰飛戾a[thyen]天。	翰 飛 戾 天	天	a	thyen			2	0 0 0 964	翰 + 飛 + 戾 + thyen
 3825	196	小宛	196.1	1	我心憂傷	我 心 憂 傷						3	0 0 0 0	我 + 心 + 憂 + 傷
@@ -3783,6 +3981,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3856	196	小宛	196.6	2	如臨于a[kok]谷。（屋部）	如 臨 于 谷	谷	a	kok	屋部		4	0 0 0 970	如 + 臨 + 于 + kok
 3857	196	小宛	196.6	1	戰戰兢b[kiəng]兢	戰 戰 兢 兢	兢	b	kiəng			5	0 0 0 971	戰 + 戰 + 兢 + kiəng
 3858	196	小宛	196.6	2	如履薄b[piəng]冰。（蒸部）	如 履 薄 冰	冰	b	piəng	蒸部		6	0 0 0 971	如 + 履 + 薄 + piəng
+#
 3859	197	小弁	197.1	1	弁彼鸒a[sie]斯	弁 彼 鸒 斯	斯	a	sie			1	0 0 0 972	弁 + 彼 + 鸒 + sie
 3860	197	小弁	197.1	2	歸飛提a[zjie]提。（支部）	歸 飛 提 提	提	a	zjie	支部		2	0 0 0 972	歸 + 飛 + 提 + zjie
 3861	197	小弁	197.1	1	民莫不穀	民 莫 不 穀						3	0 0 0 0	民 + 莫 + 不 + 穀
@@ -3847,6 +4046,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3920	197	小弁	197.8	2	無發我b[ko]笱。	無 發 我 笱	笱	b	ko			6	0 0 0 982	無 + 發 + 我 + ko
 3921	197	小弁	197.8	1	我躬不閱	我 躬 不 閱						7	0 0 0 0	我 + 躬 + 不 + 閱
 3922	197	小弁	197.8	2	遑恤我b[ho]後。（侯部）	遑 恤 我 後	後	b	ho	侯部		8	0 0 0 982	遑 + 恤 + 我 + ho
+#
 3923	198	巧言	198.1	1	悠悠昊天	悠 悠 昊 天						1	0 0 0 0	悠 + 悠 + 昊 + 天
 3924	198	巧言	198.1	2	曰父母a[tzia]且。	曰 父 母 且	且	a	tzia			2	0 0 0 983	曰 + 父 + 母 + tzia
 3925	198	巧言	198.1	1	無罪無a[ka]辜	無 罪 無 辜	辜	a	ka			3	0 0 0 983	無 + 罪 + 無 + ka
@@ -3895,6 +4095,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 3968	198	巧言	198.6	2	爾勇伊b[hai]何。	爾 勇 伊 何	何	b	hai			6	0 0 0 996	爾 + 勇 + 伊 + hai
 3969	198	巧言	198.6	1	為猶將b[tai]多	為 猶 將 多	多	b	tai			7	0 0 0 996	為 + 猶 + 將 + tai
 3970	198	巧言	198.6	2	爾居徒幾b[hai]何。（歌部）	爾 居 徒 幾 何	何	b	hai	歌部		8	0 0 0 0 996	爾 + 居 + 徒 + 幾 + hai
+#
 3971	199	何人斯	199.1	1	彼何人斯	彼 何 人 斯						1	0 0 0 0	彼 + 何 + 人 + 斯
 3972	199	何人斯	199.1	2	其心孔a[keən]艱。	其 心 孔 艱	艱	a	keən			2	0 0 0 997	其 + 心 + 孔 + keən
 3973	199	何人斯	199.1	1	胡逝我梁	胡 逝 我 梁						3	0 0 0 0	胡 + 逝 + 我 + 梁
@@ -3943,6 +4144,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4016	199	何人斯	199.8	2	視人罔a[giək]極。	視 人 罔 極	極	a	giək			4	0 0 0 1004	視 + 人 + 罔 + giək
 4017	199	何人斯	199.8	1	作此好歌	作 此 好 歌						5	0 0 0 0	作 + 此 + 好 + 歌
 4018	199	何人斯	199.8	2	以極反a[tzhiək]側。（职部）	以 極 反 側	側	a	tzhiək	职部		6	0 0 0 1004	以 + 極 + 反 + tzhiək
+#
 4019	200	巷伯	200.1	1	萋兮斐兮	萋 兮 斐 兮						1	0 0 0 0	萋 + 兮 + 斐 + 兮
 4020	200	巷伯	200.1	2	成是貝a[kiəm]錦。	成 是 貝 錦	錦	a	kiəm			2	0 0 0 1005	成 + 是 + 貝 + kiəm
 4021	200	巷伯	200.1	1	彼譖人者	彼 譖 人 者						3	0 0 0 0	彼 + 譖 + 人 + 者
@@ -3978,6 +4180,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4052	200	巷伯	200.7	2	作為此a[sjiə]詩。	作 為 此 詩	詩	a	sjiə			4	0 0 0 1014	作 + 為 + 此 + sjiə
 4053	200	巷伯	200.7	1	凡百君子	凡 百 君 子						5	0 0 0 0	凡 + 百 + 君 + 子
 4054	200	巷伯	200.7	2	敬而聽a[tjiə]之。（之部）	敬 而 聽 之	之	a	tjiə	之部		6	0 0 0 1014	敬 + 而 + 聽 + tjiə
+#
 4055	201	谷風	201.1	1	習習谷風	習 習 谷 風						1	0 0 0 0	習 + 習 + 谷 + 風
 4056	201	谷風	201.1	2	維風及a[hiua]雨。	維 風 及 雨	雨	a	hiua			2	0 0 0 1015	維 + 風 + 及 + hiua
 4057	201	谷風	201.1	1	將恐將懼	將 恐 將 懼						3	0 0 0 0	將 + 恐 + 將 + 懼
@@ -3996,6 +4199,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4070	201	谷風	201.3	2	無木不a[iuəi]萎。	無 木 不 萎	萎	a	iuəi			4	0 0 0 1017	無 + 木 + 不 + iuəi
 4071	201	谷風	201.3	1	忘我大德	忘 我 大 德						5	0 0 0 0	忘 + 我 + 大 + 德
 4072	201	谷風	201.3	2	思我小a[iuan]怨。18 （微元合韵）	思 我 小 怨	怨	a	iuan	微元合韵		6	0 0 0 1017	思 + 我 + 小 + iuan
+#
 4073	202	蓼莪	202.1	1	蓼蓼者莪	蓼 蓼 者 莪						1	0 0 0 0	蓼 + 蓼 + 者 + 莪
 4074	202	蓼莪	202.1	2	匪莪伊a[xô]蒿。	匪 莪 伊 蒿	蒿	a	xô			2	0 0 0 1018	匪 + 莪 + 伊 + xô
 4075	202	蓼莪	202.1	1	哀哀父母	哀 哀 父 母						3	0 0 0 0	哀 + 哀 + 父 + 母
@@ -4028,6 +4232,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4102	202	蓼莪	202.6	2	飄風弗a[piuət]弗。	飄 風 弗 弗	弗	a	piuət			2	0 0 0 1025	飄 + 風 + 弗 + piuət
 4103	202	蓼莪	202.6	1	民莫不穀	民 莫 不 穀						3	0 0 0 0	民 + 莫 + 不 + 穀
 4104	202	蓼莪	202.6	2	我獨不a[tziuət]卒。（物部）	我 獨 不 卒	卒	a	tziuət	物部		4	0 0 0 1025	我 + 獨 + 不 + tziuət
+#
 4105	203	大東	203.1	1	有饛簋飧	有 饛 簋 飧						1	0 0 0 0	有 + 饛 + 簋 + 飧
 4106	203	大東	203.1	2	有捄棘a[piei]匕。	有 捄 棘 匕	匕	a	piei			2	0 0 0 1026	有 + 捄 + 棘 + piei
 4107	203	大東	203.1	1	周道如a[tjiei]砥	周 道 如 砥	砥	a	tjiei			3	0 0 0 1026	周 + 道 + 如 + tjiei
@@ -4081,6 +4286,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4156	203	大東	203.7	2	不可以挹酒a[tziang]漿。（阳部）	不 可 以 挹 酒 漿	漿	a	tziang	阳部		4	0 0 0 0 0 1037	不 + 可 + 以 + 挹 + 酒 + tziang
 4158	203	大東	203.7	2	載翕其b[djiat]舌。	載 翕 其 舌	舌	b	djiat			6	0 0 0 1038	載 + 翕 + 其 + djiat
 4160	203	大東	203.7	2	西柄之b[kiat]揭。（月部）	西 柄 之 揭	揭	b	kiat	月部		8	0 0 0 1038	西 + 柄 + 之 + kiat
+#
 4161	204	四月	204.1	1	四月維a[hea]夏	四 月 維 夏	夏	a	hea			1	0 0 0 1039	四 + 月 + 維 + hea
 4162	204	四月	204.1	2	六月徂a[sjia]暑。	六 月 徂 暑	暑	a	sjia			2	0 0 0 1039	六 + 月 + 徂 + sjia
 4163	204	四月	204.1	1	先祖匪人	先 祖 匪 人						3	0 0 0 0	先 + 祖 + 匪 + 人
@@ -4114,6 +4320,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4191	204	四月	204.8	1	君子作歌	君 子 作 歌						3	0 0 0 0	君 + 子 + 作 + 歌
 4192	204	四月	204.8	2	維以告a[əi]哀。（微脂合韵）	維 以 告 哀	哀	a	əi	微脂合韵		4	0 0 0 1046	維 + 以 + 告 + əi
 4193	204	四月	204.11	1	北山之什	北 山 之 什						1	0 0 0 0	北 + 山 + 之 + 什
+#
 4194	205	北山	205.1	1	涉彼北山	涉 彼 北 山						1	0 0 0 0	涉 + 彼 + 北 + 山
 4195	205	北山	205.1	2	言采其a[khiə]杞。	言 采 其 杞	杞	a	khiə			2	0 0 0 1047	言 + 采 + 其 + khiə
 4196	205	北山	205.1	1	偕偕士a[tziə]子	偕 偕 士 子	子	a	tziə			3	0 0 0 1047	偕 + 偕 + 士 + tziə
@@ -4144,6 +4351,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4221	205	北山	205.6	2	或慘慘畏a[giu]咎。（幽部）	或 慘 慘 畏 咎	咎	a	giu	幽部		2	0 0 0 0 1055	或 + 慘 + 慘 + 畏 + giu
 4222	205	北山	205.6	1	或出入風b[ngiai]議	或 出 入 風 議	議	b	ngiai			3	0 0 0 0 1056	或 + 出 + 入 + 風 + ngiai
 4223	205	北山	205.6	2	或靡事不b[hiuai]為。（歌部）	或 靡 事 不 為	為	b	hiuai	歌部		4	0 0 0 0 1056	或 + 靡 + 事 + 不 + hiuai
+#
 4224	206	無將大車	206.1	1	無將大車	無 將 大 車						1	0 0 0 0	無 + 將 + 大 + 車
 4225	206	無將大車	206.1	2	祇自a[dien]塵兮。	祇 自 塵 兮	塵	a	dien			2	0 0 1057 0	祇 + 自 + dien + 兮
 4226	206	無將大車	206.1	1	無思百憂	無 思 百 憂						3	0 0 0 0	無 + 思 + 百 + 憂
@@ -4156,6 +4364,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4233	206	無將大車	206.3	2	維塵a[iong]雝兮。	維 塵 雝 兮	雝	a	iong			2	0 0 1059 0	維 + 塵 + iong + 兮
 4234	206	無將大車	206.3	1	無思百憂	無 思 百 憂						3	0 0 0 0	無 + 思 + 百 + 憂
 4235	206	無將大車	206.3	2	祇自a[diong]重兮。（东部）	祇 自 重 兮	重	a	diong	东部		4	0 0 1059 0	祇 + 自 + diong + 兮
+#
 4236	207	小明	207.1	1	明明上天	明 明 上 天						1	0 0 0 0	明 + 明 + 上 + 天
 4237	207	小明	207.1	2	照臨下a[tha]土。	照 臨 下 土	土	a	tha			2	0 0 0 1060	照 + 臨 + 下 + tha
 4238	207	小明	207.1	1	我征徂西	我 征 徂 西						3	0 0 0 0	我 + 征 + 徂 + 西
@@ -4204,6 +4413,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4281	207	小明	207.5	2	好是正a[diək]直。	好 是 正 直	直	a	diək			4	0 0 0 1064	好 + 是 + 正 + diək
 4282	207	小明	207.5	1	神之聽之	神 之 聽 之						5	0 0 0 0	神 + 之 + 聽 + 之
 4283	207	小明	207.5	2	介爾景a[piuək]福。（职部）	介 爾 景 福	福	a	piuək	职部		6	0 0 0 1064	介 + 爾 + 景 + piuək
+#
 4284	208	鼓鍾	208.1	1	鼓鍾將a[tsiang]將	鼓 鍾 將 將	將	a	tsiang			1	0 0 0 1065	鼓 + 鍾 + 將 + tsiang
 4285	208	鼓鍾	208.1	2	淮水湯a[sjiang]湯。	淮 水 湯 湯	湯	a	sjiang			2	0 0 0 1065	淮 + 水 + 湯 + sjiang
 4286	208	鼓鍾	208.1	1	憂心且a[sjiang]傷。	憂 心 且 傷	傷	a	sjiang			3	0 0 0 1065	憂 + 心 + 且 + sjiang
@@ -4224,6 +4434,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4301	208	鼓鍾	208.4	1	笙磬同a[iəm]音。	笙 磬 同 音	音	a	iəm			3	0 0 0 1069	笙 + 磬 + 同 + iəm
 4302	208	鼓鍾	208.4	1	以雅以a[nəm]南	以 雅 以 南	南	a	nəm			4	0 0 0 1069	以 + 雅 + 以 + nəm
 4303	208	鼓鍾	208.4	2	以籥不a[tzyəm]僭。（侵部）	以 籥 不 僭	僭	a	tzyəm	侵部		5	0 0 0 1069	以 + 籥 + 不 + tzyəm
+#
 4304	209	楚茨	209.1	1	楚楚者茨	楚 楚 者 茨						1	0 0 0 0	楚 + 楚 + 者 + 茨
 4305	209	楚茨	209.1	2	言抽其a[kiək]棘。	言 抽 其 棘	棘	a	kiək			2	0 0 0 1070	言 + 抽 + 其 + kiək
 4306	209	楚茨	209.1	1	自昔何為	自 昔 何 為						3	0 0 0 0	自 + 昔 + 何 + 為
@@ -4296,6 +4507,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4373	209	楚茨	209.6	2	維其d[dzien]盡之。	維 其 盡 之	盡	d	dzien			10	0 0 1082 0	維 + 其 + dzien + 之
 4374	209	楚茨	209.6	1	子子孫孫	子 子 孫 孫						11	0 0 0 0	子 + 子 + 孫 + 孫
 4375	209	楚茨	209.6	2	勿替d[jien]引之。（真部）	勿 替 引 之	引	d	jien	真部		12	0 0 1082 0	勿 + 替 + jien + 之
+#
 4376	210	信南山	210.1	1	信彼南山	信 彼 南 山						1	0 0 0 0	信 + 彼 + 南 + 山
 4377	210	信南山	210.1	2	維禹a[dyen]甸之。	維 禹 甸 之	甸	a	dyen			2	0 0 1083 0	維 + 禹 + dyen + 之
 4378	210	信南山	210.1	1	畇畇原隰	畇 畇 原 隰						3	0 0 0 0	畇 + 畇 + 原 + 隰
@@ -4332,6 +4544,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4409	210	信南山	210.6	1	先祖是a[huang]皇。	先 祖 是 皇	皇	a	huang			4	0 0 0 1092	先 + 祖 + 是 + huang
 4410	210	信南山	210.6	1	報以介福	報 以 介 福						5	0 0 0 0	報 + 以 + 介 + 福
 4411	210	信南山	210.6	2	萬壽無a[kiang]疆。（阳部）	萬 壽 無 疆	疆	a	kiang	阳部		6	0 0 0 1092	萬 + 壽 + 無 + kiang
+#
 4412	211	甫田	211.1	1	倬彼甫a[dyen]田	倬 彼 甫 田	田	a	dyen			1	0 0 0 1093	倬 + 彼 + 甫 + dyen
 4413	211	甫田	211.1	2	歲取十a[tsyen]千。	歲 取 十 千	千	a	tsyen			2	0 0 0 1093	歲 + 取 + 十 + tsyen
 4414	211	甫田	211.1	1	我取其a[dien]陳	我 取 其 陳	陳	a	dien			3	0 0 0 1093	我 + 取 + 其 + dien
@@ -4372,6 +4585,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4449	211	甫田	211.4	2	農夫之a[khyang]慶。	農 夫 之 慶	慶	a	khyang			8	0 0 0 1098	農 + 夫 + 之 + khyang
 4450	211	甫田	211.4	1	報以介福	報 以 介 福						9	0 0 0 0	報 + 以 + 介 + 福
 4451	211	甫田	211.4	2	萬壽無a[kiang]疆。（阳部）	萬 壽 無 疆	疆	a	kiang	阳部		10	0 0 0 1098	萬 + 壽 + 無 + kiang
+#
 4452	212	大田	212.1	1	大田多稼	大 田 多 稼						1	0 0 0 0	大 + 田 + 多 + 稼
 4453	212	大田	212.1	2	既種既a[kək]戒。	既 種 既 戒	戒	a	kək			2	0 0 0 1099	既 + 種 + 既 + kək
 4454	212	大田	212.1	1	既備乃a[dzhiə]事	既 備 乃 事	事	a	dzhiə			3	0 0 0 1099	既 + 備 + 乃 + dzhiə
@@ -4406,6 +4620,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4483	212	大田	212.4	1	與其黍b[tziək]稷	與 其 黍 稷	稷	b	tziək			7	0 0 0 1108	與 + 其 + 黍 + tziək
 4484	212	大田	212.4	2	以享以祀。	以 享 以 祀						8	0 0 0 0	以 + 享 + 以 + 祀
 4485	212	大田	212.4	1	以介景b[piuək]福。（职部）	以 介 景 福	福	b	piuək	职部		9	0 0 0 1108	以 + 介 + 景 + piuək
+#
 4486	213	瞻彼洛矣	213.1	1	瞻彼洛a[jiə]矣	瞻 彼 洛 矣	矣	a	jiə			1	0 0 0 1109	瞻 + 彼 + 洛 + jiə
 4487	213	瞻彼洛矣	213.1	2	維水泱B[iang]泱。	維 水 泱 泱	泱	B	iang			2	0 0 0 1110	維 + 水 + 泱 + iang
 4488	213	瞻彼洛矣	213.1	1	君子至a[tjiə]止	君 子 至 止	止	a	tjiə			3	0 0 0 1109	君 + 子 + 至 + tjiə
@@ -4424,6 +4639,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4501	213	瞻彼洛矣	213.3	2	福祿既c[dong]同。（之部）	福 祿 既 同	同	c	dong	之部		4	0 0 0 1117	福 + 祿 + 既 + dong
 4502	213	瞻彼洛矣	213.3	1	君子萬年	君 子 萬 年						5	0 0 0 0	君 + 子 + 萬 + 年
 4503	213	瞻彼洛矣	213.3	2	保其家c[peong]邦。（东部）	保 其 家 邦	邦	c	peong	东部		6	0 0 0 1117	保 + 其 + 家 + peong
+#
 4504	214	裳裳者華	214.1	1	裳裳者華	裳 裳 者 華						1	0 0 0 0	裳 + 裳 + 者 + 華
 4505	214	裳裳者華	214.1	2	其葉a[sia]湑兮。	其 葉 湑 兮	湑	a	sia			2	0 0 1118 0	其 + 葉 + sia + 兮
 4506	214	裳裳者華	214.1	1	我覯之子	我 覯 之 子						3	0 0 0 0	我 + 覯 + 之 + 子
@@ -4446,6 +4662,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4526	214	裳裳者華	214.4	1	維其b[hiuə]有之	維 其 有 之	有	b	hiuə			5	0 0 1122 0	維 + 其 + hiuə + 之
 4527	214	裳裳者華	214.4	2	是以b[ziə]似之。（之部）	是 以 似 之	似	b	ziə	之部		6	0 0 1122 0	是 + 以 + ziə + 之
 4528	214	裳裳者華	214.7	1	桑扈之什	桑 扈 之 什						1	0 0 0 0	桑 + 扈 + 之 + 什
+#
 4529	215	桑扈	215.1	1	交交桑a[ha]扈	交 交 桑 扈	扈	a	ha			1	0 0 0 1123	交 + 交 + 桑 + ha
 4530	215	桑扈	215.1	2	有鶯其a[hiua]羽。	有 鶯 其 羽	羽	a	hiua			2	0 0 0 1123	有 + 鶯 + 其 + hiua
 4531	215	桑扈	215.1	1	君子樂a[sia]胥	君 子 樂 胥	胥	a	sia			3	0 0 0 1123	君 + 子 + 樂 + sia
@@ -4462,6 +4679,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4542	215	桑扈	215.4	2	旨酒思a[njiu]柔。	旨 酒 思 柔	柔	a	njiu			2	0 0 0 1127	旨 + 酒 + 思 + njiu
 4543	215	桑扈	215.4	1	彼交匪a[ngô]敖	彼 交 匪 敖	敖	a	ngô			3	0 0 0 1127	彼 + 交 + 匪 + ngô
 4544	215	桑扈	215.4	2	萬福來a[giu]求。（幽宵合韵）	萬 福 來 求	求	a	giu	幽宵合韵		4	0 0 0 1127	萬 + 福 + 來 + giu
+#
 4545	216	鴛鴦	216.1	1	鴛鴦于飛	鴛 鴦 于 飛						1	0 0 0 0	鴛 + 鴦 + 于 + 飛
 4546	216	鴛鴦	216.1	2	畢之a[lai]羅之。	畢 之 羅 之	羅	a	lai			2	0 0 1128 0	畢 + 之 + lai + 之
 4547	216	鴛鴦	216.1	1	君子萬年	君 子 萬 年						3	0 0 0 0	君 + 子 + 萬 + 年
@@ -4478,6 +4696,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4558	216	鴛鴦	216.4	2	秣之a[dzuəi]摧之。	秣 之 摧 之	摧	a	dzuəi			2	0 0 1131 0	秣 + 之 + dzuəi + 之
 4559	216	鴛鴦	216.4	1	君子萬年	君 子 萬 年						3	0 0 0 0	君 + 子 + 萬 + 年
 4560	216	鴛鴦	216.4	2	福祿a[siuəi]綏之。（微部）	福 祿 綏 之	綏	a	siuəi	微部		4	0 0 1131 0	福 + 祿 + siuəi + 之
+#
 4561	217	頍弁	217.1	1	有頍者弁	有 頍 者 弁						1	0 0 0 0	有 + 頍 + 者 + 弁
 4562	217	頍弁	217.1	2	實維伊a[hai]何。	實 維 伊 何	何	a	hai			2	0 0 0 1132	實 + 維 + 伊 + hai
 4563	217	頍弁	217.1	1	爾酒既旨	爾 酒 既 旨						3	0 0 0 0	爾 + 酒 + 既 + 旨
@@ -4514,6 +4733,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4594	217	頍弁	217.3	2	無幾相b[kyan]見。	無 幾 相 見	見	b	kyan			10	0 0 0 1137	無 + 幾 + 相 + kyan
 4595	217	頍弁	217.3	1	樂酒今夕	樂 酒 今 夕						11	0 0 0 0	樂 + 酒 + 今 + 夕
 4596	217	頍弁	217.3	2	君子維b[yan]宴。（元部）	君 子 維 宴	宴	b	yan	元部		12	0 0 0 1137	君 + 子 + 維 + yan
+#
 4597	218	車舝	218.1	1	間關車之a[heat]舝兮	間 關 車 之 舝 兮	舝	a	heat			1	0 0 0 0 1138 0	間 + 關 + 車 + 之 + heat + 兮
 4598	218	車舝	218.1	2	思孌季女a[zjiat]逝兮。	思 孌 季 女 逝 兮	逝	a	zjiat			2	0 0 0 0 1138 0	思 + 孌 + 季 + 女 + zjiat + 兮
 4599	218	車舝	218.1	1	匪飢匪a[khat]渴	匪 飢 匪 渴	渴	a	khat			3	0 0 0 1138	匪 + 飢 + 匪 + khat
@@ -4543,6 +4763,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4624	218	車舝	218.5	2	六轡如b[giəm]琴。	六 轡 如 琴	琴	b	giəm			4	0 0 0 1147	六 + 轡 + 如 + giəm
 4625	218	車舝	218.5	1	覯爾新昏	覯 爾 新 昏						5	0 0 0 0	覯 + 爾 + 新 + 昏
 4626	218	車舝	218.5	2	以慰我b[siəm]心。（侵部）	以 慰 我 心	心	b	siəm	侵部		6	0 0 0 1147	以 + 慰 + 我 + siəm
+#
 4627	219	青蠅	219.1	1	營營青蠅	營 營 青 蠅						1	0 0 0 0	營 + 營 + 青 + 蠅
 4628	219	青蠅	219.1	2	止于a[biuan]樊。	止 于 樊	樊	a	biuan			2	0 0 1148	止 + 于 + biuan
 4629	219	青蠅	219.1	1	豈弟君子	豈 弟 君 子						3	0 0 0 0	豈 + 弟 + 君 + 子
@@ -4555,6 +4776,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4636	219	青蠅	219.3	2	止于a[tzhen]榛。	止 于 榛	榛	a	tzhen			2	0 0 1150	止 + 于 + tzhen
 4637	219	青蠅	219.3	1	讒人罔極	讒 人 罔 極						3	0 0 0 0	讒 + 人 + 罔 + 極
 4638	219	青蠅	219.3	2	構我二a[njien]人。（真部）	構 我 二 人	人	a	njien	真部		4	0 0 0 1150	構 + 我 + 二 + njien
+#
 4639	220	賓之初筵	220.1	1	賓之初筵	賓 之 初 筵						1	0 0 0 0	賓 + 之 + 初 + 筵
 4640	220	賓之初筵	220.1	2	左右秩秩。	左 右 秩 秩						2	0 0 0 0	左 + 右 + 秩 + 秩
 4641	220	賓之初筵	220.1	1	籩豆有a[tshia]楚	籩 豆 有 楚	楚	a	tshia			3	0 0 0 1151	籩 + 豆 + 有 + tshia
@@ -4624,6 +4846,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4711	220	賓之初筵	220.5	2	俾出童b[ka]羖。（鱼部）	俾 出 童 羖	羖	b	ka	鱼部		12	0 0 0 1169	俾 + 出 + 童 + ka
 4712	220	賓之初筵	220.5	1	三爵不c[sjiək]識	三 爵 不 識	識	c	sjiək			13	0 0 0 1170	三 + 爵 + 不 + sjiək
 4713	220	賓之初筵	220.5	2	矧敢多c[hiuə]又。（职之通韵）	矧 敢 多 又	又	c	hiuə	职之通韵		14	0 0 0 1170	矧 + 敢 + 多 + hiuə
+#
 4714	221	魚藻	221.1	1	魚在在a[tzô]藻	魚 在 在 藻	藻	a	tzô			1	0 0 0 1171	魚 + 在 + 在 + tzô
 4715	221	魚藻	221.1	2	有頒其b[sjiu]首。（a= 宵部）	有 頒 其 首	首	b	sjiu	a=宵部		2	0 0 0 1172	有 + 頒 + 其 + sjiu
 4716	221	魚藻	221.1	1	王在在a[hô]鎬	王 在 在 鎬	鎬	a	hô			3	0 0 0 1171	王 + 在 + 在 + hô
@@ -4636,6 +4859,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4723	221	魚藻	221.3	2	依于其b[bua]蒲。（a= 宵部）	依 于 其 蒲	蒲	b	bua	a=宵部		2	0 0 0 1176	依 + 于 + 其 + bua
 4724	221	魚藻	221.3	1	王在在a[hô]鎬	王 在 在 鎬	鎬	a	hô			3	0 0 0 1175	王 + 在 + 在 + hô
 4725	221	魚藻	221.3	2	有那其b[kia]居。（b= 鱼部）	有 那 其 居	居	b	kia	b=鱼部		4	0 0 0 1176	有 + 那 + 其 + kia
+#
 4726	222	采菽	222.1	1	采菽采菽	采 菽 采 菽						1	0 0 0 0	采 + 菽 + 采 + 菽
 4727	222	采菽	222.1	2	筐之a[kia]筥之。	筐 之 筥 之	筥	a	kia			2	0 0 1177 0	筐 + 之 + kia + 之
 4728	222	采菽	222.1	1	君子來朝	君 子 來 朝						3	0 0 0 0	君 + 子 + 來 + 朝
@@ -4673,6 +4897,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4763	222	采菽	222.5	2	福祿a[biei]膍之。	福 祿 膍 之	膍	a	biei			6	0 0 1183 0	福 + 祿 + biei + 之
 4764	222	采菽	222.5	1	優哉游哉	優 哉 游 哉						7	0 0 0 0	優 + 哉 + 游 + 哉
 4765	222	采菽	222.5	2	亦是a[lyet]戾矣。（微脂质合韵）	亦 是 戾 矣	戾	a	lyet	微脂质合韵		8	0 0 1183 0	亦 + 是 + lyet + 矣
+#
 4766	223	角弓	223.1	1	騂騂角弓	騂 騂 角 弓						1	0 0 0 0	騂 + 騂 + 角 + 弓
 4767	223	角弓	223.1	2	翩其a[piuan]反矣。	翩 其 反 矣	反	a	piuan			2	0 0 1184 0	翩 + 其 + piuan + 矣
 4768	223	角弓	223.1	1	兄弟昏姻	兄 弟 昏 姻						3	0 0 0 0	兄 + 弟 + 昏 + 姻
@@ -4705,6 +4930,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4795	223	角弓	223.8	2	見晛曰a[liu]流。	見 晛 曰 流	流	a	liu			2	0 0 0 1192	見 + 晛 + 曰 + liu
 4796	223	角弓	223.8	1	如蠻如髦	如 蠻 如 髦						3	0 0 0 0	如 + 蠻 + 如 + 髦
 4797	223	角弓	223.8	2	我是用a[iu]憂。（幽部）	我 是 用 憂	憂	a	iu	幽部		4	0 0 0 1192	我 + 是 + 用 + iu
+#
 4798	224	菀柳	224.1	1	有菀者a[liu]柳	有 菀 者 柳	柳	a	liu			1	0 0 0 1193	有 + 菀 + 者 + liu
 4799	224	菀柳	224.1	2	不尚b[siək]息焉。（a= 幽部）	不 尚 息 焉	息	b	siək	a=幽部		2	0 0 1194 0	不 + 尚 + siək + 焉
 4800	224	菀柳	224.1	1	上帝甚a[du]蹈	上 帝 甚 蹈	蹈	a	du			3	0 0 0 1193	上 + 帝 + 甚 + du
@@ -4724,6 +4950,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4814	224	菀柳	224.3	1	曷予靖之	曷 予 靖 之						5	0 0 0 0	曷 + 予 + 靖 + 之
 4815	224	菀柳	224.3	2	居以凶a[kien]矜。（真部）	居 以 凶 矜	矜	a	kien	真部		6	0 0 0 1197	居 + 以 + 凶 + kien
 4816	224	菀柳	224.6	1	都人士之什	都 人 士 之 什						1	0 0 0 0 0	都 + 人 + 士 + 之 + 什
+#
 4817	225	都人士	225.1	1	彼都人士	彼 都 人 士						1	0 0 0 0	彼 + 都 + 人 + 士
 4818	225	都人士	225.1	2	狐裘黃a[huang]黃。	狐 裘 黃 黃	黃	a	huang			2	0 0 0 1198	狐 + 裘 + 黃 + huang
 4819	225	都人士	225.1	1	其容不改	其 容 不 改						3	0 0 0 0	其 + 容 + 不 + 改
@@ -4754,6 +4981,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4844	225	都人士	225.5	2	髮則有a[jia]旟。	髮 則 有 旟	旟	a	jia			4	0 0 0 1202	髮 + 則 + 有 + jia
 4845	225	都人士	225.5	1	我不見兮	我 不 見 兮						5	0 0 0 0	我 + 不 + 見 + 兮
 4846	225	都人士	225.5	2	云何a[xiua]盱矣。（鱼部）	云 何 盱 矣	盱	a	xiua	鱼部		6	0 0 1202 0	云 + 何 + xiua + 矣
+#
 4847	226	采綠	226.1	1	終朝采a[liok]綠	終 朝 采 綠	綠	a	liok			1	0 0 0 1203	終 + 朝 + 采 + liok
 4848	226	采綠	226.1	2	不盈一a[kiuk]匊。	不 盈 一 匊	匊	a	kiuk			2	0 0 0 1203	不 + 盈 + 一 + kiuk
 4849	226	采綠	226.1	1	予髮曲a[giok]局	予 髮 曲 局	局	a	giok			3	0 0 0 1203	予 + 髮 + 曲 + giok
@@ -4769,6 +4997,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4859	226	采綠	226.4	1	其釣維何	其 釣 維 何						1	0 0 0 0	其 + 釣 + 維 + 何
 4860	226	采綠	226.4	2	維魴及a[zia]鱮。	維 魴 及 鱮	鱮	a	zia			2	0 0 0 1206	維 + 魴 + 及 + zia
 4862	226	采綠	226.4	2	薄言觀a[tjya]者。（鱼部）	薄 言 觀 者	者	a	tjya	鱼部		4	0 0 0 1206	薄 + 言 + 觀 + tjya
+#
 4863	227	黍苗	227.1	1	芃芃黍a[miô]苗	芃 芃 黍 苗	苗	a	miô			1	0 0 0 1207	芃 + 芃 + 黍 + miô
 4864	227	黍苗	227.1	2	陰雨a[kô]膏之。	陰 雨 膏 之	膏	a	kô			2	0 0 1207 0	陰 + 雨 + kô + 之
 4865	227	黍苗	227.1	1	悠悠南行	悠 悠 南 行						3	0 0 0 0	悠 + 悠 + 南 + 行
@@ -4789,6 +5018,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4880	227	黍苗	227.5	2	泉流既a[tsieng]清。	泉 流 既 清	清	a	tsieng			2	0 0 0 1211	泉 + 流 + 既 + tsieng
 4881	227	黍苗	227.5	1	召伯有a[zjieng]成	召 伯 有 成	成	a	zjieng			3	0 0 0 1211	召 + 伯 + 有 + zjieng
 4882	227	黍苗	227.5	2	王心則a[nyeng]寧。（耕部）	王 心 則 寧	寧	a	nyeng	耕部		4	0 0 0 1211	王 + 心 + 則 + nyeng
+#
 4883	228	隰桑	228.1	1	隰桑有a[ai]阿	隰 桑 有 阿	阿	a	ai			1	0 0 0 1212	隰 + 桑 + 有 + ai
 4884	228	隰桑	228.1	2	其葉有a[nai]難。	其 葉 有 難	難	a	nai			2	0 0 0 1212	其 + 葉 + 有 + nai
 4885	228	隰桑	228.1	1	既見君子	既 見 君 子						3	0 0 0 0	既 + 見 + 君 + 子
@@ -4805,6 +5035,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4896	228	隰桑	228.4	2	遐不a[hiuət]謂矣。（物部）	遐 不 謂 矣	謂	a	hiuət	物部		2	0 0 1215 0	遐 + 不 + hiuət + 矣
 4897	228	隰桑	228.4	1	中心b[dzang]藏之	中 心 藏 之	藏	b	dzang			3	0 0 1216 0	中 + 心 + dzang + 之
 4898	228	隰桑	228.4	2	何日b[miuang]忘之。（阳部）	何 日 忘 之	忘	b	miuang	阳部		4	0 0 1216 0	何 + 日 + miuang + 之
+#
 4899	229	白華	229.1	1	白華a[kean]菅兮	白 華 菅 兮	菅	a	kean			1	0 0 1217 0	白 + 華 + kean + 兮
 4900	229	白華	229.1	2	白茅b[sjiok]束兮。（a= 元部）	白 茅 束 兮	束	b	sjiok	a=元部		2	0 0 1218 0	白 + 茅 + sjiok + 兮
 4901	229	白華	229.1	1	之子之a[hiuan]遠	之 子 之 遠	遠	a	hiuan			3	0 0 0 1217	之 + 子 + 之 + hiuan
@@ -4837,6 +5068,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4928	229	白華	229.8	2	履之a[pie]卑兮。	履 之 卑 兮	卑	a	pie			2	0 0 1227 0	履 + 之 + pie + 兮
 4929	229	白華	229.8	1	之子之遠	之 子 之 遠						3	0 0 0 0	之 + 子 + 之 + 遠
 4930	229	白華	229.8	2	俾我a[gie]疧兮。（支部）	俾 我 疧 兮	疧	a	gie	支部		4	0 0 1227 0	俾 + 我 + gie + 兮
+#
 4931	230	綿蠻	230.1	1	綿蠻黃鳥	綿 蠻 黃 鳥						1	0 0 0 0	綿 + 蠻 + 黃 + 鳥
 4932	230	綿蠻	230.1	2	止于丘a[ai]阿。	止 于 丘 阿	阿	a	ai			2	0 0 0 1228	止 + 于 + 丘 + ai
 4933	230	綿蠻	230.1	1	道之云遠	道 之 云 遠						3	0 0 0 0	道 + 之 + 云 + 遠
@@ -4861,6 +5093,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4952	230	綿蠻	230.3	2	教之b[xuə]誨之	教 之 誨 之	誨	b	xuə			6	0 0 1233 0	教 + 之 + xuə + 之
 4953	230	綿蠻	230.3	3	命彼後車	命 彼 後 車						7	0 0 0 0	命 + 彼 + 後 + 車
 4954	230	綿蠻	230.3	4	謂之b[tzə]載之。（职之通韵）	謂 之 載 之	載	b	tzə	职之通韵		8	0 0 1233 0	謂 + 之 + tzə + 之
+#
 4955	231	瓠葉	231.1	1	幡幡瓠葉	幡 幡 瓠 葉						1	0 0 0 0	幡 + 幡 + 瓠 + 葉
 4956	231	瓠葉	231.1	2	采之a[pheang]亨之。	采 之 亨 之	亨	a	pheang			2	0 0 1234 0	采 + 之 + pheang + 之
 4957	231	瓠葉	231.1	1	君子有酒	君 子 有 酒						3	0 0 0 0	君 + 子 + 有 + 酒
@@ -4877,6 +5110,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4968	231	瓠葉	231.4	2	燔之a[beu]炮之。	燔 之 炮 之	炮	a	beu			2	0 0 1239 0	燔 + 之 + beu + 之
 4969	231	瓠葉	231.4	1	君子有a[tziu]酒	君 子 有 酒	酒	a	tziu			3	0 0 0 1239	君 + 子 + 有 + tziu
 4970	231	瓠葉	231.4	2	酌言a[zjiu]酬之。（幽部）	酌 言 酬 之	酬	a	zjiu	幽部		4	0 0 1239 0	酌 + 言 + zjiu + 之
+#
 4971	232	漸漸之石	232.1	1	漸漸之石	漸 漸 之 石						1	0 0 0 0	漸 + 漸 + 之 + 石
 4972	232	漸漸之石	232.1	2	維其a[kô]高矣。	維 其 高 矣	高	a	kô			2	0 0 1240 0	維 + 其 + kô + 矣
 4973	232	漸漸之石	232.1	1	山川悠遠	山 川 悠 遠						3	0 0 0 0	山 + 川 + 悠 + 遠
@@ -4895,6 +5129,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4986	232	漸漸之石	232.3	2	俾滂a[dai]沱矣。	俾 滂 沱 矣	沱	a	dai			4	0 0 1242 0	俾 + 滂 + dai + 矣
 4987	232	漸漸之石	232.3	1	武人東征	武 人 東 征						5	0 0 0 0	武 + 人 + 東 + 征
 4988	232	漸漸之石	232.3	2	不遑a[thai]他矣。（歌部）	不 遑 他 矣	他	a	thai	歌部		6	0 0 1242 0	不 + 遑 + thai + 矣
+#
 4989	233	苕之華	233.1	1	苕之華	苕 之 華						1	0 0 0	苕 + 之 + 華
 4990	233	苕之華	233.1	2	芸其a[huang]黃矣。	芸 其 黃 矣	黃	a	huang			2	0 0 1243 0	芸 + 其 + huang + 矣
 4991	233	苕之華	233.1	1	心之憂矣	心 之 憂 矣						3	0 0 0 0	心 + 之 + 憂 + 矣
@@ -4907,6 +5142,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 4998	233	苕之華	233.3	2	三星在a[liu]罶。	三 星 在 罶	罶	a	liu			2	0 0 0 1245	三 + 星 + 在 + liu
 4999	233	苕之華	233.3	1	人可以食	人 可 以 食						3	0 0 0 0	人 + 可 + 以 + 食
 5000	233	苕之華	233.3	2	鮮可以a[peu]飽。（幽部）	鮮 可 以 飽	飽	a	peu	幽部		4	0 0 0 1245	鮮 + 可 + 以 + peu
+#
 5001	234	何草不黃	234.1	1	何草不a[huang]黃	何 草 不 黃	黃	a	huang			1	0 0 0 1246	何 + 草 + 不 + huang
 5002	234	何草不黃	234.1	2	何日不a[heang]行。	何 日 不 行	行	a	heang			2	0 0 0 1246	何 + 日 + 不 + heang
 5003	234	何草不黃	234.1	1	何人不a[tziang]將	何 人 不 將	將	a	tziang			3	0 0 0 1246	何 + 人 + 不 + tziang
@@ -4926,6 +5162,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5017	234	何草不黃	234.8	1	大雅	大 雅						1	0 0	大 + 雅
 5018	234	何草不黃	234.9	1	說見小雅	說 見 小 雅						1	0 0 0 0	說 + 見 + 小 + 雅
 5019	234	何草不黃	234.9	1	文王之什	文 王 之 什						2	0 0 0 0	文 + 王 + 之 + 什
+#
 5020	235	文王	235.1	1	文王在上	文 王 在 上						1	0 0 0 0	文 + 王 + 在 + 上
 5021	235	文王	235.1	2	於昭于a[thyen]天。	於 昭 于 天	天	a	thyen			2	0 0 0 1251	於 + 昭 + 于 + thyen
 5022	235	文王	235.1	1	周雖舊邦	周 雖 舊 邦						3	0 0 0 0	周 + 雖 + 舊 + 邦
@@ -4982,6 +5219,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5073	235	文王	235.7	2	無聲無b[thjiu]臭。	無 聲 無 臭	臭	b	thjiu			6	0 0 0 1264	無 + 聲 + 無 + thjiu
 5074	235	文王	235.7	1	儀刑文王	儀 刑 文 王						7	0 0 0 0	儀 + 刑 + 文 + 王
 5075	235	文王	235.7	2	萬邦作b[phiu]孚。（幽部）	萬 邦 作 孚	孚	b	phiu	幽部		8	0 0 0 1264	萬 + 邦 + 作 + phiu
+#
 5076	236	大明	236.1	1	明明在下	明 明 在 下						1	0 0 0 0	明 + 明 + 在 + 下
 5077	236	大明	236.1	2	赫赫在a[zjiang]上。	赫 赫 在 上	上	a	zjiang			2	0 0 0 1265	赫 + 赫 + 在 + zjiang
 5078	236	大明	236.1	1	天難忱斯	天 難 忱 斯						3	0 0 0 0	天 + 難 + 忱 + 斯
@@ -5038,6 +5276,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5129	236	大明	236.8	3	涼彼武a[hiuang]王	涼 彼 武 王	王	a	hiuang			6	0 0 0 1276	涼 + 彼 + 武 + hiuang
 5130	236	大明	236.8	4	肆伐大a[sjiang]商。	肆 伐 大 商	商	a	sjiang			7	0 0 0 1276	肆 + 伐 + 大 + sjiang
 5131	236	大明	236.8	1	會朝清a[myang]明。（阳部）	會 朝 清 明	明	a	myang	阳部		8	0 0 0 1276	會 + 朝 + 清 + myang
+#
 5132	237	綿	237.1	1	綿綿瓜a[dyet]瓞。	綿 綿 瓜 瓞	瓞	a	dyet			1	0 0 0 1277	綿 + 綿 + 瓜 + dyet
 5133	237	綿	237.1	1	民之初生	民 之 初 生						2	0 0 0 0	民 + 之 + 初 + 生
 5134	237	綿	237.1	2	自土沮a[tsiet]漆。	自 土 沮 漆	漆	a	tsiet			3	0 0 0 1277	自 + 土 + 沮 + tsiet
@@ -5094,6 +5333,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5187	237	綿	237.9	2	予曰有先b[ho]後	予 曰 有 先 後	後	b	ho			4	0 0 0 0 1288	予 + 曰 + 有 + 先 + ho
 5188	237	綿	237.9	3	予曰有奔b[tzok]奏	予 曰 有 奔 奏	奏	b	tzok			5	0 0 0 0 1288	予 + 曰 + 有 + 奔 + tzok
 5189	237	綿	237.9	4	予曰有禦b[mio]侮。（侯屋通韵）	予 曰 有 禦 侮	侮	b	mio	侯屋通韵		6	0 0 0 0 1288	予 + 曰 + 有 + 禦 + mio
+#
 5190	238	棫樸	238.1	1	芃芃棫樸。	芃 芃 棫 樸						1	0 0 0 0	芃 + 芃 + 棫 + 樸
 5191	238	棫樸	238.1	1	薪之a[jiu]槱之。	薪 之 槱 之	槱	a	jiu			2	0 0 1289 0	薪 + 之 + jiu + 之
 5192	238	棫樸	238.1	1	濟濟辟王。	濟 濟 辟 王						3	0 0 0 0	濟 + 濟 + 辟 + 王
@@ -5114,6 +5354,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5207	238	棫樸	238.5	1	金玉其a[siang]相。	金 玉 其 相	相	a	siang			2	0 0 0 1294	金 + 玉 + 其 + siang
 5208	238	棫樸	238.5	1	勉勉我a[hiuang]王。	勉 勉 我 王	王	a	hiuang			3	0 0 0 1294	勉 + 勉 + 我 + hiuang
 5209	238	棫樸	238.5	1	綱紀四a[piuang]方。（阳部）	綱 紀 四 方	方	a	piuang	阳部		4	0 0 0 1294	綱 + 紀 + 四 + piuang
+#
 5210	239	早麓	239.1	1	瞻彼早麓	瞻 彼 早 麓						1	0 0 0 0	瞻 + 彼 + 早 + 麓
 5211	239	早麓	239.1	2	榛楛濟a[tzyei]濟。	榛 楛 濟 濟	濟	a	tzyei			2	0 0 0 1295	榛 + 楛 + 濟 + tzyei
 5212	239	早麓	239.1	1	豈弟君子	豈 弟 君 子						3	0 0 0 0	豈 + 弟 + 君 + 子
@@ -5138,6 +5379,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5231	239	早麓	239.6	2	施于條a[muəi]枚。	施 于 條 枚	枚	a	muəi			2	0 0 0 1300	施 + 于 + 條 + muəi
 5232	239	早麓	239.6	1	豈弟君子	豈 弟 君 子						3	0 0 0 0	豈 + 弟 + 君 + 子
 5233	239	早麓	239.6	2	求福不a[huəi]回。（微部）	求 福 不 回	回	a	huəi	微部		4	0 0 0 1300	求 + 福 + 不 + huəi
+#
 5234	240	思齊	240.1	1	思齊大任	思 齊 大 任						1	0 0 0 0	思 + 齊 + 大 + 任
 5235	240	思齊	240.1	2	文王之a[mə]母	文 王 之 母	母	a	mə			2	0 0 0 1301	文 + 王 + 之 + mə
 5236	240	思齊	240.1	3	思媚周姜	思 媚 周 姜						3	0 0 0 0	思 + 媚 + 周 + 姜
@@ -5162,6 +5404,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5255	240	思齊	240.5	2	小子有a[dzu]造。	小 子 有 造	造	a	dzu			2	0 0 0 1308	小 + 子 + 有 + dzu
 5256	240	思齊	240.5	1	古之人無斁	古 之 人 無 斁						3	0 0 0 0 0	古 + 之 + 人 + 無 + 斁
 5257	240	思齊	240.5	2	譽髦斯a[dzhiə]士。（幽之合韵）	譽 髦 斯 士	士	a	dzhiə	幽之合韵		4	0 0 0 1308	譽 + 髦 + 斯 + dzhiə
+#
 5258	241	皇矣	241.1	1	皇矣上帝	皇 矣 上 帝						1	0 0 0 0	皇 + 矣 + 上 + 帝
 5259	241	皇矣	241.1	2	臨下有a[xeak]赫。	臨 下 有 赫	赫	a	xeak			2	0 0 0 1309	臨 + 下 + 有 + xeak
 5260	241	皇矣	241.1	1	監觀四方	監 觀 四 方						3	0 0 0 0	監 + 觀 + 四 + 方
@@ -5257,6 +5500,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5351	241	皇矣	241.8	1	是伐是c[siet]肆	是 伐 是 肆	肆	c	siet			10	0 0 0 1331	是 + 伐 + 是 + siet
 5352	241	皇矣	241.8	2	是絕是c[xuət]忽。	是 絕 是 忽	忽	c	xuət			11	0 0 0 1331	是 + 絕 + 是 + xuət
 5353	241	皇矣	241.8	1	四方以無c[phiuət]拂。（物质合韵）	四 方 以 無 拂	拂	c	phiuət	物质合韵		12	0 0 0 0 1331	四 + 方 + 以 + 無 + phiuət
+#
 5354	242	靈臺	242.1	1	經始靈臺	經 始 靈 臺						1	0 0 0 0	經 + 始 + 靈 + 臺
 5355	242	靈臺	242.1	2	經之a[jiueng]營之。	經 之 營 之	營	a	jiueng			2	0 0 1332 0	經 + 之 + jiueng + 之
 5356	242	靈臺	242.1	1	庶民攻之	庶 民 攻 之						3	0 0 0 0	庶 + 民 + 攻 + 之
@@ -5277,6 +5521,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5371	242	靈臺	242.4	2	於樂辟a[iong]廱。	於 樂 辟 廱	廱	a	iong			2	0 0 0 1337	於 + 樂 + 辟 + iong
 5372	242	靈臺	242.4	1	鼉鼓逢a[bong]逢	鼉 鼓 逢 逢	逢	a	bong			3	0 0 0 1337	鼉 + 鼓 + 逢 + bong
 5373	242	靈臺	242.4	2	朦瞍奏a[kong]公。（东部）	朦 瞍 奏 公	公	a	kong	东部		4	0 0 0 1337	朦 + 瞍 + 奏 + kong
+#
 5374	243	下武	243.1	1	下武維周	下 武 維 周						1	0 0 0 0	下 + 武 + 維 + 周
 5375	243	下武	243.1	2	世有哲a[hiuang]王。	世 有 哲 王	王	a	hiuang			2	0 0 0 1338	世 + 有 + 哲 + hiuang
 5376	243	下武	243.1	1	三后在天	三 后 在 天						3	0 0 0 0	三 + 后 + 在 + 天
@@ -5301,6 +5546,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5395	243	下武	243.6	2	四方來a[hai]賀。	四 方 來 賀	賀	a	hai			2	0 0 0 1343	四 + 方 + 來 + hai
 5396	243	下武	243.6	1	於萬斯年	於 萬 斯 年						3	0 0 0 0	於 + 萬 + 斯 + 年
 5397	243	下武	243.6	2	不遐有a[tzai]佐。（歌部）	不 遐 有 佐	佐	a	tzai	歌部		4	0 0 0 1343	不 + 遐 + 有 + tzai
+#
 5398	244	文王有聲	244.1	1	文王有a[sjieng]聲	文 王 有 聲	聲	a	sjieng			1	0 0 0 1344	文 + 王 + 有 + sjieng
 5399	244	文王有聲	244.1	2	遹駿有a[sjieng]聲。	遹 駿 有 聲	聲	a	sjieng			2	0 0 0 1344	遹 + 駿 + 有 + sjieng
 5400	244	文王有聲	244.1	1	遹求厥a[nyeng]寧	遹 求 厥 寧	寧	a	nyeng			3	0 0 0 1344	遹 + 求 + 厥 + nyeng
@@ -5343,6 +5589,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5437	244	文王有聲	244.8	2	以燕翼a[tziə]子。（之部）	以 燕 翼 子	子	a	tziə	之部		4	0 0 0 1361	以 + 燕 + 翼 + tziə
 5438	244	文王有聲	244.8	1	武王烝B[tzə]哉。	武 王 烝 哉	哉	B	tzə			5	0 0 0 1362	武 + 王 + 烝 + tzə
 5439	244	文王有聲	244.10	1	生民之什	生 民 之 什						1	0 0 0 0	生 + 民 + 之 + 什
+#
 5440	245	生民	245.1	1	厥初生a[mien]民	厥 初 生 民	民	a	mien			1	0 0 0 1363	厥 + 初 + 生 + mien
 5441	245	生民	245.1	2	時維姜a[ngiuan]嫄。（真元合韵）	時 維 姜 嫄	嫄	a	ngiuan	真元合韵		2	0 0 0 1363	時 + 維 + 姜 + ngiuan
 5442	245	生民	245.1	1	生民如何	生 民 如 何						3	0 0 0 0	生 + 民 + 如 + 何
@@ -5418,6 +5665,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5512	245	生民	245.8	3	庶無罪b[xuə]悔	庶 無 罪 悔	悔	b	xuə			7	0 0 0 1382	庶 + 無 + 罪 + xuə
 5513	245	生民	245.8	4	（之部）					之部		8		
 5514	245	生民	245.8	1	以迄于a[kiəm]今。	以 迄 于 今	今	a	kiəm			9	0 0 0 1381	以 + 迄 + 于 + kiəm
+#
 5515	246	行葦	246.1	1	敦彼行a[hiuəi]葦 。	敦 彼 行 葦	葦	a	hiuəi			1	0 0 0 1383	敦 + 彼 + 行 + hiuəi
 5516	246	行葦	246.1	1	牛羊勿踐a[liei]履。	牛 羊 勿 踐 履	履	a	liei			2	0 0 0 0 1383	牛 + 羊 + 勿 + 踐 + liei
 5517	246	行葦	246.1	1	方苞方a[thyei]體。	方 苞 方 體	體	a	thyei			3	0 0 0 1383	方 + 苞 + 方 + thyei
@@ -5450,6 +5698,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5544	246	行葦	246.4	1	以引以b[jiək]翼。	以 引 以 翼	翼	b	jiək			6	0 0 0 1388	以 + 引 + 以 + jiək
 5545	246	行葦	246.4	1	壽考維祺。	壽 考 維 祺						7	0 0 0 0	壽 + 考 + 維 + 祺
 5546	246	行葦	246.4	1	以介景b[piuək]福。（职部）	以 介 景 福	福	b	piuək	职部		8	0 0 0 1388	以 + 介 + 景 + piuək
+#
 5547	247	既醉	247.1	1	既醉以酒	既 醉 以 酒						1	0 0 0 0	既 + 醉 + 以 + 酒
 5548	247	既醉	247.1	2	既飽以a[tək]德。	既 飽 以 德	德	a	tək			2	0 0 0 1389	既 + 飽 + 以 + tək
 5549	247	既醉	247.1	1	君子萬年	君 子 萬 年						3	0 0 0 0	君 + 子 + 萬 + 年
@@ -5481,6 +5730,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5575	247	既醉	247.8	1	其僕維何	其 僕 維 何						1	0 0 0 0	其 + 僕 + 維 + 何
 5576	247	既醉	247.8	2	釐爾女a[dzhiə]士。	釐 爾 女 士	士	a	dzhiə			2	0 0 0 1398	釐 + 爾 + 女 + dzhiə
 5578	247	既醉	247.8	2	從以孫a[tziə]子。（之部）	從 以 孫 子	子	a	tziə	之部		4	0 0 0 1398	從 + 以 + 孫 + tziə
+#
 5579	248	鳧鷖	248.1	1	鳧鷖在a[kyeng]涇	鳧 鷖 在 涇	涇	a	kyeng			1	0 0 0 1399	鳧 + 鷖 + 在 + kyeng
 5580	248	鳧鷖	248.1	2	公尺來燕來a[nyeng]寧。	公 尺 來 燕 來 寧	寧	a	nyeng			2	0 0 0 0 0 1399	公 + 尺 + 來 + 燕 + 來 + nyeng
 5581	248	鳧鷖	248.1	1	爾酒既a[tsieng]清	爾 酒 既 清	清	a	tsieng			3	0 0 0 1399	爾 + 酒 + 既 + tsieng
@@ -5511,6 +5761,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5606	248	鳧鷖	248.5	2	燔炙芬a[phiuən]芬	燔 炙 芬 芬	芬	a	phiuən			4	0 0 0 1403	燔 + 炙 + 芬 + phiuən
 5607	248	鳧鷖	248.5	3	公尺燕飲	公 尺 燕 飲						5	0 0 0 0	公 + 尺 + 燕 + 飲
 5608	248	鳧鷖	248.5	4	無有後a[kean]艱。（文部）	無 有 後 艱	艱	a	kean	文部		6	0 0 0 1403	無 + 有 + 後 + kean
+#
 5609	249	假樂	249.1	1	假樂君a[tziə]子	假 樂 君 子	子	a	tziə			1	0 0 0 1404	假 + 樂 + 君 + tziə
 5610	249	假樂	249.1	2	顯顯令a[tək]德。（之职通韵）	顯 顯 令 德	德	a	tək	之职通韵		2	0 0 0 1404	顯 + 顯 + 令 + tək
 5611	249	假樂	249.1	1	宜民宜b[njien]人	宜 民 宜 人	人	b	njien			3	0 0 0 1405	宜 + 民 + 宜 + njien
@@ -5535,6 +5786,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5630	249	假樂	249.4	2	媚于天a[tziə]子。（之部）	媚 于 天 子	子	a	tziə	之部		4	0 0 0 1410	媚 + 于 + 天 + tziə
 5631	249	假樂	249.4	1	不解于b[hiuət]位	不 解 于 位	位	b	hiuət			5	0 0 0 1411	不 + 解 + 于 + hiuət
 5632	249	假樂	249.4	2	民之攸b[xiət]塈。（物部）	民 之 攸 塈	塈	b	xiət	物部		6	0 0 0 1411	民 + 之 + 攸 + xiət
+#
 5633	250	公劉	250.1	1	篤公劉	篤 公 劉						1	0 0 0	篤 + 公 + 劉
 5634	250	公劉	250.1	2	匪居匪a[khang]康	匪 居 匪 康	康	a	khang			2	0 0 0 1412	匪 + 居 + 匪 + khang
 5635	250	公劉	250.1	3	迺埸迺a[kiang]疆	迺 埸 迺 疆	疆	a	kiang			3	0 0 0 1412	迺 + 埸 + 迺 + kiang
@@ -5595,6 +5847,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5690	250	公劉	250.6	2	溯其過c[kean]澗。（元部）	溯 其 過 澗	澗	c	kean	元部		8	0 0 0 1426	溯 + 其 + 過 + kean
 5691	250	公劉	250.6	1	止旅迺d[miet]密	止 旅 迺 密	密	d	miet			9	0 0 0 1427	止 + 旅 + 迺 + miet
 5692	250	公劉	250.6	2	芮鞫之d[tziet]即。（质部）	芮 鞫 之 即	即	d	tziet	质部		10	0 0 0 1427	芮 + 鞫 + 之 + tziet
+#
 5693	251	泂酌	251.1	1	泂酌彼行潦	泂 酌 彼 行 潦						1	0 0 0 0 0	泂 + 酌 + 彼 + 行 + 潦
 5694	251	泂酌	251.1	2	挹彼注a[tziə]茲	挹 彼 注 茲	茲	a	tziə			2	0 0 0 1428	挹 + 彼 + 注 + tziə
 5695	251	泂酌	251.1	3	可以饙a[thjiə]饎。	可 以 饙 饎	饎	a	thjiə			3	0 0 0 1428	可 + 以 + 饙 + thjiə
@@ -5610,6 +5863,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5705	251	泂酌	251.3	3	可以濯b[kət]溉。（a= 之部）	可 以 濯 溉	溉	b	kət	a=之部		3	0 0 0 1432	可 + 以 + 濯 + kət
 5706	251	泂酌	251.3	1	豈弟君a[tziə]子	豈 弟 君 子	子	a	tziə			4	0 0 0 1431	豈 + 弟 + 君 + tziə
 5707	251	泂酌	251.3	2	民之攸b[xiət]塈 。（b= 物部）	民 之 攸 塈	塈	b	xiət	b=物部		5	0 0 0 1432	民 + 之 + 攸 + xiət
+#
 5708	252	卷阿	252.1	1	有卷者a[ai]阿	有 卷 者 阿	阿	a	ai			1	0 0 0 1433	有 + 卷 + 者 + ai
 5709	252	卷阿	252.1	2	飄風自b[nəm]南。（a= 歌部）	飄 風 自 南	南	b	nəm	a=歌部		2	0 0 0 1434	飄 + 風 + 自 + nəm
 5710	252	卷阿	252.1	1	豈弟君子	豈 弟 君 子						3	0 0 0 0	豈 + 弟 + 君 + 子
@@ -5664,6 +5918,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5759	252	卷阿	252.10	2	既閑且b[diai]馳 。	既 閑 且 馳	馳	b	diai			4	0 0 0 1446	既 + 閑 + 且 + diai
 5760	252	卷阿	252.10	1	矢詩不b[tai]多	矢 詩 不 多	多	b	tai			5	0 0 0 1446	矢 + 詩 + 不 + tai
 5761	252	卷阿	252.10	2	維以遂b[kai]歌。（歌部）	維 以 遂 歌	歌	b	kai	歌部		6	0 0 0 1446	維 + 以 + 遂 + kai
+#
 5762	253	民勞	253.1	1	民亦勞止	民 亦 勞 止						1	0 0 0 0	民 + 亦 + 勞 + 止
 5763	253	民勞	253.1	2	汔可小a[khang]康。	汔 可 小 康	康	a	khang			2	0 0 0 1447	汔 + 可 + 小 + khang
 5764	253	民勞	253.1	1	惠此中國	惠 此 中 國						3	0 0 0 0	惠 + 此 + 中 + 國
@@ -5714,6 +5969,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5809	253	民勞	253.5	2	無俾正a[piuan]反 。	無 俾 正 反	反	a	piuan			8	0 0 0 1451	無 + 俾 + 正 + piuan
 5810	253	民勞	253.5	1	王欲玉女	王 欲 玉 女						9	0 0 0 0	王 + 欲 + 玉 + 女
 5811	253	民勞	253.5	2	是用大a[kean]諫。（元部）	是 用 大 諫	諫	a	kean	元部		10	0 0 0 1451	是 + 用 + 大 + kean
+#
 5812	254	板	254.1	1	上帝板a[pan]板	上 帝 板 板	板	a	pan			1	0 0 0 1452	上 + 帝 + 板 + pan
 5813	254	板	254.1	2	下民卒a[tan]癉。	下 民 卒 癉	癉	a	tan			2	0 0 0 1452	下 + 民 + 卒 + tan
 5814	254	板	254.1	1	出話不a[njian]然	出 話 不 然	然	a	njian			3	0 0 0 1452	出 + 話 + 不 + njian
@@ -5780,6 +6036,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5876	254	板	254.8	1	昊天曰d[tan]旦	昊 天 曰 旦	旦	d	tan			7	0 0 0 1468	昊 + 天 + 曰 + tan
 5877	254	板	254.8	2	及爾游d[jian]衍。（元部）	及 爾 游 衍	衍	d	jian	元部		8	0 0 0 1468	及 + 爾 + 游 + jian
 5878	254	板	254.10	1	蕩之什	蕩 之 什						1	0 0 0	蕩 + 之 + 什
+#
 5879	255	蕩	255.1	1	蕩蕩上a[tyek]帝	蕩 蕩 上 帝	帝	a	tyek			1	0 0 0 1469	蕩 + 蕩 + 上 + tyek
 5880	255	蕩	255.1	2	下民之a[piek]辟。	下 民 之 辟	辟	a	piek			2	0 0 0 1469	下 + 民 + 之 + piek
 5881	255	蕩	255.1	1	疾威上a[tyek]帝	疾 威 上 帝	帝	a	tyek			3	0 0 0 1469	疾 + 威 + 上 + tyek
@@ -5844,6 +6101,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 5940	255	蕩	255.8	2	本實先b[puat]撥。	本 實 先 撥	撥	b	puat			6	0 0 0 1488	本 + 實 + 先 + puat
 5941	255	蕩	255.8	1	殷鑒不遠	殷 鑒 不 遠						7	0 0 0 0	殷 + 鑒 + 不 + 遠
 5942	255	蕩	255.8	2	在夏后之b[sjiat]世 。（月部）	在 夏 后 之 世	世	b	sjiat	月部		8	0 0 0 0 1488	在 + 夏 + 后 + 之 + sjiat
+#
 5943	256	抑	256.1	1	抑抑威儀	抑 抑 威 儀						1	0 0 0 0	抑 + 抑 + 威 + 儀
 5944	256	抑	256.1	2	維德之a[ngio]隅。	維 德 之 隅	隅	a	ngio			2	0 0 0 1489	維 + 德 + 之 + ngio
 5945	256	抑	256.1	1	人亦有言	人 亦 有 言						3	0 0 0 0	人 + 亦 + 有 + 言
@@ -5959,6 +6217,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6055	256	抑	256.12	2	昊天不c[thək]忒。	昊 天 不 忒	忒	c	thək			8	0 0 0 1518	昊 + 天 + 不 + thək
 6056	256	抑	256.12	1	回遹其c[tək]德	回 遹 其 德	德	c	tək			9	0 0 0 1518	回 + 遹 + 其 + tək
 6057	256	抑	256.12	2	俾民大c[kiək]棘。（职部）	俾 民 大 棘	棘	c	kiək	职部		10	0 0 0 1518	俾 + 民 + 大 + kiək
+#
 6058	257	桑柔	257.1	1	菀彼桑a[njiu]柔	菀 彼 桑 柔	柔	a	njiu			1	0 0 0 1519	菀 + 彼 + 桑 + njiu
 6059	257	桑柔	257.1	2	其下侯b[ziuen]旬。	其 下 侯 旬	旬	b	ziuen			2	0 0 0 1520	其 + 下 + 侯 + ziuen
 6060	257	桑柔	257.1	1	捋采其a[liu]劉	捋 采 其 劉	劉	a	liu			3	0 0 0 1519	捋 + 采 + 其 + liu
@@ -6071,6 +6330,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6167	257	桑柔	257.16	2	覆背善a[liai]詈。	覆 背 善 詈	詈	a	liai			4	0 0 0 1544	覆 + 背 + 善 + liai
 6168	257	桑柔	257.16	1	雖曰匪予	雖 曰 匪 予						5	0 0 0 0	雖 + 曰 + 匪 + 予
 6169	257	桑柔	257.16	2	既作爾a[kai]歌。（歌部）	既 作 爾 歌	歌	a	kai	歌部		6	0 0 0 1544	既 + 作 + 爾 + kai
+#
 6170	258	雲漢	258.1	1	倬彼雲漢	倬 彼 雲 漢						1	0 0 0 0	倬 + 彼 + 雲 + 漢
 6171	258	雲漢	258.1	2	昭回于a[thyen]天。	昭 回 于 天	天	a	thyen			2	0 0 0 1545	昭 + 回 + 于 + thyen
 6172	258	雲漢	258.1	1	王曰於乎	王 曰 於 乎						3	0 0 0 0	王 + 曰 + 於 + 乎
@@ -6150,6 +6410,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6246	258	雲漢	258.8	1	何求為我	何 求 為 我						7	0 0 0 0	何 + 求 + 為 + 我
 6247	258	雲漢	258.8	2	以戾庶a[tjieng]正。	以 戾 庶 正	正	a	tjieng			8	0 0 0 1553	以 + 戾 + 庶 + tjieng
 6249	258	雲漢	258.8	2	曷惠其a[nyeng]寧。（耕部）	曷 惠 其 寧	寧	a	nyeng	耕部		10	0 0 0 1553	曷 + 惠 + 其 + nyeng
+#
 6250	259	崧高	259.1	1	崧高維嶽	崧 高 維 嶽						1	0 0 0 0	崧 + 高 + 維 + 嶽
 6251	259	崧高	259.1	2	駿極于a[thyen]天。	駿 極 于 天	天	a	thyen			2	0 0 0 1554	駿 + 極 + 于 + thyen
 6252	259	崧高	259.1	1	維嶽降a[djien]神	維 嶽 降 神	神	a	djien			3	0 0 0 1554	維 + 嶽 + 降 + djien
@@ -6214,6 +6475,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6311	259	崧高	259.8	2	其詩孔b[zjyak]碩。	其 詩 孔 碩	碩	b	zjyak			6	0 0 0 1569	其 + 詩 + 孔 + zjyak
 6312	259	崧高	259.8	1	其風肆好	其 風 肆 好						7	0 0 0 0	其 + 風 + 肆 + 好
 6313	259	崧高	259.8	2	以贈申b[peak]伯。（铎部）	以 贈 申 伯	伯	b	peak	铎部		8	0 0 0 1569	以 + 贈 + 申 + peak
+#
 6314	260	烝民	260.1	1	天生烝民	天 生 烝 民						1	0 0 0 0	天 + 生 + 烝 + 民
 6315	260	烝民	260.1	2	有物有a[tzək]則。	有 物 有 則	則	a	tzək			2	0 0 0 1570	有 + 物 + 有 + tzək
 6316	260	烝民	260.1	1	民之秉彝	民 之 秉 彝						3	0 0 0 0	民 + 之 + 秉 + 彝
@@ -6277,6 +6539,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6374	260	烝民	260.8	1	吉甫作誦	吉 甫 作 誦						5	0 0 0 0	吉 + 甫 + 作 + 誦
 6375	260	烝民	260.8	2	穆如清b[piuəm]風。仲山甫永懷	穆 如 清 風 仲 山 甫 永 懷	風	b	piuəm			6	0 0 0 1583 0 0 0 0 0	穆 + 如 + 清 + piuəm + 仲 + 山 + 甫 + 永 + 懷
 6376	260	烝民	260.8	3	以慰其b[siəm]心。（侵部）	以 慰 其 心	心	b	siəm	侵部		7	0 0 0 1583	以 + 慰 + 其 + siəm
+#
 6377	261	韓奕	261.1	1	奕奕梁山	奕 奕 梁 山						1	0 0 0 0	奕 + 奕 + 梁 + 山
 6378	261	韓奕	261.1	2	維禹a[dyen]甸之	維 禹 甸 之	甸	a	dyen			2	0 0 1584 0	維 + 禹 + dyen + 之
 6379	261	韓奕	261.1	3	有倬其b[du]道。（a= 真部）	有 倬 其 道	道	b	du	a=真部		3	0 0 0 1585	有 + 倬 + 其 + du
@@ -6349,6 +6612,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6446	261	韓奕	261.6	2	實畝實b[dzyak]藉。（铎部）	實 畝 實 藉	藉	b	dzyak	铎部		10	0 0 0 1596	實 + 畝 + 實 + dzyak
 6447	261	韓奕	261.6	1	獻其貔c[biai]皮	獻 其 貔 皮	皮	c	biai			11	0 0 0 1597	獻 + 其 + 貔 + biai
 6448	261	韓奕	261.6	2	赤豹黃c[piai]羆。（歌部）	赤 豹 黃 羆	羆	c	piai	歌部		12	0 0 0 1597	赤 + 豹 + 黃 + piai
+#
 6449	262	江漢	262.1	1	江漢浮a[biu]浮	江 漢 浮 浮	浮	a	biu			1	0 0 0 1598	江 + 漢 + 浮 + biu
 6450	262	江漢	262.1	2	武夫滔a[thu]滔。	武 夫 滔 滔	滔	a	thu			2	0 0 0 1598	武 + 夫 + 滔 + thu
 6451	262	江漢	262.1	1	匪安匪a[jiu]遊	匪 安 匪 遊	遊	a	jiu			3	0 0 0 1598	匪 + 安 + 匪 + jiu
@@ -6397,6 +6661,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6494	262	江漢	262.6	2	令聞不b[jiə]已。（之部）	令 聞 不 已	已	b	jiə	之部		6	0 0 0 1609	令 + 聞 + 不 + jiə
 6495	262	江漢	262.6	1	矢其文c[tək]德	矢 其 文 德	德	c	tək			7	0 0 0 1610	矢 + 其 + 文 + tək
 6496	262	江漢	262.6	2	洽此四c[kuək]國。（职部）	洽 此 四 國	國	c	kuək	职部		8	0 0 0 1610	洽 + 此 + 四 + kuək
+#
 6497	263	常武	263.1	1	赫赫明明	赫 赫 明 明						1	0 0 0 0	赫 + 赫 + 明 + 明
 6498	263	常武	263.1	2	王命卿a[dzhiə]士	王 命 卿 士	士	a	dzhiə			2	0 0 0 1611	王 + 命 + 卿 + dzhiə
 6499	263	常武	263.1	3	南仲大a[tza]祖	南 仲 大 祖	祖	a	tza			3	0 0 0 1611	南 + 仲 + 大 + tza
@@ -6445,6 +6710,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6542	263	常武	263.6	2	徐方來c[dyeng]庭。（耕部）	徐 方 來 庭	庭	c	dyeng	耕部		6	0 0 0 1623	徐 + 方 + 來 + dyeng
 6543	263	常武	263.6	1	徐方不d[huəi]回	徐 方 不 回	回	d	huəi			7	0 0 0 1624	徐 + 方 + 不 + huəi
 6544	263	常武	263.6	2	王曰還d[kiuəi]歸。（微部）	王 曰 還 歸	歸	d	kiuəi	微部		8	0 0 0 1624	王 + 曰 + 還 + kiuəi
+#
 6545	264	瞻卬	264.1	1	瞻卬昊天	瞻 卬 昊 天						1	0 0 0 0	瞻 + 卬 + 昊 + 天
 6546	264	瞻卬	264.1	2	則我不a[hyuet]惠。	則 我 不 惠	惠	a	hyuet			2	0 0 0 1625	則 + 我 + 不 + hyuet
 6547	264	瞻卬	264.1	1	孔填不寧	孔 填 不 寧						3	0 0 0 0	孔 + 填 + 不 + 寧
@@ -6505,6 +6771,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6604	264	瞻卬	264.7	2	無不克b[kiong]鞏。	無 不 克 鞏	鞏	b	kiong			8	0 0 0 1643	無 + 不 + 克 + kiong
 6605	264	瞻卬	264.7	1	無忝皇祖	無 忝 皇 祖						9	0 0 0 0	無 + 忝 + 皇 + 祖
 6606	264	瞻卬	264.7	2	式救爾b[ho]後。（侯东通韵）	式 救 爾 後	後	b	ho	侯东通韵		10	0 0 0 1643	式 + 救 + 爾 + ho
+#
 6607	265	召旻	265.1	1	旻天疾威	旻 天 疾 威						1	0 0 0 0	旻 + 天 + 疾 + 威
 6608	265	召旻	265.1	2	天篤降a[sang]喪。	天 篤 降 喪	喪	a	sang			2	0 0 0 1644	天 + 篤 + 降 + sang
 6609	265	召旻	265.1	1	瘨我饑饉	瘨 我 饑 饉						3	0 0 0 0	瘨 + 我 + 饑 + 饉
@@ -6548,6 +6815,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6647	265	召旻	265.7	2	不尚有a[giuə]舊。（之部）	不 尚 有 舊	舊	a	giuə	之部		7	0 0 0 1652	不 + 尚 + 有 + giuə
 6648	265	召旻	265.11	1	頌	頌						1	0	頌
 6649	265	召旻	265.12	1	周頌清廟之什	周 頌 清 廟 之 什						1	0 0 0 0 0 0	周 + 頌 + 清 + 廟 + 之 + 什
+#
 6650	266	清廟	266.1	1	於穆清廟	於 穆 清 廟						1	0 0 0 0	於 + 穆 + 清 + 廟
 6651	266	清廟	266.1	2	肅雝顯相。	肅 雝 顯 相						2	0 0 0 0	肅 + 雝 + 顯 + 相
 6652	266	清廟	266.1	1	濟濟多士	濟 濟 多 士						3	0 0 0 0	濟 + 濟 + 多 + 士
@@ -6556,6 +6824,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6655	266	清廟	266.1	2	駿奔走在廟。	駿 奔 走 在 廟						6	0 0 0 0 0	駿 + 奔 + 走 + 在 + 廟
 6656	266	清廟	266.1	1	不顯不承	不 顯 不 承						7	0 0 0 0	不 + 顯 + 不 + 承
 6657	266	清廟	266.1	2	無射於人斯。	無 射 於 人 斯						8	0 0 0 0 0	無 + 射 + 於 + 人 + 斯
+#
 6658	267	維天之命	267.1	1	維天之命	維 天 之 命						1	0 0 0 0	維 + 天 + 之 + 命
 6659	267	維天之命	267.1	2	於穆不已。	於 穆 不 已						2	0 0 0 0	於 + 穆 + 不 + 已
 6660	267	維天之命	267.1	1	於乎不顯	於 乎 不 顯						3	0 0 0 0	於 + 乎 + 不 + 顯
@@ -6564,11 +6833,13 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6663	267	維天之命	267.1	2	我其a[sjiu]收之。	我 其 收 之	收	a	sjiu			6	0 0 1653 0	我 + 其 + sjiu + 之
 6664	267	維天之命	267.1	1	駿惠我文王	駿 惠 我 文 王						7	0 0 0 0 0	駿 + 惠 + 我 + 文 + 王
 6665	267	維天之命	267.1	2	曾孫a[tuk]篤之。（幽觉通韵）	曾 孫 篤 之	篤	a	tuk	幽觉通韵		8	0 0 1653 0	曾 + 孫 + tuk + 之
+#
 6666	268	維清	268.1	1	維清緝熙	維 清 緝 熙						1	0 0 0 0	維 + 清 + 緝 + 熙
 6667	268	維清	268.1	2	文王之a[tyen]典	文 王 之 典	典	a	tyen			2	0 0 0 1654	文 + 王 + 之 + tyen
 6668	268	維清	268.1	3	肇a[ien]禋。（真部）	肇 禋	禋	a	ien	真部		3	0 1654	肇 + ien
 6669	268	維清	268.1	1	迄用有b[zjieng]成	迄 用 有 成	成	b	zjieng			4	0 0 0 1655	迄 + 用 + 有 + zjieng
 6670	268	維清	268.1	2	維周之b[tieng]禎。（耕部）	維 周 之 禎	禎	b	tieng	耕部		5	0 0 0 1655	維 + 周 + 之 + tieng
+#
 6671	269	烈文	269.1	1	烈文辟a[kong]公	烈 文 辟 公	公	a	kong			1	0 0 0 1656	烈 + 文 + 辟 + kong
 6672	269	烈文	269.1	2	錫茲祉福。	錫 茲 祉 福						2	0 0 0 0	錫 + 茲 + 祉 + 福
 6673	269	烈文	269.1	1	惠我無a[kiang]疆	惠 我 無 疆	疆	a	kiang			3	0 0 0 1656	惠 + 我 + 無 + kiang
@@ -6582,6 +6853,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6681	269	烈文	269.1	1	不顯維德	不 顯 維 德						11	0 0 0 0	不 + 顯 + 維 + 德
 6682	269	烈文	269.1	2	百辟其b[hyeng]刑之。（真文耕合韵）	百 辟 其 刑 之	刑	b	hyeng	真文耕合韵		12	0 0 0 1657 0	百 + 辟 + 其 + hyeng + 之
 6683	269	烈文	269.1	1	於乎前王不忘。	於 乎 前 王 不 忘						13	0 0 0 0 0 0	於 + 乎 + 前 + 王 + 不 + 忘
+#
 6684	270	天作	270.1	1	天作高山	天 作 高 山						1	0 0 0 0	天 + 作 + 高 + 山
 6685	270	天作	270.1	2	大王a[xuang]荒之。	大 王 荒 之	荒	a	xuang			2	0 0 1658 0	大 + 王 + xuang + 之
 6686	270	天作	270.1	1	彼作矣	彼 作 矣						3	0 0 0	彼 + 作 + 矣
@@ -6589,6 +6861,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6688	270	天作	270.1	1	彼徂矣岐	彼 徂 矣 岐						5	0 0 0 0	彼 + 徂 + 矣 + 岐
 6689	270	天作	270.1	2	有夷之a[heang]行。（阳部）	有 夷 之 行	行	a	heang	阳部		6	0 0 0 1658	有 + 夷 + 之 + heang
 6690	270	天作	270.1	1	子孫保之。	子 孫 保 之						7	0 0 0 0	子 + 孫 + 保 + 之
+#
 6691	271	昊天有成命	271.1	1	昊天有成命	昊 天 有 成 命						1	0 0 0 0 0	昊 + 天 + 有 + 成 + 命
 6692	271	昊天有成命	271.1	2	二后受之。	二 后 受 之						2	0 0 0 0	二 + 后 + 受 + 之
 6693	271	昊天有成命	271.1	1	成王不敢康	成 王 不 敢 康						3	0 0 0 0 0	成 + 王 + 不 + 敢 + 康
@@ -6596,6 +6869,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6695	271	昊天有成命	271.1	1	於緝熙	於 緝 熙						5	0 0 0	於 + 緝 + 熙
 6696	271	昊天有成命	271.1	2	單厥心	單 厥 心						6	0 0 0	單 + 厥 + 心
 6697	271	昊天有成命	271.1	3	肆其靖之。	肆 其 靖 之						7	0 0 0 0	肆 + 其 + 靖 + 之
+#
 6698	272	我將	272.1	1	我將我享	我 將 我 享						1	0 0 0 0	我 + 將 + 我 + 享
 6699	272	我將	272.1	2	維羊維a[ngiuə]牛	維 羊 維 牛	牛	a	ngiuə			2	0 0 0 1659	維 + 羊 + 維 + ngiuə
 6700	272	我將	272.1	3	維天其a[hiuə]右之。（之部）	維 天 其 右 之	右	a	hiuə	之部		3	0 0 0 1659 0	維 + 天 + 其 + hiuə + 之
@@ -6606,6 +6880,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6705	272	我將	272.1	1	我其夙夜	我 其 夙 夜						8	0 0 0 0	我 + 其 + 夙 + 夜
 6706	272	我將	272.1	2	畏天之威	畏 天 之 威						9	0 0 0 0	畏 + 天 + 之 + 威
 6707	272	我將	272.1	3	于時保之。	于 時 保 之						10	0 0 0 0	于 + 時 + 保 + 之
+#
 6708	273	時邁	273.1	1	時邁其邦	時 邁 其 邦						1	0 0 0 0	時 + 邁 + 其 + 邦
 6709	273	時邁	273.1	2	昊天其子之。	昊 天 其 子 之						2	0 0 0 0 0	昊 + 天 + 其 + 子 + 之
 6710	273	時邁	273.1	1	實右序有周。	實 右 序 有 周						3	0 0 0 0 0	實 + 右 + 序 + 有 + 周
@@ -6621,6 +6896,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6720	273	時邁	273.1	1	我求懿德	我 求 懿 德						13	0 0 0 0	我 + 求 + 懿 + 德
 6721	273	時邁	273.1	2	肆于時夏。	肆 于 時 夏						14	0 0 0 0	肆 + 于 + 時 + 夏
 6722	273	時邁	273.1	1	允王保之。	允 王 保 之						15	0 0 0 0	允 + 王 + 保 + 之
+#
 6723	274	執競	274.1	1	執競武a[hiuang]王	執 競 武 王	王	a	hiuang			1	0 0 0 1661	執 + 競 + 武 + hiuang
 6724	274	執競	274.1	2	無競維烈。	無 競 維 烈						2	0 0 0 0	無 + 競 + 維 + 烈
 6725	274	執競	274.1	1	不顯成a[khang]康	不 顯 成 康	康	a	khang			3	0 0 0 1661	不 + 顯 + 成 + khang
@@ -6635,6 +6911,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6734	274	執競	274.1	2	威儀反b[piuan]反。	威 儀 反 反	反	b	piuan			12	0 0 0 1662	威 + 儀 + 反 + piuan
 6735	274	執競	274.1	1	既醉既飽	既 醉 既 飽						13	0 0 0 0	既 + 醉 + 既 + 飽
 6736	274	執競	274.1	2	福祿來b[piuan]反。（元部）	福 祿 來 反	反	b	piuan	元部		14	0 0 0 1662	福 + 祿 + 來 + piuan
+#
 6737	275	思文	275.1	1	思文后a[tziək]稷	思 文 后 稷	稷	a	tziək			1	0 0 0 1663	思 + 文 + 后 + tziək
 6738	275	思文	275.1	2	克配彼b[thyen]天。（a= 职部）	克 配 彼 天	天	b	thyen	a=职部		2	0 0 0 1664	克 + 配 + 彼 + thyen
 6739	275	思文	275.1	1	立我烝b[mien]民	立 我 烝 民	民	b	mien			3	0 0 0 1664	立 + 我 + 烝 + mien
@@ -6644,6 +6921,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6743	275	思文	275.1	1	無比疆爾界	無 比 疆 爾 界						7	0 0 0 0 0	無 + 比 + 疆 + 爾 + 界
 6744	275	思文	275.1	2	陳常于時夏。	陳 常 于 時 夏						8	0 0 0 0 0	陳 + 常 + 于 + 時 + 夏
 6745	275	思文	275.4	1	周頌臣工之什	周 頌 臣 工 之 什						1	0 0 0 0 0 0	周 + 頌 + 臣 + 工 + 之 + 什
+#
 6746	276	臣工	276.1	1	嗟嗟臣a[kong]工	嗟 嗟 臣 工	工	a	kong			1	0 0 0 1665	嗟 + 嗟 + 臣 + kong
 6747	276	臣工	276.1	2	敬爾在a[kong]公。（东部）	敬 爾 在 公	公	a	kong	东部		2	0 0 0 1665	敬 + 爾 + 在 + kong
 6748	276	臣工	276.1	1	王釐爾成	王 釐 爾 成						3	0 0 0 0	王 + 釐 + 爾 + 成
@@ -6659,6 +6937,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6758	276	臣工	276.1	1	命我眾人	命 我 眾 人						13	0 0 0 0	命 + 我 + 眾 + 人
 6759	276	臣工	276.1	2	庤乃錢鎛	庤 乃 錢 鎛						14	0 0 0 0	庤 + 乃 + 錢 + 鎛
 6760	276	臣工	276.1	3	奄觀銍艾。	奄 觀 銍 艾						15	0 0 0 0	奄 + 觀 + 銍 + 艾
+#
 6761	277	噫嘻	277.1	1	噫嘻成王	噫 嘻 成 王						1	0 0 0 0	噫 + 嘻 + 成 + 王
 6762	277	噫嘻	277.1	2	既昭假爾。	既 昭 假 爾						2	0 0 0 0	既 + 昭 + 假 + 爾
 6763	277	噫嘻	277.1	1	率時農夫	率 時 農 夫						3	0 0 0 0	率 + 時 + 農 + 夫
@@ -6667,6 +6946,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6766	277	噫嘻	277.1	2	終三十里。	終 三 十 里						6	0 0 0 0	終 + 三 + 十 + 里
 6767	277	噫嘻	277.1	1	亦服爾耕	亦 服 爾 耕						7	0 0 0 0	亦 + 服 + 爾 + 耕
 6768	277	噫嘻	277.1	2	十千維耦。	十 千 維 耦						8	0 0 0 0	十 + 千 + 維 + 耦
+#
 6769	278	振鷺	278.1	1	振鷺于飛	振 鷺 于 飛						1	0 0 0 0	振 + 鷺 + 于 + 飛
 6770	278	振鷺	278.1	2	于彼西a[iong]雝。	于 彼 西 雝	雝	a	iong			2	0 0 0 1666	于 + 彼 + 西 + iong
 6771	278	振鷺	278.1	1	我客戾止	我 客 戾 止						3	0 0 0 0	我 + 客 + 戾 + 止
@@ -6675,6 +6955,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6774	278	振鷺	278.1	2	在此無b[jyak]斁。	在 此 無 斁	斁	b	jyak			6	0 0 0 1667	在 + 此 + 無 + jyak
 6775	278	振鷺	278.1	1	庶幾夙b[jyak]夜	庶 幾 夙 夜	夜	b	jyak			7	0 0 0 1667	庶 + 幾 + 夙 + jyak
 6776	278	振鷺	278.1	2	以永終b[jia]譽。（铎鱼通韵）	以 永 終 譽	譽	b	jia	铎鱼通韵		8	0 0 0 1667	以 + 永 + 終 + jia
+#
 6777	279	豐年	279.1	1	豐年多a[sjia]黍多a[da]稌。（鱼部）	豐 年 多 黍 多 稌	黍	a	sjia	鱼部		1	0 0 0 1668 0 1668	豐 + 年 + 多 + sjia + 多 + da
 6779	279	豐年	279.1	1	亦有高廩	亦 有 高 廩						3	0 0 0 0	亦 + 有 + 高 + 廩
 6780	279	豐年	279.1	2	萬億及b[tziei]秭。	萬 億 及 秭	秭	b	tziei			4	0 0 0 1669	萬 + 億 + 及 + tziei
@@ -6682,6 +6963,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6782	279	豐年	279.1	2	烝畀祖b[piei]妣	烝 畀 祖 妣	妣	b	piei			6	0 0 0 1669	烝 + 畀 + 祖 + piei
 6783	279	豐年	279.1	3	以洽百b[lyei]禮	以 洽 百 禮	禮	b	lyei			7	0 0 0 1669	以 + 洽 + 百 + lyei
 6784	279	豐年	279.1	4	降福孔b[kei]皆。（脂部）	降 福 孔 皆	皆	b	kei	脂部		8	0 0 0 1669	降 + 福 + 孔 + kei
+#
 6785	280	有瞽	280.1	1	有瞽有a[ka]瞽	有 瞽 有 瞽	瞽	a	ka			1	0 0 0 1670	有 + 瞽 + 有 + ka
 6786	280	有瞽	280.1	2	在周之a[dyeng]庭。	在 周 之 庭	庭	a	dyeng			2	0 0 0 1670	在 + 周 + 之 + dyeng
 6787	280	有瞽	280.1	1	設業設b[gia]虡	設 業 設 虡	虡	b	gia			3	0 0 0 1671	設 + 業 + 設 + gia
@@ -6694,12 +6976,14 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6794	280	有瞽	280.1	3	先祖先a[thyeng]聽。	先 祖 先 聽	聽	a	thyeng			10	0 0 0 1670	先 + 祖 + 先 + thyeng
 6795	280	有瞽	280.1	1	我客戾止	我 客 戾 止						11	0 0 0 0	我 + 客 + 戾 + 止
 6796	280	有瞽	280.1	2	永觀厥a[zjieng]成。（耕部）	永 觀 厥 成	成	a	zjieng	耕部		12	0 0 0 1670	永 + 觀 + 厥 + zjieng
+#
 6797	281	潛	281.1	1	猗與漆a[dzia]沮	猗 與 漆 沮	沮	a	dzia			1	0 0 0 1672	猗 + 與 + 漆 + dzia
 6798	281	潛	281.1	2	潛有多a[ngia]魚。（鱼部）	潛 有 多 魚	魚	a	ngia	鱼部		2	0 0 0 1672	潛 + 有 + 多 + ngia
 6799	281	潛	281.1	1	有鱣有b[hiuə]鮪	有 鱣 有 鮪	鮪	b	hiuə			3	0 0 0 1673	有 + 鱣 + 有 + hiuə
 6800	281	潛	281.1	2	鰷鱨鰋b[liə]鯉	鰷 鱨 鰋 鯉	鯉	b	liə			4	0 0 0 1673	鰷 + 鱨 + 鰋 + liə
 6801	281	潛	281.1	3	以享以b[ziə]祀	以 享 以 祀	祀	b	ziə			5	0 0 0 1673	以 + 享 + 以 + ziə
 6802	281	潛	281.1	4	以介景b[piuək]福。（之职通韵）	以 介 景 福	福	b	piuək	之职通韵		6	0 0 0 1673	以 + 介 + 景 + piuək
+#
 6803	282	雝	282.1	1	有來雝a[iong]雝	有 來 雝 雝	雝	a	iong			1	0 0 0 1674	有 + 來 + 雝 + iong
 6804	282	雝	282.1	2	至止肅b[siuk]肅。（a= 东部）	至 止 肅 肅	肅	b	siuk	a=东部		2	0 0 0 1675	至 + 止 + 肅 + siuk
 6805	282	雝	282.1	1	相維辟a[kong]公	相 維 辟 公	公	a	kong			3	0 0 0 1674	相 + 維 + 辟 + kong
@@ -6716,6 +7000,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6816	282	雝	282.1	2	介以繁h[thiə]祉。（g= 幽部）	介 以 繁 祉	祉	h	thiə	g=幽部		14	0 0 0 1681	介 + 以 + 繁 + thiə
 6817	282	雝	282.1	1	既友烈g[khu]考	既 友 烈 考	考	g	khu			15	0 0 0 1680	既 + 友 + 烈 + khu
 6818	282	雝	282.1	2	亦友文h[mə]母。（h= 之部）	亦 友 文 母	母	h	mə	h=之部		16	0 0 0 1681	亦 + 友 + 文 + mə
+#
 6819	283	載見	283.1	1	載見辟a[hiuang]王	載 見 辟 王	王	a	hiuang			1	0 0 0 1682	載 + 見 + 辟 + hiuang
 6820	283	載見	283.1	2	曰求厥a[tjiang]章。	曰 求 厥 章	章	a	tjiang			2	0 0 0 1682	曰 + 求 + 厥 + tjiang
 6821	283	載見	283.1	1	龍旂陽a[jiang]陽	龍 旂 陽 陽	陽	a	jiang			3	0 0 0 1682	龍 + 旂 + 陽 + jiang
@@ -6730,6 +7015,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6830	283	載見	283.1	2	烈文辟公	烈 文 辟 公						12	0 0 0 0	烈 + 文 + 辟 + 公
 6831	283	載見	283.1	3	綏以多福	綏 以 多 福						13	0 0 0 0	綏 + 以 + 多 + 福
 6832	283	載見	283.1	4	俾緝熙于純c[kea]嘏。（鱼部）	俾 緝 熙 于 純 嘏	嘏	c	kea	鱼部		14	0 0 0 0 0 1684	俾 + 緝 + 熙 + 于 + 純 + kea
+#
 6833	284	有客	284.1	1	有客有客	有 客 有 客						1	0 0 0 0	有 + 客 + 有 + 客
 6834	284	有客	284.1	2	亦白其a[mea]馬。	亦 白 其 馬	馬	a	mea			2	0 0 0 1685	亦 + 白 + 其 + mea
 6835	284	有客	284.1	1	有萋有且	有 萋 有 且						3	0 0 0 0	有 + 萋 + 有 + 且
@@ -6742,6 +7028,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6842	284	有客	284.1	2	左右b[siuəi]綏之。	左 右 綏 之	綏	b	siuəi			10	0 0 1686 0	左 + 右 + siuəi + 之
 6843	284	有客	284.1	1	既有淫b[iuəi]威	既 有 淫 威	威	b	iuəi			11	0 0 0 1686	既 + 有 + 淫 + iuəi
 6844	284	有客	284.1	2	降福孔b[jiei]夷。（微脂合韵）	降 福 孔 夷	夷	b	jiei	微脂合韵		12	0 0 0 1686	降 + 福 + 孔 + jiei
+#
 6845	285	武	285.1	1	於皇武王	於 皇 武 王						1	0 0 0 0	於 + 皇 + 武 + 王
 6846	285	武	285.1	2	無競維烈。	無 競 維 烈						2	0 0 0 0	無 + 競 + 維 + 烈
 6847	285	武	285.1	1	允文文王	允 文 文 王						3	0 0 0 0	允 + 文 + 文 + 王
@@ -6750,6 +7037,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6850	285	武	285.1	2	勝殷遏劉	勝 殷 遏 劉						6	0 0 0 0	勝 + 殷 + 遏 + 劉
 6851	285	武	285.1	3	耆定爾功。	耆 定 爾 功						7	0 0 0 0	耆 + 定 + 爾 + 功
 6852	285	武	285.4	1	周頌閔予小子之什	周 頌 閔 予 小 子 之 什						1	0 0 0 0 0 0 0 0	周 + 頌 + 閔 + 予 + 小 + 子 + 之 + 什
+#
 6853	286	閔予小子	286.1	1	閔予小子	閔 予 小 子						1	0 0 0 0	閔 + 予 + 小 + 子
 6854	286	閔予小子	286.1	2	遭家不a[dzu]造	遭 家 不 造	造	a	dzu			2	0 0 0 1687	遭 + 家 + 不 + dzu
 6855	286	閔予小子	286.1	3	嬛嬛在a[kiuə]疚。	嬛 嬛 在 疚	疚	a	kiuə			3	0 0 0 1687	嬛 + 嬛 + 在 + kiuə
@@ -6761,6 +7049,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6861	286	閔予小子	286.1	2	夙夜b[kieng]敬止。（耕部）	夙 夜 敬 止	敬	b	kieng	耕部		9	0 0 1688 0	夙 + 夜 + kieng + 止
 6862	286	閔予小子	286.1	1	於乎皇c[hiuang]王	於 乎 皇 王	王	c	hiuang			10	0 0 0 1689	於 + 乎 + 皇 + hiuang
 6863	286	閔予小子	286.1	2	繼序思不c[miuang]忘。（阳部）	繼 序 思 不 忘	忘	c	miuang	阳部		11	0 0 0 0 1689	繼 + 序 + 思 + 不 + miuang
+#
 6864	287	訪落	287.1	1	訪予落a[tjiə]止	訪 予 落 止	止	a	tjiə			1	0 0 0 1690	訪 + 予 + 落 + tjiə
 6865	287	訪落	287.1	2	率時昭a[khu]考。（之幽合韵）	率 時 昭 考	考	a	khu	之幽合韵		2	0 0 0 1690	率 + 時 + 昭 + khu
 6866	287	訪落	287.1	1	於乎悠哉	於 乎 悠 哉						3	0 0 0 0	於 + 乎 + 悠 + 哉
@@ -6773,6 +7062,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6873	287	訪落	287.1	2	陟降厥c[kea]家。（鱼部）	陟 降 厥 家	家	c	kea	鱼部		10	0 0 0 1692	陟 + 降 + 厥 + kea
 6874	287	訪落	287.1	1	休矣皇考	休 矣 皇 考						11	0 0 0 0	休 + 矣 + 皇 + 考
 6875	287	訪落	287.1	2	以保明其身。	以 保 明 其 身						12	0 0 0 0 0	以 + 保 + 明 + 其 + 身
+#
 6876	288	敬之	288.1	1	敬a[tjiə]之	敬 之	之	a	tjiə			1	0 1693	敬 + tjiə
 6878	288	敬之	288.1	3	天維顯a[siə]思	天 維 顯 思	思	a	siə			3	0 0 0 1693	天 + 維 + 顯 + siə
 6879	288	敬之	288.1	4	命不易a[tzə]哉。	命 不 易 哉	哉	a	tzə			4	0 0 0 1693	命 + 不 + 易 + tzə
@@ -6785,6 +7075,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6886	288	敬之	288.1	2	學有緝熙于光b[myang]明。	學 有 緝 熙 于 光 明	明	b	myang			11	0 0 0 0 0 0 1694	學 + 有 + 緝 + 熙 + 于 + 光 + myang
 6887	288	敬之	288.1	1	佛時仔肩	佛 時 仔 肩						12	0 0 0 0	佛 + 時 + 仔 + 肩
 6888	288	敬之	288.1	2	示我顯德b[heang]行。（阳部）	示 我 顯 德 行	行	b	heang	阳部		13	0 0 0 0 1694	示 + 我 + 顯 + 德 + heang
+#
 6889	289	小毖	289.1	1	予其懲	予 其 懲						1	0 0 0	予 + 其 + 懲
 6890	289	小毖	289.1	2	而毖後患。	而 毖 後 患						2	0 0 0 0	而 + 毖 + 後 + 患
 6891	289	小毖	289.1	1	莫予荓蜂	莫 予 荓 蜂						3	0 0 0 0	莫 + 予 + 荓 + 蜂
@@ -6793,6 +7084,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6894	289	小毖	289.1	2	拚飛維a[nyu]鳥。	拚 飛 維 鳥	鳥	a	nyu			6	0 0 0 1695	拚 + 飛 + 維 + nyu
 6895	289	小毖	289.1	1	未堪家多難	未 堪 家 多 難						7	0 0 0 0 0	未 + 堪 + 家 + 多 + 難
 6896	289	小毖	289.1	2	予又集于a[lyu]蓼。（幽部）	予 又 集 于 蓼	蓼	a	lyu	幽部		8	0 0 0 0 1695	予 + 又 + 集 + 于 + lyu
+#
 6897	290	載芟	290.1	1	載芟載a[dzak]柞	載 芟 載 柞	柞	a	dzak			1	0 0 0 1696	載 + 芟 + 載 + dzak
 6898	290	載芟	290.1	2	其耕澤a[deak]澤。（铎部）	其 耕 澤 澤	澤	a	deak	铎部		2	0 0 0 1696	其 + 耕 + 澤 + deak
 6899	290	載芟	290.1	1	千耦其b[hiuən]耘	千 耦 其 耘	耘	b	hiuən			3	0 0 0 1697	千 + 耦 + 其 + hiuən
@@ -6824,6 +7116,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6925	290	載芟	290.1	1	匪且有且	匪 且 有 且						29	0 0 0 0	匪 + 且 + 有 + 且
 6926	290	載芟	290.1	2	匪今斯今	匪 今 斯 今						30	0 0 0 0	匪 + 今 + 斯 + 今
 6927	290	載芟	290.1	3	振古如茲。	振 古 如 茲						31	0 0 0 0	振 + 古 + 如 + 茲
+#
 6928	291	良耜	291.1	1	畟畟良a[ziə]耜	畟 畟 良 耜	耜	a	ziə			1	0 0 0 1705	畟 + 畟 + 良 + ziə
 6929	291	良耜	291.1	2	俶載南a[mə]畝。（之部）	俶 載 南 畝	畝	a	mə	之部		2	0 0 0 1705	俶 + 載 + 南 + mə
 6930	291	良耜	291.1	1	播厥百穀	播 厥 百 穀						3	0 0 0 0	播 + 厥 + 百 + 穀
@@ -6847,6 +7140,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6948	291	良耜	291.1	2	有捄其f[keok]角	有 捄 其 角	角	f	keok			21	0 0 0 1710	有 + 捄 + 其 + keok
 6949	291	良耜	291.1	3	以似以f[ziok]續。（屋部）	以 似 以 續	續	f	ziok	屋部		22	0 0 0 1710	以 + 似 + 以 + ziok
 6950	291	良耜	291.1	1	續古之人。	續 古 之 人						23	0 0 0 0	續 + 古 + 之 + 人
+#
 6951	292	絲衣	292.1	1	絲衣其a[phiu]紑	絲 衣 其 紑	紑	a	phiu			1	0 0 0 1711	絲 + 衣 + 其 + phiu
 6952	292	絲衣	292.1	2	載弁俅a[giu]俅。	載 弁 俅 俅	俅	a	giu			2	0 0 0 1711	載 + 弁 + 俅 + giu
 6953	292	絲衣	292.1	1	自堂徂a[kiə]基	自 堂 徂 基	基	a	kiə			3	0 0 0 1711	自 + 堂 + 徂 + kiə
@@ -6856,6 +7150,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6957	292	絲衣	292.1	2	旨酒思a[njiu]柔。	旨 酒 思 柔	柔	a	njiu			7	0 0 0 1711	旨 + 酒 + 思 + njiu
 6958	292	絲衣	292.1	1	不吳不敖	不 吳 不 敖						8	0 0 0 0	不 + 吳 + 不 + 敖
 6959	292	絲衣	292.1	2	胡考之a[xiu]休。（之幽合韵）	胡 考 之 休	休	a	xiu	之幽合韵		9	0 0 0 1711	胡 + 考 + 之 + xiu
+#
 6960	293	酌	293.1	1	於鑠王師	於 鑠 王 師						1	0 0 0 0	於 + 鑠 + 王 + 師
 6961	293	酌	293.1	2	遵養時晦。	遵 養 時 晦						2	0 0 0 0	遵 + 養 + 時 + 晦
 6962	293	酌	293.1	1	時純熙矣	時 純 熙 矣						3	0 0 0 0	時 + 純 + 熙 + 矣
@@ -6864,6 +7159,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6965	293	酌	293.1	2	蹻蹻王之造。	蹻 蹻 王 之 造						6	0 0 0 0 0	蹻 + 蹻 + 王 + 之 + 造
 6966	293	酌	293.1	1	載用有嗣	載 用 有 嗣						7	0 0 0 0	載 + 用 + 有 + 嗣
 6967	293	酌	293.1	2	實維爾公允師。	實 維 爾 公 允 師						8	0 0 0 0 0 0	實 + 維 + 爾 + 公 + 允 + 師
+#
 6968	294	桓	294.1	1	綏萬邦	綏 萬 邦						1	0 0 0	綏 + 萬 + 邦
 6969	294	桓	294.1	2	婁豐年。	婁 豐 年						2	0 0 0	婁 + 豐 + 年
 6970	294	桓	294.1	1	天命匪解。	天 命 匪 解						3	0 0 0 0	天 + 命 + 匪 + 解
@@ -6873,12 +7169,14 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6974	294	桓	294.1	2	克定厥家。	克 定 厥 家						7	0 0 0 0	克 + 定 + 厥 + 家
 6975	294	桓	294.1	1	於昭于天。	於 昭 于 天						8	0 0 0 0	於 + 昭 + 于 + 天
 6976	294	桓	294.1	1	皇以閒之。	皇 以 閒 之						9	0 0 0 0	皇 + 以 + 閒 + 之
+#
 6977	295	賚	295.1	1	文王既勤a[tjiə]止	文 王 既 勤 止	止	a	tjiə			1	0 0 0 0 1712	文 + 王 + 既 + 勤 + tjiə
 6978	295	賚	295.1	2	我應受a[tjiə]之	我 應 受 之	之	a	tjiə			2	0 0 0 1712	我 + 應 + 受 + tjiə
 6979	295	賚	295.1	3	敷時繹a[siə]思。	敷 時 繹 思	思	a	siə			3	0 0 0 1712	敷 + 時 + 繹 + siə
 6980	295	賚	295.1	1	我徂維求定	我 徂 維 求 定						4	0 0 0 0 0	我 + 徂 + 維 + 求 + 定
 6981	295	賚	295.1	2	時周之命	時 周 之 命						5	0 0 0 0	時 + 周 + 之 + 命
 6982	295	賚	295.1	3	於繹a[siə]思。（之部）	於 繹 思	思	a	siə	之部		6	0 0 1712	於 + 繹 + siə
+#
 6983	296	般	296.1	1	於皇時周。	於 皇 時 周						1	0 0 0 0	於 + 皇 + 時 + 周
 6984	296	般	296.1	1	陟其高山	陟 其 高 山						2	0 0 0 0	陟 + 其 + 高 + 山
 6985	296	般	296.1	2	嶞山喬嶽	嶞 山 喬 嶽						3	0 0 0 0	嶞 + 山 + 喬 + 嶽
@@ -6887,6 +7185,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 6988	296	般	296.1	2	裒時之對	裒 時 之 對						6	0 0 0 0	裒 + 時 + 之 + 對
 6989	296	般	296.1	3	時周之命。	時 周 之 命						7	0 0 0 0	時 + 周 + 之 + 命
 6990	296	般	296.4	1	魯頌	魯 頌						1	0 0	魯 + 頌
+#
 6991	297	駉	297.1	1	駉駉牡a[mea]馬	駉 駉 牡 馬	馬	a	mea			1	0 0 0 1713	駉 + 駉 + 牡 + mea
 6992	297	駉	297.1	2	在坰之a[jya]野	在 坰 之 野	野	a	jya			2	0 0 0 1713	在 + 坰 + 之 + jya
 6993	297	駉	297.1	3	薄言駉a[tjya]者。（鱼部）	薄 言 駉 者	者	a	tjya	鱼部		3	0 0 0 1713	薄 + 言 + 駉 + tjya
@@ -6919,6 +7218,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7020	297	駉	297.4	3	以車祛a[khia]祛。	以 車 祛 祛	祛	a	khia			6	0 0 0 1719	以 + 車 + 祛 + khia
 7021	297	駉	297.4	1	思無a[zya]邪	思 無 邪	邪	a	zya			7	0 0 1719	思 + 無 + zya
 7022	297	駉	297.4	2	思馬斯a[dza]徂。（鱼部）	思 馬 斯 徂	徂	a	dza	鱼部		8	0 0 0 1719	思 + 馬 + 斯 + dza
+#
 7023	298	有駜	298.1	1	有駜有駜	有 駜 有 駜						1	0 0 0 0	有 + 駜 + 有 + 駜
 7024	298	有駜	298.1	2	駜彼乘a[huang]黃。	駜 彼 乘 黃	黃	a	huang			2	0 0 0 1720	駜 + 彼 + 乘 + huang
 7025	298	有駜	298.1	1	夙夜在公	夙 夜 在 公						3	0 0 0 0	夙 + 夜 + 在 + 公
@@ -6946,6 +7246,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7047	298	有駜	298.3	1	君子有穀	君 子 有 穀						7	0 0 0 0	君 + 子 + 有 + 穀
 7048	298	有駜	298.3	2	詒孫b[tziə]子。（之部）	詒 孫 子	子	b	tziə	之部		8	0 0 1727	詒 + 孫 + tziə
 7049	298	有駜	298.3	1	于胥C[lôk]樂兮。（药部）	于 胥 樂 兮	樂	C	lôk	药部		9	0 0 1728 0	于 + 胥 + lôk + 兮
+#
 7050	299	泮水	299.1	1	思樂泮水	思 樂 泮 水						1	0 0 0 0	思 + 樂 + 泮 + 水
 7051	299	泮水	299.1	2	薄采其a[giən]芹。	薄 采 其 芹	芹	a	giən			2	0 0 0 1729	薄 + 采 + 其 + giən
 7052	299	泮水	299.1	1	魯侯戾止	魯 侯 戾 止						3	0 0 0 0	魯 + 侯 + 戾 + 止
@@ -7009,6 +7310,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7111	299	泮水	299.8	2	來獻其a[thiəm]琛	來 獻 其 琛	琛	a	thiəm			6	0 0 0 1742	來 + 獻 + 其 + thiəm
 7112	299	泮水	299.8	3	元龜象齒	元 龜 象 齒						7	0 0 0 0	元 + 龜 + 象 + 齒
 7113	299	泮水	299.8	4	大賂南a[kiəm]金。（侵部）	大 賂 南 金	金	a	kiəm	侵部		8	0 0 0 1742	大 + 賂 + 南 + kiəm
+#
 7114	300	閟宮	300.1	1	閟宮有侐	閟 宮 有 侐						1	0 0 0 0	閟 + 宮 + 有 + 侐
 7115	300	閟宮	300.1	2	實實枚a[muəi]枚。	實 實 枚 枚	枚	a	muəi			2	0 0 0 1743	實 + 實 + 枚 + muəi
 7116	300	閟宮	300.1	1	赫赫姜嫄	赫 赫 姜 嫄						3	0 0 0 0	赫 + 赫 + 姜 + 嫄
@@ -7130,6 +7432,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7232	300	閟宮	300.9	1	孔曼且a[zjyak]碩	孔 曼 且 碩	碩	a	zjyak			9	0 0 0 1765	孔 + 曼 + 且 + zjyak
 7233	300	閟宮	300.9	2	萬民是a[njiak]若。（铎部）	萬 民 是 若	若	a	njiak	铎部		10	0 0 0 1765	萬 + 民 + 是 + njiak
 7234	300	閟宮	300.12	1	商頌	商 頌						1	0 0	商 + 頌
+#
 7235	301	那	301.1	1	a[iai]猗與	猗 與	猗	a	iai			1	1766 0	iai + 與
 7236	301	那	301.1	2	a[nai]那與。29	那 與	那	a	nai			2	1766 0	nai + 與
 7237	301	那	301.1	1	置我a[ka]鼓	置 我 鼓	鼓	a	ka			3	0 0 1766	置 + 我 + ka
@@ -7153,6 +7456,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7255	301	那	301.1	2	執事有c[khak]恪。（铎部）	執 事 有 恪	恪	c	khak	铎部		21	0 0 0 1768	執 + 事 + 有 + khak
 7256	301	那	301.1	1	顧予烝d[zjiang]嘗	顧 予 烝 嘗	嘗	d	zjiang			22	0 0 0 1769	顧 + 予 + 烝 + zjiang
 7257	301	那	301.1	2	湯孫之d[tziang]將。（阳部）	湯 孫 之 將	將	d	tziang	阳部		23	0 0 0 1769	湯 + 孫 + 之 + tziang
+#
 7258	302	烈祖	302.1	1	嗟嗟烈a[tza]祖	嗟 嗟 烈 祖	祖	a	tza			1	0 0 0 1770	嗟 + 嗟 + 烈 + tza
 7259	302	烈祖	302.1	2	有秩斯a[ha]祜。	有 秩 斯 祜	祜	a	ha			2	0 0 0 1770	有 + 秩 + 斯 + ha
 7260	302	烈祖	302.1	1	申錫無疆	申 錫 無 疆						3	0 0 0 0	申 + 錫 + 無 + 疆
@@ -7175,6 +7479,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7277	302	烈祖	302.1	2	降福無c[kiang]疆。	降 福 無 疆	疆	c	kiang			20	0 0 0 1772	降 + 福 + 無 + kiang
 7278	302	烈祖	302.1	1	顧予烝c[zjiang]嘗	顧 予 烝 嘗	嘗	c	zjiang			21	0 0 0 1772	顧 + 予 + 烝 + zjiang
 7279	302	烈祖	302.1	2	湯孫之c[tziang]將。（阳部）	湯 孫 之 將	將	c	tziang	阳部		22	0 0 0 1772	湯 + 孫 + 之 + tziang
+#
 7280	303	玄鳥	303.1	1	天命玄鳥	天 命 玄 鳥						1	0 0 0 0	天 + 命 + 玄 + 鳥
 7281	303	玄鳥	303.1	2	降而生a[sjiang]商。	降 而 生 商	商	a	sjiang			2	0 0 0 1773	降 + 而 + 生 + sjiang
 7282	303	玄鳥	303.1	1	宅殷土芒a[mang]芒。	宅 殷 土 芒 芒	芒	a	mang			3	0 0 0 0 1773	宅 + 殷 + 土 + 芒 + mang
@@ -7197,6 +7502,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7299	303	玄鳥	303.1	1	景員維e[hai]河。	景 員 維 河	河	e	hai			20	0 0 0 1777	景 + 員 + 維 + hai
 7300	303	玄鳥	303.1	1	殷受命咸e[ngiai]宜	殷 受 命 咸 宜	宜	e	ngiai			21	0 0 0 0 1777	殷 + 受 + 命 + 咸 + ngiai
 7301	303	玄鳥	303.1	2	百祿是e[hai]何。（脂歌合韵）	百 祿 是 何	何	e	hai	脂歌合韵		22	0 0 0 1777	百 + 祿 + 是 + hai
+#
 7302	304	長發	304.1	1	濬哲維a[sjiang]商	濬 哲 維 商	商	a	sjiang			1	0 0 0 1778	濬 + 哲 + 維 + sjiang
 7303	304	長發	304.1	2	長發其a[ziang]祥。	長 發 其 祥	祥	a	ziang			2	0 0 0 1778	長 + 發 + 其 + ziang
 7304	304	長發	304.1	1	洪水芒a[mang]芒	洪 水 芒 芒	芒	a	mang			3	0 0 0 1778	洪 + 水 + 芒 + mang
@@ -7248,6 +7554,7 @@ ID	POEM_NUMBER	POEM_TITLE	STANZA	LINE_NUMBER	LINE_IN_SOURCE	LINE	RHYMEWORD	RHYME
 7350	304	長發	304.7	2	降于鄉b[dzhiə]士。（之部）	降 于 鄉 士	士	b	dzhiə	之部		4	0 0 0 1785	降 + 于 + 鄉 + dzhiə
 7351	304	長發	304.7	1	實維阿c[heang]衡	實 維 阿 衡	衡	c	heang			5	0 0 0 1786	實 + 維 + 阿 + heang
 7352	304	長發	304.7	2	實左右商c[hiuang]王。（阳部）	實 左 右 商 王	王	c	hiuang	阳部		6	0 0 0 0 1786	實 + 左 + 右 + 商 + hiuang
+#
 7353	305	殷武	305.1	1	撻彼殷a[miua]武	撻 彼 殷 武	武	a	miua			1	0 0 0 1787	撻 + 彼 + 殷 + miua
 7354	305	殷武	305.1	2	奮伐荊a[tshia]楚。	奮 伐 荊 楚	楚	a	tshia			2	0 0 0 1787	奮 + 伐 + 荊 + tshia
 7355	305	殷武	305.1	1	深入其a[tzhia]阻	深 入 其 阻	阻	a	tzhia			3	0 0 0 1787	深 + 入 + 其 + tzhia

@@ -1,0 +1,12 @@
+ID	POEM_NUMBER	POEM	STANZA	LINE_ORDER	LINE_IN_SOURCE	LINE	RHYMEIDS	RHYME	ALIGNMENT	TRANSLATION
+1	1	說苑-建本	1	1	夫人君無諫臣則失政，	夫 + 人君 + 無 + 諫 + 臣 + 則 + 失 + 政	0 0 0 0 0 0 0 1	A	夫 + 人君 + 無 + 諫 + 臣 + 則 + 失 + t e ŋ h/²	If a lord has no ministers to admonish him, then he will go astray in governing.
+2	1	說苑-建本	1	2	士無教友則失聽。	士 + 無 + 教 + 交 + 則 + 失 + 德	0 0 0 0 0 0 1	A	士 + 無 + 教 + 交 + 則 + 失 + lh ê ŋ h/²	If a gentleman has no friends to instruct him, then he will go astray when listening to others.
+3	1	說苑-建本	1	3	狂馬不釋其策， 	狂 + 馬 + 不 + 釋 + 其 + 策	0 0 0 0 0 2	B	狂 + 馬 + 不 + 釋 + 其 + tsh r ê k	On an unbroken horse, you don’t let go of the switch;
+4	1	說苑-建本	1	4	操弓不反於檠。	操 + 弓 + 不 + 返 + 於 + 檠	0 0 0 0 0 1	A	操 + 弓 + 不 + 返 + 於 + ɡ r e ŋ	when handling a bow, you don’t return it to its box.
+5	1	說苑-建本	1	5	木受繩則直， 	木 + 受 + 繩 + 則 + 直	0 0 0 0 2	B	木 + 受 + 繩 + 則 + d r ǝ k	Wood is straightened when it has the plumb-line applied to it;
+6	1	說苑-建本	1	6	人受諫則聖。	人 + 受 + 諫 + 則 + 聖	0 0 0 0 1	A	人 + 受 + 諫 + 則 + lh e ŋ h/²	Men become sages when they receive admonitions.
+7	1	說苑-建本	1	7	受學重問，	受 + 學 + 重 + 問	0 0 0 0		受 + 學 + 重 + 問	Who, of those that received teachings and enquired repeatedly, 
+8	1	說苑-建本	1	8	孰不順成。	孰 + 不 + 順 + 成	0 0 0 1	A	孰 + 不 + 順 + d e ŋ	did not arrive at perfection smoothly?
+9	1	說苑-建本	1	9	毀人惡士，	毀 + 仁 + 惡 + 士	0 0 0 0		毀 + 仁 + 惡 + 士	He who denigrates others and slanders gentlemen 
+10	1	說苑-建本	1	10	且近於刑。	且 + 近 + 於 + 刑	0 0 0 1	A	且 + 近 + 於 + ɡ ê ŋ	will be a step away from punishment.
+11	1	說苑-建本	1	11	君子不可以不學。	君子 + 不 + 可以 + 不 + 學	0 0 0 0 0 0		君子 + 不 + 可以 + 不 + 學	The noble man has to study.

@@ -27,7 +27,7 @@ class Poems(Alignments):
         print('Rhyme words: {0}'.format(sum([len(self.msa[self._ref][key]['ID']) for key
             in self.msa[self._ref]])))
         print('Rhymes:      {0}'.format(len(self.msa[self._ref])))
-        print('Words:       {0}'.format(sum([len(self[idx, 'line']) for idx in
+        print('Words:       {0}'.format(sum([len(self[idx, 'line'].n) for idx in
             self])))
     
     def get_rhyme_network(self, ref='rhymeids'):
