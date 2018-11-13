@@ -13,12 +13,21 @@ def poepy_path(*comps):
 class Poems(Alignments):
 
     def __init__(self, infile, ref='rhymeids', line='line', poem='poem',
-            stanza='stanza', alignment='alignment', fuzzy=True,
+            stanza='stanza', alignment='alignment', 
+            line_in_source='line_in_source',
             conf=poepy_path('conf', 'poems.rc'), **keywords):
 
+        self._stanza = stanza
+        self._ref = ref
+        self._line = line
+        self._poem = poem
+        self._alignment = alignment
+        self._mode = 'fuzzy'
+        self._transcription = line_in_source
+
         Alignments.__init__(self, infile, col=poem, row=stanza, conf=conf,
-                segments=line, ref=ref, alignment=alignment, fuzzy=fuzzy,
-                transcription='line_in_source')
+                segments=line, ref=ref, alignment=alignment, fuzzy=True,
+                transcription=line_in_source)
 
     def stats(self):
         print('Poems:       {0}'.format(len(self.cols)))
@@ -61,27 +70,34 @@ class Poems(Alignments):
             self.comps[i+1] = list(comp)
 
     def pprint(self, *stanzas):
-        
+        rhymeids = []
         for stanza in stanzas:
-            table = []
+            idxs = sorted(
+                    self.get_list(row=stanza, flat=True),
+                    key=lambda x: self[x, 'line_order']
+                    )
+            for rhymeid in [self[idx, 'rhymeids'] for idx in idxs]:
+                rhymeids += [x for x in rhymeid if x]
+        rhymes = sorted(set(rhymeids), key=lambda x: rhymeids.index(x))
+        table = []
+        for stanza in stanzas:
             idxs = sorted(
                     self.get_list(row=stanza, flat=True),
                     key=lambda x: self[x, 'line_order'])
-            rhymeids = []
-            for rhymeid in [self[idx, 'rhymeids'] for idx in idxs]:
-                rhymeids += [x for x in rhymeid if x]
-            rhymes = sorted(set(rhymeids), key=lambda x: rhymeids.index(x))
             for idx in idxs:
-                row = [idx, ' '.join([str(x) for x in self[idx, 'line'].n])]
+                row = []
+                line = [str(x) for x in self[idx, 'line'].n]
                 for rhyme in rhymes:
                     if rhyme in self[idx, 'rhymeids']:
-                        row += [self[idx, 'alignment'].n[self[idx,
-                            'rhymeids'].index(rhyme)]]
+                        rindex = self[idx, 'rhymeids'].index(rhyme)
+                        row += [self[idx, 'alignment'].n[rindex]]
+                        line[rindex] = '*'+line[rindex]+'*'
                     else:
                         row += ['']
-                table += [row]
-            header = ['ID', 'LINE'] + ['R:{0}'.format(x) for x in rhymes]
-            table = [header] + table
-            print('Stanza', stanza)
-            print(tabulate(table, headers='firstrow', tablefmt='pipe'))
+                table += [[idx, stanza, ' '.join(line)]+row]
+            table += [len(table[-1]) * ['']]
+            
+        header = ['ID', 'STANZA', 'LINE'] + ['R:{0}'.format(x) for x in rhymes]
+        table = [header] + table[:-1]
+        print(tabulate(table, headers='firstrow', tablefmt='pipe'))
             
