@@ -1,4 +1,5 @@
 # Basic namespaces
+poem	str	poem,poem_title
 counterpart	str	counterpart
 doculect	str	language,doculect,dialect,taxon,taxa
 concept	str	gloss,concept,concepts
