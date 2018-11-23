@@ -10,15 +10,43 @@ from sinopy.sinopy import is_chinese
 from clldutils.text import strip_chars
 from lingpy.convert.html import colorRange, tokens2html
 from lingpy.evaluate.acd import _get_bcubed_score, _format_results
+from lingpy import log
 
 def poepy_path(*comps):
     return Path(__file__).parent.joinpath(*comps).as_posix()
 
 def parse_line(line, rhymes):
-    out, alms, nline = [], [], []
+    """Parse a line in the library and return the content."""
+    out, alms, nline, chords = [], [], [], []
     mr = max(rhymes.values())+1
     for i, word in enumerate(line):
+
+        # Check for chords in the data
+        if word.count('/') > 1:
+            chord, these_chords, syllables = 0, [], []
+            for char in word:
+                if char == '/' and chord:
+                    chord -= 1
+                elif char == '/':
+                    these_chords += ['']
+                    syllables += ['']
+                    chord += 1
+                elif chord and char != '/':
+                    these_chords[-1] += char
+                else:
+                    if not syllables:
+                        syllables += ['']
+                        if not these_chords:
+                            these_chords += ['_']
+                    syllables[-1] += char
+
+            chords += [' '.join(these_chords)]
+            word = ' '.join(syllables)
+        else:
+            chords += ['_']
+
         word_ = strip_chars(',.—!?¿¡;«»', word).lower()
+
         if '[' in word and ']' in word:
             rhyme = word_[word_.index('[')+1:word_.index(']')]
             word = word.replace('['+rhyme+']', '')
@@ -37,15 +65,14 @@ def parse_line(line, rhymes):
             out += [0]
             alms += [word_]
             nline += [word]
-    return out, alms, nline
-
+    return out, alms, nline, chords
 
 def parser(filename):
     
     text = read_text_file(filename, normalize='NFD', lines=True)
     data = {0: 
             ['poem', 'poem_number', 'stanza', 'line_in_source', 'line', 
-                'line_order', 'rhymeids', 'alignment', 'refrain']}
+                'line_order', 'rhymeids', 'alignment', 'refrain', 'chords']}
     meta, M = {}, {}
     number, stanza, idx, order = 0, 0, 1, 1
     atzone = False
@@ -62,7 +89,8 @@ def parser(filename):
             if atzone:
                 number += 1
                 atzone = False
-                M[meta.get('title', 'poem-{0}'.format(number))] = {k: v for k, v in meta.items()}
+                M[meta.get('title', 'poem-{0}'.format(number))] = {
+                        k: v for k, v in meta.items()}
                 rhymes = {0: 0}
         else:
             refrain = ''
@@ -84,7 +112,7 @@ def parser(filename):
                         nline[-1] += char
             else:
                 nline = line.strip().split()
-            rhymeids, alignment, nline = parse_line(nline, rhymes) 
+            rhymeids, alignment, nline, chords = parse_line(nline, rhymes)
             data[idx] = [
                     meta.get('title', 'poem-{0}'.format(number)),
                     str(number),
@@ -94,7 +122,8 @@ def parser(filename):
                     order,
                     rhymeids,
                     ' + '.join(alignment),
-                    refrain
+                    refrain,
+                    chords
                     ]
             idx += 1
             order += 1
@@ -161,7 +190,7 @@ class Poems(Alignments):
         for i, comp in enumerate(nx.connected_components(self.G)):
             self.comps[i+1] = list(comp)
 
-    def pprint(self, *stanzas):
+    def pprint(self, *stanzas, chords=False, tablefmt='pipe'):
         rhymeids = []
         if stanzas[0] == '*': stanzas = self.rows
         for stanza in stanzas:
@@ -178,6 +207,24 @@ class Poems(Alignments):
                     self.get_list(row=stanza, flat=True),
                     key=lambda x: self[x, 'line_order'])
             for idx in idxs:
+                if chords:
+                    ctext = []
+                    for i, (word, chord) in enumerate(zip(self[idx, 'line'].n, self[idx,
+                        'chords'])):
+                        if self[idx, 'rhymeids'][i]:
+                            if len(chord.split()) > 1:
+                                rhyming = 1
+                            else:
+                                rhyming = 2
+                        else:
+                            rhyming = 0
+                        ctext += [[]]
+                        for syllable, schord in zip(word, chord.split()):
+                            fmt = '{0:'+str(len(str(syllable))+rhyming)+'}'
+                            ctext[-1] += [fmt.format(schord).replace('_', ' ')]
+                        ctext[-1] = ' '.join(ctext[-1])
+                    table += [['', '', ' '.join(ctext)]]
+
                 row = []
                 line = [str(x) for x in self[idx, 'line'].n]
                 for rhyme in rhymes:
@@ -195,9 +242,59 @@ class Poems(Alignments):
             
         header = ['ID', 'STANZA', 'LINE'] + ['R:{0}'.format(x) for x in rhymes]
         table = [header] + table[:-1]
-        print(tabulate(table, headers='firstrow', tablefmt='pipe'))
-            
-    def html(self, *stanzas, filename='output.html', alignment=False):
+        print(tabulate(table, headers='firstrow', tablefmt=tablefmt))
+    
+    def songbook(self, *poems, filename='poems.tex'):
+        """Export songs to latex songbook"""
+        
+        text = ""
+        meta = self._meta.get('poems', {})
+        if poems[0] == '*':
+            poems = self.cols
+        for poem in poems:
+            log.info('analyzing poem'+poem)
+            idxs = sorted(self.get_list(col=poem, flat=True), 
+                    key=lambda x: (self[x, 'stanza'], self[x, 'line_order']))
+            text += r'\begin{{song}}{{{title}}}{{}}{{}}{{{author}}}{{}}{{}}'.format(
+                    title = meta.get(poem, {}).get('title'),
+                    author = meta.get(poem, {}).get('author'))+'\n'
+            stanza = ''
+            for idx in idxs:
+                new_stanza, refrain = self[idx, 'stanza'], self[idx, 'refrain']
+                if new_stanza != stanza:
+                    if stanza:
+                        if refrain:
+                            text += r'\end{SBChorus}'+'\n'
+                        else:
+                            text += r'\end{SBVerse}'+'\n'
+                    if refrain:
+                        text += r'\begin{SBChorus}'+'\n'
+                    else:
+                        text += r'\begin{SBVerse}'+'\n'
+                    stanza = new_stanza
+                line = []
+                for word, chords in zip(self[idx, 'line'].n, self[idx, 'chords']):
+                    small_line = []
+                    for syl, chord in zip(word, chords.split()):
+                        syl = syl.replace('_', ' ')
+                        if chord.strip('_').strip():
+                            small_line += [r'\Ch{'+chord+'}{'+syl+'}']
+                        else:
+                            small_line += [syl]
+                    line += ['-'.join(small_line)]
+                text += ' '.join(line)+'\n\n'
+            if refrain:
+                text += r'\end{SBChorus}'+'\n'
+            else:
+                text += r'\end{SBVerse}'+'\n'
+            text += r'\end{song}'+'\n\n'
+        with open(filename, 'w') as f:
+            f.write(text)
+            log.info('wrote file {0}'.format(filename))
+
+
+    def html(self, *stanzas, filename='output.html', alignment=False,
+            chords=False):
         rhymeids = []
         if stanzas[0] == '*': stanzas = self.rows
         for stanza in stanzas:
@@ -223,6 +320,9 @@ class Poems(Alignments):
                     self.get_list(row=stanza, flat=True),
                     key=lambda x: self[x, 'line_order'])
             for idx in idxs:
+                if chords:
+                    table += [['<span>{0}</span>'.format(
+                        chord) for chord in self[idx, 'chords']]]
                 row = []
                 line = [str(x) for x in self[idx, 'line'].n]
                 for color, rhyme in zip(colors, rhymes):
