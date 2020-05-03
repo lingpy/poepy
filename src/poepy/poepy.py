@@ -6,7 +6,7 @@ from tqdm import tqdm
 from itertools import combinations
 from tabulate import tabulate
 from lingpy.util import read_text_file
-from sinopy.sinopy import is_chinese
+from sinopy.util import is_chinese
 from clldutils.text import strip_chars
 from lingpy.convert.html import colorRange, tokens2html
 from lingpy.evaluate.acd import _get_bcubed_score, _format_results
@@ -70,6 +70,7 @@ def parse_line(line, rhymes):
 def parser(filename):
     
     text = read_text_file(filename, normalize='NFD', lines=True)
+    comment = '#'
     data = {0: 
             ['poem', 'poem_number', 'stanza', 'line_in_source', 'line', 
                 'line_order', 'rhymeids', 'alignment', 'refrain', 'chords']}
@@ -92,7 +93,12 @@ def parser(filename):
                 M[meta.get('title', 'poem-{0}'.format(number))] = {
                         k: v for k, v in meta.items()}
                 rhymes = {0: 0}
+        elif line.startswith('[') and line.endswith(']'):
+            pass
         else:
+            if comment in line:
+                line = line[line.index(comment):]
+            
             refrain = ''
             if line.startswith('  '):
                 refrain = 'R'
@@ -183,6 +189,22 @@ class Poems(Alignments):
                     'stanza']])
         self.G = G
 
+    def naive_rhyme_detection(self, stanzas, threshold=0.5):
+        
+        if stanzas[0] == '*':
+            stanzas = self.rows
+        for stanza in stanzas:
+            idxs = sorted(self.get_list(row=stanza, flat=True), key=lambda x:
+                    self[x, 'line_order'])
+            matrix = [[0 for x in idxs] for y in idxs]
+            for (i, idxA), (j, idxB) in combinations(enumerate(idxs), r=2):
+                matrix[i][j] = matrix[j][i] = edit_dist(
+                        self[idxA, self._line],
+                        self[idxB, self._line],
+                        distance=True)
+            clusters = infomap_clustering(threshold, matrix, range(len(idxs)),
+                    revert=True)
+
     def get_connected_components(self):
         if not hasattr(self, 'G'):
             raise ValueError('compute the rhyme network first')
@@ -258,18 +280,20 @@ class Poems(Alignments):
             text += r'\begin{{song}}{{{title}}}{{}}{{}}{{{author}}}{{}}{{}}'.format(
                     title = meta.get(poem, {}).get('title'),
                     author = meta.get(poem, {}).get('author'))+'\n'
-            stanza = ''
+            stanza, before = '', ''
             for idx in idxs:
                 new_stanza, refrain = self[idx, 'stanza'], self[idx, 'refrain']
                 if new_stanza != stanza:
-                    if stanza:
-                        if refrain:
-                            text += r'\end{SBChorus}'+'\n'
-                        else:
-                            text += r'\end{SBVerse}'+'\n'
+                    
+                    if before == 'verse':
+                        text += r'\end{SBVerse}'+'\n'
+                    elif before == 'refrain':
+                        text += r'\end{SBChorus}'+'\n'
                     if refrain:
                         text += r'\begin{SBChorus}'+'\n'
+                        before = 'refrain'
                     else:
+                        before = 'verse'
                         text += r'\begin{SBVerse}'+'\n'
                     stanza = new_stanza
                 line = []
@@ -419,6 +443,53 @@ class Poems(Alignments):
             sum(f) / len(f)))
         print(len(p), self.height, other.height)
         return diffs
+
+    def text(self, filename, poem):
+        
+        base = ''
+        idxs = self.get_list(col=poem)
+        for key, val in self._meta['poems'][poem].items():
+            base += '@'+key.upper()+': '+val+'\n'
+
+        _rhymes = 'abcdefghijklmnopqrstuvwxyz'
+        rhymes = list(_rhymes)
+        rhymes += list(_rhymes.upper())
+        rhymes += [a+a for a in _rhymes]
+        rhymes += [a+a for a in _rhymes.upper()]
+        rhymes += [a+a+a for a in _rhymes]
+        rhymes += [a+a+a for a in _rhymes.upper()]
+
+        rhymeids = sorted(self.get_etymdict(ref='rhymeids'))[1:]
+        
+        stanza = ''
+        for idx in idxs:
+            line = ''
+            current_stanza = self[idx, 'stanza']
+            if current_stanza != stanza:
+                stanza = current_stanza
+                base += '\n'
+            for i, (word, rhyme) in enumerate(zip(
+                self[idx, 'line'].n,
+                self[idx, 'rhymeids'])):
+                if rhyme:
+                    # get the rhyme number
+                    try:
+                        rhyme = rhymes[rhymeids.index(rhyme)]
+                    except IndexError:
+                        rhyme = str(rhyme)
+                    rhyme = '['+rhyme+']'
+                else:
+                    rhyme = ''
+                line += ' '+rhyme+str(word)
+            if self[idx, 'refrain']:
+                line = ' '+line+'\n'
+            else:
+                line = line.strip()+'\n'
+            base += line
+        with open(filename, 'w') as f:
+            f.write(base)
+                
+        
 
 
 

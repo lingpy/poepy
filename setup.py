@@ -17,12 +17,12 @@ setup(
         license="GPL",
         include_package_data=True,
         install_requires=['lingpy'],
+        extras_require={
+            "test": ['pytest', 'pytest-coverage']
+            },
         url='https://github.com/lingpy/poepy',
         long_description=codecs.open('README.md', 'r', 'utf-8').read(),
         long_description_content_type='text/markdown',
-        #entry_points={
-        #    'console_scripts': ['sinopy=sinopy.cli:main'],
-        #},
         author='Johann-Mattis List',
         author_email='list@shh.mpg.de',
         keywords='Chinese linguistics, historical linguistics, computer-assisted language comparison'
