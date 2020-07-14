@@ -1,5 +1,5 @@
-import pytest
 from poepy.poem import *
+
 
 def test_parse_word():
     w, r, s = parse_word('[a]apfel[abc/blyten]lüten!')
@@ -30,4 +30,3 @@ def test_parse_word():
     assert poem.author == 'Tester'
     assert poem.meta['freizeit'] == 'no'
     assert poem.year == 'unknown'
-

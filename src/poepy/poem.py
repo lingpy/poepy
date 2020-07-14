@@ -4,6 +4,7 @@ Parser for basic poetry format.
 from collections import OrderedDict
 from poepy.data import STOPS
 
+
 def parse_word(text, stops=STOPS):
     """Extract rhyme information from one word."""
     in_bracket, in_phonetic = False, False
