@@ -5,7 +5,7 @@ import codecs
 setup(
     name='poepy',
     description="A Python library for handling annotated rhymes.",
-    version='0.1.0',
+    version='0.2.0',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     zip_safe=False,
